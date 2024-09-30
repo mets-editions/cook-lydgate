@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="3.3.0" xml:id="Cook-Lydgate-11-Lansdowne-Tnotes-tei">
+    <teiHeader>
+  <fileDesc>
+ <titleStmt><title>Textual Notes to Dance of Death: B Version (Lansdowne)</title><author>Cook, Megan L.</author><author>Strakhov, Elizaveta</author><sponsor>The University of Rochester</sponsor>
+ <sponsor>TEAMS: Teaching Association for Medieval Studies</sponsor>
+ <funder>National Endowment for the Humanities</funder>
+ <funder>The University of Rochester</funder>
+ <funder>TEAMS: Teaching Association for Medieval Studies</funder><respStmt><persName>Briant, Katherine</persName><resp from="2018-02" to="2018-05">Ensured adherence to METS Style Guide</resp><resp from="2018-02" to="2018-05">Entered corrections for print edition</resp><resp from="2018-02" to="2018-05">Reviewed transcription of base manuscript or early print witness</resp></respStmt><respStmt><persName>Delcourt, Steffi</persName><resp from="2023-02" to="2024-05">Audited documents prior to print/export</resp><resp from="2024-05" to="2024-06">Encoded TEI</resp></respStmt><respStmt><persName>Kephart, Daniel</persName><resp from="2024-02" to="2024-02">Collected metadata</resp><resp from="2024-07" to="2024-07">Uploaded / Published digital edition</resp><resp from="2024-05" to="2024-05">Audited documents prior to print/export</resp></respStmt><respStmt><persName>Norris, James</persName><resp from="2024-03" to="2024-05">Collected metadata</resp><resp from="2024-07" to="2024-07">Uploaded / Published digital edition</resp></respStmt><respStmt><persName>Peck, Russell A.</persName><resp from="2018-06" to="2018-07">Copyedited and proofread</resp><resp from="2018-06" to="2018-07">Ensured adherence to METS Style Guide</resp><resp from="2018-06" to="2018-07">Reviewed edition for consistency and audience</resp><resp from="2018-06" to="2018-07">Reviewed edition for content and scholarship</resp><resp from="2018-06" to="2018-07">Wrote reader report</resp></respStmt><respStmt><persName>Price, Eleanor</persName><resp from="2024-03" to="2024-05">Audited documents prior to print/export</resp><resp from="2023-02" to="2023-11">Copyedited and proofread</resp><resp from="2023-11" to="2023-11">Ensured adherence to METS Style Guide</resp><resp from="2023-02" to="2023-11">Entered corrections for digital edition</resp><resp from="2023-02" to="2023-11">Entered corrections for print edition</resp><resp from="2023-02" to="2023-11">Formatted for print edition</resp><resp from="2023-02" to="2023-11">Formatted for XML export</resp><resp from="2024-05" to="2024-06">Encoded TEI</resp></respStmt><respStmt><persName>Yee, Pamela M.</persName><resp from="2018-07" to="2024-01">Audited documents prior to print/export</resp><resp from="2018-07" to="2018-09">Checked and corrected bibliographic references</resp><resp>Collated and entered corrections</resp><resp from="2023-11" to="2023-11">Collected metadata</resp><resp from="2018-07" to="2018-09">Copyedited and proofread</resp><resp from="2018-07" to="2018-09">Ensured adherence to METS Style Guide</resp><resp from="2018-07" to="2018-09">Reviewed edition for consistency and audience</resp><resp from="2018-07" to="2018-09">Wrote reader report</resp></respStmt></titleStmt><editionStmt><edition>Encoded in TEI in 2024</edition>
+ </editionStmt>
+ <publicationStmt>
+ <publisher>The Rossell Hope Robbins Library, University of Rochester</publisher>
+ <pubPlace>Rochester, NY</pubPlace>
+ <address>
+ <addrLine>https://www.library.rochester.edu/spaces/robbins</addrLine>
+ </address>
+ <publisher>The Department of English, University of Rochester</publisher>
+ <pubPlace>Rochester, NY</pubPlace>
+ <address>
+ <addrLine>https://www.sas.rochester.edu/eng/</addrLine>
+ </address>
+ <publisher>TEAMS: Teaching Association for Medieval Studies</publisher>
+ <address>
+ <addrLine>https://teams-medieval.org/about/</addrLine>
+ </address>
+ <distributor>The Rossell Hope Robbins Library, University of Rochester</distributor>
+ <pubPlace>Rochester, NY</pubPlace>
+ <address>
+ <addrLine>https://www.library.rochester.edu/spaces/robbins</addrLine>
+ </address>
+ <availability status="restricted">
+ <p>Downloading shall be restricted to one copy for private use.</p>
+ </availability>
+    <date/>
+ </publicationStmt><seriesStmt>
+ <title level="s">The Middle English Text Series</title><respStmt><persName>Ralph Arbelo</persName><orgName>University of Rochester</orgName><resp>IT Support Specialist, Techincal Support Staff</resp></respStmt><respStmt><persName>Mead Bowen</persName><orgName>University of Rochester</orgName><resp>Staff Editor, Editorial Staff</resp></respStmt><respStmt><persName>Katherine Briant</persName><orgName>University of Rochester</orgName><resp>Staff Editor, Editorial Staff</resp></respStmt><respStmt><persName>Theresa Coletti</persName><orgName>University of Maryland</orgName><resp>Member, Advisory Board</resp></respStmt><respStmt><persName>Ashley R. Conklin</persName><orgName>University of Rochester</orgName><resp>Staff Editor, Editorial Staff</resp></respStmt><respStmt><persName>Rita Copeland</persName><orgName>University of Pennsylvania</orgName><resp>Member, Advisory Board</resp></respStmt><respStmt><persName>Steffi Delcourt</persName><orgName>University of Rochester</orgName><resp>Staff Editor, Editorial Staff</resp></respStmt><respStmt><persName>Joe Easterly</persName><orgName>University of Rochester</orgName><resp>IT Support Specialist, Technical Support Staff</resp></respStmt><respStmt><persName>Susanna Fein</persName><orgName>Kent State University</orgName><resp>Member, Advisory Board</resp></respStmt><respStmt><persName>Sue Gleason</persName><orgName>University of Rochester</orgName><resp>IT Support Specialist, Techincal Support Staff</resp></respStmt><respStmt><persName>Thomas G. Hahn</persName><orgName>University of Rochester</orgName><resp>Member, Advisory Board</resp></respStmt><respStmt><persName>David A. Lawton</persName><orgName>Washington University in St. Louis</orgName><resp>Member, Advisory Board</resp></respStmt><respStmt><persName>Michael Livingston</persName><orgName>The Citadel</orgName><resp>Member, Advisory Board</resp></respStmt><respStmt><persName>Alan Lupack</persName><orgName>University of Rochester</orgName><resp>Associate Editor, Editorial Board</resp></respStmt><respStmt><persName>Andrea Noto</persName><orgName>University of Rochester</orgName><resp>IT Support Specialist, Techincal Support Staff</resp></respStmt><respStmt><persName>Katie Papas</persName><orgName>University of Rochester</orgName><resp>Section Supervisor, The Robbins Library, Technical Support Staff</resp></respStmt><respStmt><persName>Russell A. Peck</persName><orgName>University of Rochester</orgName><resp>General Editor, Editorial Board</resp></respStmt><respStmt><persName>Eve Salisbury</persName><orgName>Western Michigan University</orgName><resp>Member, Advisory Board</resp></respStmt><respStmt><persName>Nathan Sarr</persName><orgName>University of Rochester</orgName><resp>IT Support Specialist, Techincal Support Staff</resp></respStmt><respStmt><persName>R. A. Shoaf</persName><orgName>University of Florida</orgName><resp>Member, Advisory Board</resp></respStmt><respStmt><persName>Lynn Staley</persName><orgName>Colgate University</orgName><resp>Member, Advisory Board</resp></respStmt><respStmt><persName>Bonnie Wheeler</persName><orgName>Southern Methodist University</orgName><resp>Member, Advisory Board</resp></respStmt><respStmt><persName>Pamela M. Yee</persName><orgName>University of Rochester</orgName><resp>Assistant Editor, Editorial Board</resp></respStmt></seriesStmt>    
+ <sourceDesc>
+ <biblStruct>
+ <monogr><author>Lydgate, John</author><author>Unknown</author><editor>Cook, Megan L.</editor><editor>Strakhov, Elizaveta</editor><editor role="translator">Strakhov, Elizaveta</editor><title>John Lydgate's Dance of Death and Related Works</title><imprint>
+ <publisher>Medieval Institute Publications</publisher>
+ <pubPlace>Kalamazoo, MI</pubPlace><date>2019</date></imprint>
+ </monogr>
+ </biblStruct>
+ </sourceDesc>
+ </fileDesc>
+  <encodingDesc>
+  <projectDesc>
+        <p>The Middle English Texts Series offers a diverse and representative array of literary texts that medieval readers in the present-day British Isles would have encountered between the twelfth and sixteenth centuries. It is committed to making available both affordable print and open access editions to scholars, teachers, and students of the Western Middle Ages. In its digital publications, the series prioritizes a user-friendly interface and viewing options, multiple downloadable formats, enhanced searchability and filtering, and accessibility to the widest possible range of users.</p>
+      </projectDesc>
+      <editorialDecl>
+        <p>METS takes as its mission the creation of affordable editions that would pass scrutiny from the most demanding expert, yet would prove comprehensible, and even enticing, to someone who had never read Middle English before. This agenda dictates that METS publications offer not a critical edition reflecting all surviving manuscripts, and certainly not a diplomatic edition, but a best-text edition, informed by the notes and apparatus of earlier editions (where these exist), and by substantive variants from other manuscript witnesses. Transcriptions of Middle English texts are lightly modernized to ensure a smooth reading experience, while non-English texts preserve both the original language and a modern English translation in facing-page format. Each edition offers expert assistance with language and lexicon, providing glosses alongside the text(s), textual and explanatory notes, elucidation of unfamiliar contexts and traditions, and thematic and interpretive possibilities. All editions feature general introductions that set the edited text within its own time, place, and traditions, and link it to ancestor, congener, and successor materials. All publications contain comprehensive, current bibliographies of pertinent scholarship and criticism. House style is adapted from the <hi rend="italic">Chicago Manual of Style</hi>.</p><correction>
+          <p>This text may include corrections made after the original edition went to press in order to correct errors and improve glosses. For a full list of editorial and typographical corrections made to this edition, please view its correction log on Github: https://github.com/mets-editions/cook-lydgate/blob/main/cook-lydgate-export-corrections-log.docx</p>
+        </correction></editorialDecl><schemaRef url="https://metseditions.org/schema/mets-editions.xsd"/>
+ </encodingDesc><profileDesc><langUsage><language ident="en">English, Modern (1500-present)</language></langUsage></profileDesc><revisionDesc><change>Encoded in HTML</change></revisionDesc></teiHeader>
+    <text><body xmlns="http://www.tei-c.org/ns/1.0"><anchor xml:id="Cook-Lydgate-11-Lansdowne-Tnotes"/><div type="text">
+ <note type="tnote" n="1">1<space rend="indent1"/><hi rend="italic">O creatures ye</hi>. So Warren. L: <hi rend="italic">O creatures</hi>.</note>
+ <note type="tnote" n="2">7<space rend="indent1"/><hi rend="italic">yliche </hi><hi rend="italic">naturall</hi>. So Warren. L: <hi rend="italic">that be naturall</hi>.</note>
+ <note type="tnote" n="3">27<space rend="indent1"/><hi rend="italic">Thestat ful </hi><hi rend="italic">perilous</hi>. So Warren. L: <hi rend="italic">thestat perlious</hi>.</note>
+ <note type="tnote" n="4">39<space rend="indent1"/><hi rend="italic">Ageyn my myth</hi>. So Warren. L: <hi rend="italic">ageyn myth</hi>.</note>
+ <note type="tnote" n="5">46<space rend="indent1"/><hi rend="italic">visage</hi>. So Warren. L: <hi rend="italic">my visage</hi>.</note>
+ <note type="tnote" n="6">52<space rend="indent1"/><hi rend="italic">daunce for to leer</hi>. So Warren. L: <hi rend="italic">daunce to leer</hi>.</note>
+ <note type="tnote" n="7">56<space rend="indent1"/><hi rend="italic">avys</hi>. So Warren. L: <hi rend="italic">amys</hi>.</note>
+ <note type="tnote" n="8">58<space rend="indent1"/><hi rend="italic">gretely</hi>. So Warren. L: <hi rend="italic">grisly</hi>.</note>
+ <note type="tnote" n="9">60<space rend="indent1"/><hi rend="italic">That I shall</hi>. So Warren. L: <hi rend="italic">that shal</hi>. </note>
+ <note type="tnote" n="10"><space rend="indent1"/><hi rend="italic">hereaftir</hi>. So Warren. L: <hi rend="italic">aftir</hi>.</note>
+ <note type="tnote" n="11">62<space rend="indent1"/><hi rend="italic">Myn hat of</hi>. L: <hi rend="italic">myn </hi><hi rend="italicstrikethrough">of</hi><hi rend="italic"> hat of</hi>.</note>
+ <note type="tnote" n="12">63<space rend="indent1"/><hi rend="italic">Bi</hi><hi rend="italic"> which</hi>. So Warren. L: <hi rend="italic">bi the which</hi>.</note>
+ <note type="tnote" n="13">72<space rend="indent1"/><hi rend="italic">ye</hi>. So Warren. L: <hi rend="italic">I</hi>.</note>
+ <note type="tnote" n="14">73<space rend="indent1"/><hi rend="italic">or</hi>. So Warren. L: <hi rend="italic">os</hi>.</note>
+ <note type="tnote" n="15">76<space rend="indent1"/><hi rend="italic">or</hi><hi rend="subscript">2</hi>. So Warren. L: <hi rend="italic">os</hi>.</note>
+ <note type="tnote" n="16">75–76<space rend="indent1"/><hi rend="italic">Or what availeth . . . porte or straungenesse</hi>. These lines are transposed in L. A note in red in the outer margin indicates the correct order.</note>
+ <note type="tnote" n="17">82<space rend="indent1"/><hi rend="italic">with me</hi>. So Warren. L: <hi rend="italic">withynne</hi>.</note>
+ <note type="tnote" n="18">86<space rend="indent1"/><hi rend="italic">possessid</hi>. So Warren. L: <hi rend="italic">possedid</hi>.</note>
+ <note type="tnote" n="19">89<space rend="indent1"/><hi rend="italic">grete tresour</hi>. So Warren. L: <hi rend="italic">tresour</hi>.</note>
+ <note type="tnote" n="20">90<space rend="indent1"/><hi rend="italic">Have</hi>. So Warren. L: <hi rend="italic">hath</hi>.</note>
+ <note type="tnote" n="21">92<space rend="indent1"/><hi rend="italic">availeth it</hi>. So Warren. L: <hi rend="italic">availeth</hi>.</note>
+ <note type="tnote" n="22">96<space rend="indent1"/><hi rend="italic">ofte</hi>. So Warren. L: <hi rend="italic">often</hi>.</note>
+ <note type="tnote" n="23">113<space rend="indent1"/><hi rend="italic">Sir Archebishop whi</hi>. L: Rubricated caesura after <hi rend="italic">Archebishop</hi>.</note>
+ <note type="tnote" n="24">115<space rend="indent1"/><hi rend="italic">my</hi>. So Warren. L: <hi rend="italic">your</hi>.</note>
+ <note type="tnote" n="25">124<space rend="indent1"/><hi rend="italic">that</hi>. So Warren. L: <hi rend="italic">that </hi><hi rend="italicstrikethrough">it</hi>.</note>
+ <note type="tnote" n="26">126<space rend="indent1"/><hi rend="italic">adieu</hi>. This word is underlined in red and written with a red initial <hi rend="italic">a</hi> wherever it appears in L. See also lines 251–53 and 487.</note>
+ <note type="tnote" n="27">127<space rend="indent1"/><hi rend="italic">my </hi><hi rend="italic">tresour</hi>. So Warren. L: <hi rend="italic">tresour</hi>.</note>
+ <note type="tnote" n="28">130<space rend="indent1"/><hi rend="italic">This</hi>. So Warren. L: <hi rend="italic">The</hi>.</note>
+ <note type="tnote" n="29"><space rend="indent1"/><hi rend="italic">not eschewable</hi>. So Warren. L: <hi rend="italic">mysschevable</hi>.</note>
+ <note type="tnote" n="30">133<space rend="indent1"/><hi rend="italic">of</hi>. So Warren. L: <hi rend="italic">at</hi>.</note>
+ <note type="tnote" n="31">136<space rend="indent1"/><hi rend="italic">Deth availe</hi>. So Warren. L: <hi rend="italic">deth</hi>.</note>
+ <note type="tnote" n="32">Before 137<space rend="indent1"/><hi rend="italic">Nicholas Munston (?)</hi>. Abraded signature in a later hand above this stanza in L.</note>
+ <note type="tnote" n="33">138<space rend="indent1"/><hi rend="italic">assege</hi>. So Warren. L: <hi rend="italic">asseged</hi>.</note>
+ <note type="tnote" n="34"><space rend="indent1"/><hi rend="italic">forteresses</hi>. So Warren. L: <hi rend="italic">porterresses</hi>.</note>
+ <note type="tnote" n="35">140<space rend="indent1"/><hi rend="italic">worship</hi>. So Warren. L: <hi rend="italic">worshepis</hi>.</note>
+ <note type="tnote" n="36"><space rend="indent1"/><hi rend="italic">grete rychesses</hi>. So Warren. L: <hi rend="italic">worthynessis</hi>.</note>
+ <note type="tnote" n="37">141<space rend="indent1"/><hi rend="italic">prowesses</hi>. So Warren. L: <hi rend="italic">prowessis</hi>.</note>
+ <note type="tnote" n="38">143<space rend="indent1"/><hi rend="italic">eke swetnesses</hi>. So Warren. L: <hi rend="italic">&amp; swetnesses</hi>.</note>
+ <note type="tnote" n="39">151<space rend="indent1"/><hi rend="italic">acounte</hi>. So Warren. L: <hi rend="italic">counte</hi>.</note>
+ <note type="tnote" n="40">157<space rend="indent1"/><hi rend="italic">world</hi>. So Warren. L: <hi rend="italic">word</hi>.</note>
+ <note type="tnote" n="41">161<space rend="indent1"/><hi rend="italic">thourh</hi>. L: <hi rend="italic">r</hi> inserted above <hi rend="italic">thouh</hi> indicating correction.</note>
+ <note type="tnote" n="42">164<space rend="indent1"/><hi rend="italic">This</hi>. So Warren. L: <hi rend="italic">ther</hi>.</note>
+ <note type="tnote" n="43">172<space rend="indent1"/><hi rend="italic">Cherishid</hi>. So Warren. L: <hi rend="italic">chershid</hi>.</note>
+ <note type="tnote" n="44">182<space rend="indent1"/><hi rend="italic">your state</hi>. So Warren. L: <hi rend="italicstrikethrough">yo</hi><hi rend="italic"> thestat</hi>.</note>
+ <note type="tnote" n="45">Before 193<space rend="indent1"/><hi rend="italic">Abbatissa</hi> written in red ink in another hand in the top left corner of fol. 44v.</note>
+ <note type="tnote" n="46">200<space rend="indent1"/><hi rend="italic">no good</hi>. So Warren. L: <hi rend="italic">good</hi>.</note>
+ <note type="tnote" n="47">201<space rend="indent1"/><hi rend="italic">for </hi><hi rend="italic">me so</hi>. So L. Warren: <hi rend="italic">so for me</hi>.</note>
+ <note type="tnote" n="48">203<space rend="indent1"/><hi rend="italic">this </hi><hi rend="italic">daunce</hi>. So Warren. L: <hi rend="italic">this</hi>.</note>
+ <note type="tnote" n="49">220<space rend="indent1"/><hi rend="italic">deferrid</hi>. So Warren. L: <hi rend="italic">differrid</hi>.</note>
+ <note type="tnote" n="50">240<space rend="indent1"/><hi rend="italic">shade</hi>. So Warren. L: <hi rend="italic">slade</hi>.</note>
+ <note type="tnote" n="51">242<space rend="indent1"/><hi rend="italic">gise</hi>. So Warren. L: <hi rend="italic">gises</hi>.</note>
+ <note type="tnote" n="52">244<space rend="indent1"/><hi rend="italic">devise</hi>. So Warren. L: <hi rend="italic">devises</hi>.</note>
+ <note type="tnote" n="53">245<space rend="indent1"/><hi rend="italic">emprise</hi>. So Warren. L: <hi rend="italic">emprises</hi>.</note>
+ <note type="tnote" n="54">249<space rend="indent1"/><hi rend="italic">Sith</hi>. So Warren. L: <hi rend="italic">But sith</hi>.</note>
+ <note type="tnote" n="55"><space rend="indent1"/><hi rend="italic">Deth me</hi>. L: Rubricated caesura after <hi rend="italic">deth</hi>.</note>
+ <note type="tnote" n="56">262<space rend="indent1"/><hi rend="italic">on</hi>. So L. Warren: <hi rend="italic">out</hi>.</note>
+ <note type="tnote" n="57">274<space rend="indent1"/><hi rend="italic">ysworn</hi>. So Warren. L: <hi rend="italic">I sworn</hi>.</note>
+ <note type="tnote" n="58">282<space rend="indent1"/><hi rend="italic">to</hi>. So Warren. L: <hi rend="italic">the</hi>.</note>
+ <note type="tnote" n="59"><space rend="indent1"/><hi rend="italic">of verrey</hi>. L: <hi rend="italic">of </hi><hi rend="italicstrikethrough">w</hi><hi rend="italic"> verray</hi>.</note>
+ <note type="tnote" n="60">301<space rend="indent1"/><hi rend="italic">Amys</hi>. Underlined in red in L; it is possibly misrecognized as the French <hi rend="italic">amis</hi> (friends).</note>
+ <note type="tnote" n="61">318<space rend="indent1"/><hi rend="italic">helpe more at</hi>. So Warren. L: <hi rend="italic">helpe at</hi>.</note>
+ <note type="tnote" n="62">323<space rend="indent1"/><hi rend="italic">and doth</hi>. So Warren. L: <hi rend="italic">doth</hi>.</note>
+ <note type="tnote" n="63">329<space rend="indent1"/><hi rend="italic">ded</hi>. L: <hi rend="italic">de</hi><hi rend="italicstrikethrough">th</hi>., with <hi rend="italic">d</hi> inserted above the deleted letters.</note>
+ <note type="tnote" n="64">331<space rend="indent1"/><hi rend="italic">Thowgh </hi><hi rend="italic">every</hi>. So Warren. L: <hi rend="italic">euery</hi>.</note>
+ <note type="tnote" n="65">332<space rend="indent1"/><hi rend="italic">Dredith</hi>. So Warren. L: <hi rend="italic">dredith hym</hi>.</note>
+ <note type="tnote" n="66">334<space rend="indent1"/><hi rend="italic">the Lord</hi>. So Warren. L: <hi rend="italic">my lord</hi>.</note>
+ <note type="tnote" n="67">338<space rend="indent1"/><hi rend="italic">Juge</hi>. So Warren. L: <hi rend="italic">Iustise</hi>.</note>
+ <note type="tnote" n="68">341<space rend="indent1"/><hi rend="italic">foly</hi>. So Warren. L: <hi rend="italic">hihe</hi>.</note>
+ <note type="tnote" n="69">345<space rend="indent1"/><hi rend="italic">Natures lawe</hi>. So Warren. L: <hi rend="italic">natures of </hi><hi rend="italic">lawe</hi>.</note>
+ <note type="tnote" n="70">350<space rend="indent1"/><hi rend="italic">in</hi>. So Warren. L: <hi rend="italic">on</hi>.</note>
+ <note type="tnote" n="71">352<space rend="indent1"/><hi rend="italic">God qwyteth </hi><hi rend="italic">al men lyke as they deserve</hi>. So Warren. L: <hi rend="italic">but </hi><hi rend="italic">god quyteth men bettir than thei deserve</hi>.</note>
+ <note type="tnote" n="72">355<space rend="indent1"/><hi rend="italic">ye was</hi>. So Warren. L: <hi rend="italic">thei were</hi>.</note>
+ <note type="tnote" n="73"><space rend="indent1"/><hi rend="italic">Polliceene</hi>. L reads <hi rend="italic">pollixene</hi>, which is underlined in red; <hi rend="italic">Polliceene</hi> is added in red in the outer margin in another hand.</note>
+ <note type="tnote" n="74">356<space rend="indent1"/><hi rend="italic">Penolope</hi>. L: underlined in red.</note>
+ <note type="tnote" n="75"><space rend="indent1"/><hi rend="italic">and</hi>. So Warren. L: <hi rend="italic">or</hi>.</note>
+ <note type="tnote" n="76">357<space rend="indent1"/><hi rend="italic">thei went</hi>. So Warren. L: <hi rend="italic">went thei</hi>.</note>
+ <note type="tnote" n="77">369<space rend="indent1"/><hi rend="italic">mayster</hi>. So Warren. L: <hi rend="italic">ye</hi>.</note>
+ <note type="tnote" n="78">372<space rend="indent1"/><hi rend="italic">astrologye</hi>. L: <hi rend="italic">astroulogye</hi> with a punctus under <hi rend="italic">u</hi>, indicating correction.</note>
+ <note type="tnote" n="79">374<space rend="indent1"/><hi rend="italic">walke upon the</hi>. So Warren. L: <hi rend="italic">walkyn </hi><hi rend="italic">vpon</hi>.</note>
+ <note type="tnote" n="80">379<space rend="indent1"/><hi rend="italic">in the sterris</hi>. So Warren. L: <hi rend="italic">in sterris</hi>.</note>
+ <note type="tnote" n="81">380<space rend="indent1"/><hi rend="italic">nor</hi>. So Warren. L: <hi rend="italic">or</hi>.</note>
+ <note type="tnote" n="82">382<space rend="indent1"/><hi rend="italic">descrive</hi>. So Warren. L: <hi rend="italic">descriven</hi>.</note>
+ <note type="tnote" n="83">384<space rend="indent1"/><hi rend="italic">Who livith aryght</hi>. So Warren. L: <hi rend="italic">but </hi><hi rend="italic">he that weel livith</hi>.</note>
+ <note type="tnote" n="84">387<space rend="indent1"/><hi rend="italic">prechyng</hi>. So Warren. L: <hi rend="italic">techyng</hi>.</note>
+ <note type="tnote" n="85"><space rend="indent1"/><hi rend="italic">ofte</hi>. So Warren. L: <hi rend="italic">often</hi>.</note>
+ <note type="tnote" n="86">395<space rend="indent1"/><hi rend="italic">Strengthe richesse</hi>. So Warren. L: <hi rend="italic">strengthe nor richesse</hi>.</note>
+ <note type="tnote" n="87"><space rend="indent1"/><hi rend="italic">what so that</hi>. So Warren. L: <hi rend="italic">what that</hi>.</note>
+ <note type="tnote" n="88">396<space rend="indent1"/><hi rend="italic">Of</hi>. So Warren. L: <hi rend="italic">or</hi>.</note>
+ <note type="tnote" n="89">401<space rend="indent1"/><hi rend="italic">forth </hi><hi rend="italic">thou Sergeant</hi>. So Warren. L: <hi rend="italic">forth sergeant</hi>.</note>
+ <note type="tnote" n="90">413<space rend="indent1"/><hi rend="italic">arrested</hi>. So Warren. L: <hi rend="italic">arrest</hi>.</note>
+ <note type="tnote" n="91">416<space rend="indent1"/><hi rend="italic">for to</hi>. So Warren. L: <hi rend="italic">to</hi>.</note>
+ <note type="tnote" n="92">428<space rend="indent1"/><hi rend="italic">whom</hi>. So Warren. L: <hi rend="italic">as</hi>.</note>
+ <note type="tnote" n="93">433<space rend="indent1"/><hi rend="italic">shewe me now</hi>. So Warren. L: <hi rend="italic">shewe now</hi>.</note>
+ <note type="tnote" n="94">436<space rend="indent1"/><hi rend="italic">unto</hi>. So Warren. L: <hi rend="italic">to</hi>.</note>
+ <note type="tnote" n="95">460<space rend="indent1"/><hi rend="italic">profites that long</hi>. So Warren. L: <hi rend="italic">profites long</hi>.</note>
+ <note type="tnote" n="96">474<space rend="indent1"/><hi rend="italic">plyed</hi>. So Warren. L: <hi rend="italic">plye</hi>.</note>
+ <note type="tnote" n="97">482<space rend="indent1"/><hi rend="italic">thorow many</hi>. So Warren. L: <hi rend="italic">many</hi>.</note>
+ <note type="tnote" n="98">489<space rend="indent1"/><hi rend="italic">strong</hi>. So Warren. L: <hi rend="italic">a strong</hi>.</note>
+ <note type="tnote" n="99">490<space rend="indent1"/><hi rend="italic">my</hi>. So Warren. L: <hi rend="italic">many</hi>.</note>
+ <note type="tnote" n="100">508<space rend="indent1"/><hi rend="italic">ther may nothyng</hi>. So L. Warren: <hi rend="italic">which that may</hi>.</note>
+ <note type="tnote" n="101">518<space rend="indent1"/><hi rend="italic">fro</hi>. So Warren. L: <hi rend="italic">for</hi>.</note>
+ <note type="tnote" n="102">524<space rend="indent1"/><hi rend="italic">gon</hi>. So Warren. L: <hi rend="italic">go</hi>.</note>
+ <note type="tnote" n="103"><space rend="indent1"/><hi rend="italic">at the</hi><hi rend="italic"> plouh</hi>. So Warren. L: <hi rend="italic">at plouh</hi>.</note>
+ <note type="tnote" n="104">530<space rend="indent1"/><hi rend="italic">world</hi>. Warren, L: <hi rend="italic">word</hi>.</note>
+ <note type="tnote" n="105">533<space rend="indent1"/><hi rend="italic">gon</hi>. So Warren. L: <hi rend="italic">pleyen</hi>.</note>
+ <note type="tnote" n="106">542<space rend="indent1"/><hi rend="italic">Of me</hi><hi rend="italic"> no more</hi>. So Warren. L: <hi rend="italic">on me more no</hi>.</note>
+ <note type="tnote" n="107">547<space rend="indent1"/><hi rend="italic">mote</hi>. So Warren. L: <hi rend="italic">mete</hi>.</note>
+ <note type="tnote" n="108">550<space rend="indent1"/><hi rend="italic">hermitage</hi>. So Warren. L: <hi rend="italic">heritage</hi>.</note>
+ <note type="tnote" n="109">554<space rend="indent1"/><hi rend="italic">space</hi>. So Warren. L: <hi rend="italic">grace</hi>.</note>
+ <note type="tnote" n="110">561<space rend="indent1"/><hi rend="italic">Ye</hi>. So Warren. L: <hi rend="italic">ye ye</hi>.</note>
+ <note type="tnote" n="111">570<space rend="indent1"/><hi rend="italic">Or as a</hi>. So Warren. L: <hi rend="italic">or a</hi>.</note>
+ </div></body></text></TEI>

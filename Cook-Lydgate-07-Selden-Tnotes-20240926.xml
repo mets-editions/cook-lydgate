@@ -1,0 +1,785 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="3.3.0" xml:id="Cook-Lydgate-07-Selden-Tnotes-tei">
+    <teiHeader>
+  <fileDesc>
+ <titleStmt><title>Textual Notes to Dance of Death: A Version (Selden)</title><author>Cook, Megan L.</author><author>Strakhov, Elizaveta</author><sponsor>The University of Rochester</sponsor>
+ <sponsor>TEAMS: Teaching Association for Medieval Studies</sponsor>
+ <funder>National Endowment for the Humanities</funder>
+ <funder>The University of Rochester</funder>
+ <funder>TEAMS: Teaching Association for Medieval Studies</funder><respStmt><persName>Briant, Katherine</persName><resp from="2018-02" to="2018-05">Ensured adherence to METS Style Guide</resp><resp from="2018-02" to="2018-05">Entered corrections for print edition</resp><resp from="2018-02" to="2018-05">Reviewed transcription of base manuscript or early print witness</resp></respStmt><respStmt><persName>Delcourt, Steffi</persName><resp from="2023-02" to="2024-05">Audited documents prior to print/export</resp><resp from="2024-05" to="2024-06">Encoded TEI</resp></respStmt><respStmt><persName>Kephart, Daniel</persName><resp from="2024-02" to="2024-02">Collected metadata</resp><resp from="2024-05" to="2024-05">Audited documents prior to print/export</resp><resp from="2024-07" to="2024-07">Uploaded / Published digital edition</resp></respStmt><respStmt><persName>Norris, James</persName><resp from="2024-03" to="2024-05">Collected metadata</resp><resp from="2024-07" to="2024-07">Uploaded / Published digital edition</resp></respStmt><respStmt><persName>Peck, Russell A.</persName><resp from="2018-06" to="2018-07">Copyedited and proofread</resp><resp from="2018-06" to="2018-07">Ensured adherence to METS Style Guide</resp><resp from="2018-06" to="2018-07">Reviewed edition for consistency and audience</resp><resp from="2018-06" to="2018-07">Reviewed edition for content and scholarship</resp><resp from="2018-06" to="2018-07">Wrote reader report</resp></respStmt><respStmt><persName>Price, Eleanor</persName><resp from="2024-03" to="2024-05">Audited documents prior to print/export</resp><resp from="2023-02" to="2023-11">Copyedited and proofread</resp><resp from="2023-11" to="2023-11">Ensured adherence to METS Style Guide</resp><resp from="2023-02" to="2023-11">Entered corrections for digital edition</resp><resp from="2023-02" to="2023-11">Entered corrections for print edition</resp><resp from="2023-02" to="2023-11">Formatted for print edition</resp><resp from="2023-02" to="2023-11">Formatted for XML export</resp><resp from="2024-05" to="2024-06">Encoded TEI</resp></respStmt><respStmt><persName>Yee, Pamela M.</persName><resp from="2018-07" to="2024-01">Audited documents prior to print/export</resp><resp from="2018-07" to="2018-09">Checked and corrected bibliographic references</resp><resp>Collated and entered corrections</resp><resp from="2023-11" to="2023-11">Collected metadata</resp><resp from="2018-07" to="2018-09">Copyedited and proofread</resp><resp from="2018-07" to="2018-09">Ensured adherence to METS Style Guide</resp><resp from="2018-07" to="2018-09">Reviewed edition for consistency and audience</resp><resp from="2018-07" to="2018-09">Wrote reader report</resp></respStmt></titleStmt><editionStmt><edition>Encoded in TEI in 2024</edition>
+ </editionStmt>
+ <publicationStmt>
+ <publisher>The Rossell Hope Robbins Library, University of Rochester</publisher>
+ <pubPlace>Rochester, NY</pubPlace>
+ <address>
+ <addrLine>https://www.library.rochester.edu/spaces/robbins</addrLine>
+ </address>
+ <publisher>The Department of English, University of Rochester</publisher>
+ <pubPlace>Rochester, NY</pubPlace>
+ <address>
+ <addrLine>https://www.sas.rochester.edu/eng/</addrLine>
+ </address>
+ <publisher>TEAMS: Teaching Association for Medieval Studies</publisher>
+ <address>
+ <addrLine>https://teams-medieval.org/about/</addrLine>
+ </address>
+ <distributor>The Rossell Hope Robbins Library, University of Rochester</distributor>
+ <pubPlace>Rochester, NY</pubPlace>
+ <address>
+ <addrLine>https://www.library.rochester.edu/spaces/robbins</addrLine>
+ </address>
+ <availability status="restricted">
+ <p>Downloading shall be restricted to one copy for private use.</p>
+ </availability>
+    <date/>
+ </publicationStmt><seriesStmt>
+ <title level="s">The Middle English Text Series</title><respStmt><persName>Ralph Arbelo</persName><orgName>University of Rochester</orgName><resp>IT Support Specialist, Techincal Support Staff</resp></respStmt><respStmt><persName>Mead Bowen</persName><orgName>University of Rochester</orgName><resp>Staff Editor, Editorial Staff</resp></respStmt><respStmt><persName>Katherine Briant</persName><orgName>University of Rochester</orgName><resp>Staff Editor, Editorial Staff</resp></respStmt><respStmt><persName>Theresa Coletti</persName><orgName>University of Maryland</orgName><resp>Member, Advisory Board</resp></respStmt><respStmt><persName>Ashley R. Conklin</persName><orgName>University of Rochester</orgName><resp>Staff Editor, Editorial Staff</resp></respStmt><respStmt><persName>Rita Copeland</persName><orgName>University of Pennsylvania</orgName><resp>Member, Advisory Board</resp></respStmt><respStmt><persName>Steffi Delcourt</persName><orgName>University of Rochester</orgName><resp>Staff Editor, Editorial Staff</resp></respStmt><respStmt><persName>Joe Easterly</persName><orgName>University of Rochester</orgName><resp>IT Support Specialist, Technical Support Staff</resp></respStmt><respStmt><persName>Susanna Fein</persName><orgName>Kent State University</orgName><resp>Member, Advisory Board</resp></respStmt><respStmt><persName>Sue Gleason</persName><orgName>University of Rochester</orgName><resp>IT Support Specialist, Techincal Support Staff</resp></respStmt><respStmt><persName>Thomas G. Hahn</persName><orgName>University of Rochester</orgName><resp>Member, Advisory Board</resp></respStmt><respStmt><persName>David A. Lawton</persName><orgName>Washington University in St. Louis</orgName><resp>Member, Advisory Board</resp></respStmt><respStmt><persName>Michael Livingston</persName><orgName>The Citadel</orgName><resp>Member, Advisory Board</resp></respStmt><respStmt><persName>Alan Lupack</persName><orgName>University of Rochester</orgName><resp>Associate Editor, Editorial Board</resp></respStmt><respStmt><persName>Andrea Noto</persName><orgName>University of Rochester</orgName><resp>IT Support Specialist, Techincal Support Staff</resp></respStmt><respStmt><persName>Katie Papas</persName><orgName>University of Rochester</orgName><resp>Section Supervisor, The Robbins Library, Technical Support Staff</resp></respStmt><respStmt><persName>Russell A. Peck</persName><orgName>University of Rochester</orgName><resp>General Editor, Editorial Board</resp></respStmt><respStmt><persName>Eve Salisbury</persName><orgName>Western Michigan University</orgName><resp>Member, Advisory Board</resp></respStmt><respStmt><persName>Nathan Sarr</persName><orgName>University of Rochester</orgName><resp>IT Support Specialist, Techincal Support Staff</resp></respStmt><respStmt><persName>R. A. Shoaf</persName><orgName>University of Florida</orgName><resp>Member, Advisory Board</resp></respStmt><respStmt><persName>Lynn Staley</persName><orgName>Colgate University</orgName><resp>Member, Advisory Board</resp></respStmt><respStmt><persName>Bonnie Wheeler</persName><orgName>Southern Methodist University</orgName><resp>Member, Advisory Board</resp></respStmt><respStmt><persName>Pamela M. Yee</persName><orgName>University of Rochester</orgName><resp>Assistant Editor, Editorial Board</resp></respStmt></seriesStmt>    
+ <sourceDesc>
+ <biblStruct>
+ <monogr><author>Lydgate, John</author><author>Unknown</author><editor>Cook, Megan L.</editor><editor>Strakhov, Elizaveta</editor><editor role="translator">Strakhov, Elizaveta</editor><title>John Lydgate's Dance of Death and Related Works</title><imprint>
+ <publisher>Medieval Institute Publications</publisher>
+ <pubPlace>Kalamazoo, MI</pubPlace><date>2019</date></imprint>
+ </monogr>
+ </biblStruct>
+ </sourceDesc>
+ </fileDesc>
+  <encodingDesc>
+  <projectDesc>
+        <p>The Middle English Texts Series offers a diverse and representative array of literary texts that medieval readers in the present-day British Isles would have encountered between the twelfth and sixteenth centuries. It is committed to making available both affordable print and open access editions to scholars, teachers, and students of the Western Middle Ages. In its digital publications, the series prioritizes a user-friendly interface and viewing options, multiple downloadable formats, enhanced searchability and filtering, and accessibility to the widest possible range of users.</p>
+      </projectDesc>
+      <editorialDecl>
+        <p>METS takes as its mission the creation of affordable editions that would pass scrutiny from the most demanding expert, yet would prove comprehensible, and even enticing, to someone who had never read Middle English before. This agenda dictates that METS publications offer not a critical edition reflecting all surviving manuscripts, and certainly not a diplomatic edition, but a best-text edition, informed by the notes and apparatus of earlier editions (where these exist), and by substantive variants from other manuscript witnesses. Transcriptions of Middle English texts are lightly modernized to ensure a smooth reading experience, while non-English texts preserve both the original language and a modern English translation in facing-page format. Each edition offers expert assistance with language and lexicon, providing glosses alongside the text(s), textual and explanatory notes, elucidation of unfamiliar contexts and traditions, and thematic and interpretive possibilities. All editions feature general introductions that set the edited text within its own time, place, and traditions, and link it to ancestor, congener, and successor materials. All publications contain comprehensive, current bibliographies of pertinent scholarship and criticism. House style is adapted from the <hi rend="italic">Chicago Manual of Style</hi>.</p><correction>
+          <p>This text may include corrections made after the original edition went to press in order to correct errors and improve glosses. For a full list of editorial and typographical corrections made to this edition, please view its correction log on Github: https://github.com/mets-editions/cook-lydgate/blob/main/cook-lydgate-export-corrections-log.docx</p>
+        </correction></editorialDecl><schemaRef url="https://metseditions.org/schema/mets-editions.xsd"/>
+ </encodingDesc><profileDesc><langUsage><language ident="en">English, Modern (1500-present)</language></langUsage></profileDesc><revisionDesc><change>Encoded in HTML</change></revisionDesc></teiHeader>
+    <text><body xmlns="http://www.tei-c.org/ns/1.0"><anchor xml:id="Cook-Lydgate-07-Selden-Tnotes"/><div type="text">
+ <note type="tnote" n="1">Incipit<space rend="indent1"/><hi rend="italic">Verba translatoris</hi>. All speaker markers in S are written in red. In RV this heading appears at line 17.</note>
+ <note type="tnote" n="2">2<space rend="indent1"/><hi rend="italic">the</hi>. RV: <hi rend="italic">this</hi>.</note>
+ <note type="tnote" n="3"><space rend="indent1"/><hi rend="italic">have</hi>. RV: <hi rend="italic">yeue</hi>.</note>
+ <note type="tnote" n="4">5<space rend="indent1"/><hi rend="italic">se</hi>. Cov: <hi rend="italic">seene</hi>.</note>
+ <note type="tnote" n="5"><space rend="indent1"/><hi rend="italic">aforn</hi>. RV: <hi rend="italic">afore</hi>; Warren: <hi rend="italic">aforne</hi>.</note>
+ <note type="tnote" n="6">6<space rend="indent1"/><hi rend="italic">Of</hi>. Cov: <hi rend="italic">O</hi>.</note>
+ <note type="tnote" n="7"><space rend="indent1"/><hi rend="italic">ben</hi>. So Warren. Cov: <hi rend="italic">art</hi>; S, RV: <hi rend="italic">be</hi>.</note>
+ <note type="tnote" n="8">8<space rend="indent1"/><hi rend="italic">yong and olde</hi>. RV: <hi rend="italic">olde and younge</hi>.</note>
+ <note type="tnote" n="9"><space rend="indent1"/><hi rend="italic">lowe and hy</hi>. RV: <hi rend="italic">high nor low</hi>.</note>
+ <note type="tnote" n="10">9<space rend="indent1"/><hi rend="italic">not</hi>. Cov: <hi rend="italic">nothir</hi>.</note>
+ <note type="tnote" n="11"><space rend="indent1"/><hi rend="italic">lowe ne </hi><hi rend="italic">hy</hi>. RV: <hi rend="italic">hie and low</hi>.</note>
+ <note type="tnote" n="12">10<space rend="indent1"/><hi rend="italic">Popes</hi>. N: <hi rend="italic">Pepes</hi>.</note>
+ <note type="tnote" n="13"><space rend="indent1"/><hi rend="italic">emperours</hi>. N: <hi rend="italic">emprours</hi>.</note>
+ <note type="tnote" n="14">11<space rend="indent1"/><hi rend="italic">thei</hi>. RV: <hi rend="italic">thay</hi>.</note>
+ <note type="tnote" n="15"><space rend="indent1"/><hi rend="italic">in felicité</hi>. RV: <hi rend="italic">in</hi><hi rend="italic"> thaire felicite</hi>.</note>
+ <note type="tnote" n="16">12<space rend="indent1"/><hi rend="italic">fresshnes of her flours</hi>. Cov: <hi rend="italic">fressheness of</hi><hi rend="italic"> her flouris</hi>.</note>
+ <note type="tnote" n="17">13<space rend="indent1"/><hi rend="italic">The</hi>. Warren: <hi rend="italic">ther</hi>.</note>
+ <note type="tnote" n="18"><space rend="indent1"/><hi rend="italic">clipsen with his shours</hi>. Cov: <hi rend="italic">clipsinge with her shoures</hi>.</note>
+ <note type="tnote" n="19">14<space rend="indent1"/><hi rend="italic">Make</hi>. Cov: <hi rend="italic">Maken</hi>.</note>
+ <note type="tnote" n="20"><space rend="indent1"/><hi rend="italic">her</hi>. Warren: <hi rend="italic">theire</hi>.</note>
+ <note type="tnote" n="21">17<space rend="indent1"/><hi rend="italic">Considerith this</hi>. Cov: <hi rend="italic">Considereith</hi>; RV: <hi rend="italic">Consideryng this</hi>.</note>
+ <note type="tnote" n="22"><space rend="indent1"/><hi rend="italic">ben</hi>. So Warren. Cov, N, S: <hi rend="italic">be</hi>.</note>
+ <note type="tnote" n="23">18<space rend="indent1"/><hi rend="italic">enprentith</hi>. RV: <hi rend="italic">emprenteth</hi>.</note>
+ <note type="tnote" n="24">19<space rend="indent1"/><hi rend="italic">the exawmple</hi>. So Warren. Cov: <hi rend="italic">to þe ensaumple</hi>; S, N: <hi rend="italic">thensaumple</hi>.</note>
+ <note type="tnote" n="25">20<space rend="indent1"/><hi rend="italic">in</hi>. RV: <hi rend="italic">vpon</hi>; Warren: <hi rend="italic">on</hi>.</note>
+ <note type="tnote" n="26">21<space rend="indent1"/><hi rend="italic">notably</hi>. Cov: <hi rend="italic">notable</hi>; Warren: <hi rend="italic">notabely</hi>.</note>
+ <note type="tnote" n="27">22<space rend="indent1"/><hi rend="italic">takyng</hi>. Cov: <hi rend="italic">taken</hi>.</note>
+ <note type="tnote" n="28">23<space rend="indent1"/><hi rend="italic">translatyn</hi>. Cov: <hi rend="italic">translate</hi>.</note>
+ <note type="tnote" n="29">24<space rend="indent1"/><hi rend="italic">Machabres</hi>. Warren: <hi rend="italic">Macabrees</hi>.</note>
+ <note type="tnote" n="30">17–24<space rend="indent1"/><hi rend="italic">Considerith this . . . Machabres Daunce</hi>. In RV and in Huntington Library MS EL26 A 13 (the base text for Warren), this stanza is marked <hi rend="italic">verba translatoris</hi>.</note>
+ <note type="tnote" n="31">25<space rend="indent1"/><hi rend="italic">whos</hi>. N: <hi rend="italic">what</hi>.</note>
+ <note type="tnote" n="32"><space rend="indent1"/><hi rend="italic">avys</hi>. Cov: <hi rend="italic">avice</hi>; RV: <hi rend="italic">advis</hi>.</note>
+ <note type="tnote" n="33"><space rend="indent1"/><hi rend="italic">atte the leste</hi>. Cov, W: <hi rend="italic">atte leste</hi>; RV: <hi rend="italic">at the leste</hi>.</note>
+ <note type="tnote" n="34">26<space rend="indent1"/><hi rend="italic">Thorugh</hi>. Cov: <hi rend="italic">Through</hi>; N: <hi rend="italic">Thurght</hi>; RV: <hi rend="italic">Thurgh</hi>; N: <hi rend="italic">Thurh</hi>.</note>
+ <note type="tnote" n="35"><space rend="indent1"/><hi rend="italic">steryng</hi>. Cov: <hi rend="italic">strength</hi>.</note>
+ <note type="tnote" n="36"><space rend="indent1"/><hi rend="italic">her</hi><hi rend="subscript">2</hi>. RV: <hi rend="italic">thaire</hi>.</note>
+ <note type="tnote" n="37">27<space rend="indent1"/><hi rend="italic">her</hi>. RV: <hi rend="italic">thaire</hi>.</note>
+ <note type="tnote" n="38">28<space rend="indent1"/><hi rend="italic">playn</hi>. W: <hi rend="italic">pleyne</hi>.</note>
+ <note type="tnote" n="39">30<space rend="indent1"/><hi rend="italic">that </hi><hi rend="italic">ben</hi>. So Cov, Warren. N, S: <hi rend="italic">þat be</hi>; RV: <hi rend="italic">ben</hi>.</note>
+ <note type="tnote" n="40">31<space rend="indent1"/><hi rend="italic">toforn</hi>. So Cov, RV, Warren. N: <hi rend="italic">to fer</hi>; S: <hi rend="italic">tofor</hi>.</note>
+ <note type="tnote" n="41"><space rend="indent1"/><hi rend="italic">in</hi>. Cov: <hi rend="italic">ne</hi>.</note>
+ <note type="tnote" n="42">32<space rend="indent1"/><hi rend="italic">Her</hi>. RV: <hi rend="italic">Theire</hi>.</note>
+ <note type="tnote" n="43"><space rend="indent1"/><hi rend="italic">cleerly</hi>. Cov: <hi rend="italic">clerkli</hi>; RV: <hi rend="italic">clerely</hi>.</note>
+ <note type="tnote" n="44">33<space rend="indent1"/><hi rend="italic">By</hi>. Cov: <hi rend="italic">Bi her</hi>; RV: <hi rend="italic">By this</hi>.</note>
+ <note type="tnote" n="45"><space rend="indent1"/><hi rend="italic">exaumple</hi>. RV: <hi rend="italic">ensample</hi>.</note>
+ <note type="tnote" n="46"><space rend="indent1"/><hi rend="italic">her</hi>. RV: <hi rend="italic">thaire</hi>.</note>
+ <note type="tnote" n="47">34<space rend="indent1"/><hi rend="italic">her</hi>. RV: <hi rend="italic">thaire</hi>.</note>
+ <note type="tnote" n="48">36<space rend="indent1"/><hi rend="italic">Portreied</hi>. N: <hi rend="italic">portreyd</hi>.</note>
+ <note type="tnote" n="49"><space rend="indent1"/><hi rend="italic">surplusage</hi>. So Cov, RV, Warren. S, N: <hi rend="italic">surpluage</hi>.</note>
+ <note type="tnote" n="50">38<space rend="indent1"/><hi rend="italic">Yeven</hi>. So Warren. Cov, RV: <hi rend="italic">youen</hi>; N: <hi rend="italic">yove</hi>; S: <hi rend="italic">ȝove</hi>.</note>
+ <note type="tnote" n="51"><space rend="indent1"/><hi rend="italic">lyves</hi>. Cov: <hi rend="italic">lifis</hi>.</note>
+ <note type="tnote" n="52">39<space rend="indent1"/><hi rend="italic">declare</hi>. RV: <hi rend="italic">deliuer</hi>.</note>
+ <note type="tnote" n="53">40<space rend="indent1"/><hi rend="italic">wille</hi>. So RV, Warren. Cov, S: <hi rend="italic">wole</hi>. N: <hi rend="italic">woll</hi>.</note>
+ <note type="tnote" n="54">41<space rend="indent1"/><hi rend="italic">ben</hi>. N, S: <hi rend="italic">be</hi>.</note>
+ <note type="tnote" n="55">42<space rend="indent1"/><hi rend="italic">desiring</hi>. Cov: <hi rend="italic">deservinge</hi>.</note>
+ <note type="tnote" n="56"><space rend="indent1"/><hi rend="italic">wiche is</hi>. Cov: <hi rend="italic">whiche</hi>; RV: <hi rend="italic">whiche that is</hi>.</note>
+ <note type="tnote" n="57">43<space rend="indent1"/><hi rend="italic">se</hi>. Warren: <hi rend="italic">sene</hi>.</note>
+ <note type="tnote" n="58">46<space rend="indent1"/><hi rend="italic">shul</hi>. Warren: <hi rend="italic">schulle</hi>. Cov, RV: <hi rend="italic">shal</hi>.</note>
+ <note type="tnote" n="59">48<space rend="indent1"/><hi rend="italic">ne</hi><hi rend="subscript">2</hi>. RV: <hi rend="italic">nor</hi>.</note>
+ <note type="tnote" n="60">50<space rend="indent1"/><hi rend="italic">goo</hi>. Cov: <hi rend="italic">gone</hi>.</note>
+ <note type="tnote" n="61">51<space rend="indent1"/><hi rend="italic">toforn</hi>. Cov: <hi rend="italic">to fore</hi>.</note>
+ <note type="tnote" n="62">53<space rend="indent1"/><hi rend="italic">eche</hi>. Cov: <hi rend="italic">euery</hi>.</note>
+ <note type="tnote" n="63"><space rend="indent1"/><hi rend="italic">lowly</hi>. Cov: <hi rend="italic">loweli</hi>; Warren: <hi rend="italic">lowely</hi>.</note>
+ <note type="tnote" n="64">54<space rend="indent1"/><hi rend="italic">not</hi>. Cov: <hi rend="italic">noþere</hi>.</note>
+ <note type="tnote" n="65"><space rend="indent1"/><hi rend="italic">royal</hi>. Cov: <hi rend="italic">riall</hi>.</note>
+ <note type="tnote" n="66">55<space rend="indent1"/><hi rend="italic">Eche</hi>. Cov: <hi rend="italic">euerie</hi>.</note>
+ <note type="tnote" n="67">56<space rend="indent1"/><hi rend="italic">o</hi>. N: <hi rend="italic">a</hi>.</note>
+ <note type="tnote" n="68">49–56<space rend="indent1"/>This stanza is absent in RV.</note>
+ <note type="tnote" n="69">Before 57<space rend="indent1"/><hi rend="italic">Deeth</hi><hi rend="italic"> to the Pope</hi>. Cov, Warren, RV, and S all include speaker markers. Cov, S, and W all follow the same format throughout, e.g. “Dethe to the Pope” and “The Pope” (although the word “pope” has been expunged from Cov by a later reader in both speaker markers, as well as at line 10); in RV the speaker markers give the identity of the speaker only in the response stanza, as in line 73: <hi rend="italic">Dethe</hi> and line 81: <hi rend="italic">The Emperour</hi>.</note>
+ <note type="tnote" n="70">57<space rend="indent1"/><hi rend="italic">O yee</hi>. Cov, N: <hi rend="italic">Ye</hi>.</note>
+ <note type="tnote" n="71"><space rend="indent1"/><hi rend="italic">ben</hi>. So RV, Warren. Cov, N, S: <hi rend="italic">be</hi>.</note>
+ <note type="tnote" n="72"><space rend="indent1"/><hi rend="italic">dignité</hi>. Cov: <hi rend="italic">degree</hi>.</note>
+ <note type="tnote" n="73">58<space rend="indent1"/><hi rend="italic">alle </hi><hi rend="italic">estatis</hi>. N: <hi rend="italic">astates</hi>.</note>
+ <note type="tnote" n="74">59<space rend="indent1"/><hi rend="italic">soverenité</hi>. Cov, RV: <hi rend="italic">soverainte</hi>. Warren: <hi rend="italic">soverente</hi>.</note>
+ <note type="tnote" n="75">61<space rend="indent1"/><hi rend="italic">ye firste</hi>. Cov: <hi rend="italic">ye</hi>; RV: <hi rend="italic">firste</hi>.</note>
+ <note type="tnote" n="76">64<space rend="indent1"/><hi rend="italic">of </hi><hi rend="italic">lordship</hi>. RV: <hi rend="italic">lordship</hi>.</note>
+ <note type="tnote" n="77"><space rend="indent1"/><hi rend="italic">honour</hi>. Warren: <hi rend="italic">honowre</hi>.</note>
+ <note type="tnote" n="78">65<space rend="indent1"/><hi rend="italic">First</hi>. Cov: <hi rend="italic">Frist</hi>.</note>
+ <note type="tnote" n="79">67<space rend="indent1"/><hi rend="italic">perillous</hi>. RV: <hi rend="italic">perlious</hi>.</note>
+ <note type="tnote" n="80"><space rend="indent1"/><hi rend="italic">ho</hi>. RV: <hi rend="italic">who</hi>.</note>
+ <note type="tnote" n="81">68<space rend="indent1"/><hi rend="italic">dignité</hi>. Cov: <hi rend="italic">dingnite</hi>.</note>
+ <note type="tnote" n="82">69<space rend="indent1"/><hi rend="italic">al for</hi>. Warren, RV: <hi rend="italic">for all</hi>.</note>
+ <note type="tnote" n="83">70<space rend="indent1"/><hi rend="italic">other</hi>. N: <hi rend="italic">oþer odyr</hi>.</note>
+ <note type="tnote" n="84">71<space rend="indent1"/><hi rend="italic">honour</hi>. Warren: <hi rend="italic">honoure</hi>.</note>
+ <note type="tnote" n="85"><space rend="indent1"/><hi rend="italic">who</hi>. Cov: <hi rend="italic">he</hi>.</note>
+ <note type="tnote" n="86"><space rend="indent1"/><hi rend="italic">prudently</hi>. Warren: <hi rend="italic">prudentely</hi>.</note>
+ <note type="tnote" n="87">72<space rend="indent1"/><hi rend="italic">dothe</hi>. Warren: <hi rend="italic">doth</hi>.</note>
+ <note type="tnote" n="88">75<space rend="indent1"/><hi rend="italic">must</hi>. RV, Warren: <hi rend="italic">most</hi>.</note>
+ <note type="tnote" n="89"><space rend="indent1"/><hi rend="italic">your</hi>. Cov: <hi rend="italic">the</hi>.</note>
+ <note type="tnote" n="90">77<space rend="indent1"/><hi rend="italic">Behinde</hi>. RV: <hi rend="italic">behynde you</hi>.</note>
+ <note type="tnote" n="91"><space rend="indent1"/><hi rend="italic">ricchesse</hi>. Cov: <hi rend="italic">your richesse</hi>.</note>
+ <note type="tnote" n="92">79<space rend="indent1"/><hi rend="italic">Agein</hi>. Warren: <hi rend="italic">Aȝ</hi><hi rend="italic">ens</hi>; Cov: <hi rend="italic">Ayenst</hi>. N: <hi rend="italic">Aȝen</hi>.</note>
+ <note type="tnote" n="93"><space rend="indent1"/><hi rend="italic">is worth</hi>. RV: <hi rend="italic">worth </hi><hi rend="italic">is</hi>.</note>
+ <note type="tnote" n="94">80<space rend="indent1"/><hi rend="italic">Adamis</hi>. RV, N: <hi rend="italic">Adams</hi>; Cov, Warren: <hi rend="italic">Adames</hi>.</note>
+ <note type="tnote" n="95"><space rend="indent1"/><hi rend="italic">mosten</hi>. So Cov, RV, Warren. N: <hi rend="italic">must</hi>; S: <hi rend="italic">moste</hi>.</note>
+ <note type="tnote" n="96">81<space rend="indent1"/><hi rend="italic">not</hi>. So Warren. Cov, S: <hi rend="italic">note</hi>.</note>
+ <note type="tnote" n="97"><space rend="indent1"/><hi rend="italic">may</hi>. RV: <hi rend="italic">may me</hi>.</note>
+ <note type="tnote" n="98">83<space rend="indent1"/><hi rend="italic">gein</hi>. Cov: <hi rend="italic">gynne</hi>; RV: <hi rend="italic">bote</hi>.</note>
+ <note type="tnote" n="99">86<space rend="indent1"/><hi rend="italic">visage</hi>. Cov: <hi rend="italic">my vesage</hi>.</note>
+ <note type="tnote" n="100">87<space rend="indent1"/><hi rend="italic">Therupon sore I may compleine</hi>. RV: <hi rend="italic">And thervpon I </hi><hi rend="italic">may me sore compleyn</hi>.</note>
+ <note type="tnote" n="101">88<space rend="indent1"/><hi rend="italic">have</hi>. Cov: <hi rend="italic">han</hi>.</note>
+ <note type="tnote" n="102"><space rend="indent1"/><hi rend="italic">litel</hi>. RV: <hi rend="italic">so litel</hi>.</note>
+ <note type="tnote" n="103">89<space rend="indent1"/><hi rend="italic">ben</hi>. So Cov, Warren. N, S: <hi rend="italic">be</hi>; RV: <hi rend="italic">been</hi>.</note>
+ <note type="tnote" n="104">90<space rend="indent1"/><hi rend="italic">shewith</hi>. Cov, RV: <hi rend="italic">semeth</hi>.</note>
+ <note type="tnote" n="105"><space rend="indent1"/><hi rend="italic">by</hi>. W: <hi rend="italic">be</hi>.</note>
+ <note type="tnote" n="106">91<space rend="indent1"/><hi rend="italic">shulle</hi>. Cov, RV: <hi rend="italic">shal</hi>.</note>
+ <note type="tnote" n="107">93<space rend="indent1"/><hi rend="italic">bileven</hi>. RV: <hi rend="italic">ye leue</hi>; Warren: <hi rend="italic">beleue</hi>.</note>
+ <note type="tnote" n="108">95<space rend="indent1"/><hi rend="italic">rekenyd</hi>. Cov: <hi rend="italic">I rekened</hi>.</note>
+ <note type="tnote" n="109"><space rend="indent1"/><hi rend="italic">yfere</hi>. N: <hi rend="italic">I </hi><hi rend="italic">fere</hi>; RV: <hi rend="italic">in fere</hi>.</note>
+ <note type="tnote" n="110">96<space rend="indent1"/><hi rend="italic">honour</hi>. Warren: <hi rend="italic">honowre</hi>.</note>
+ <note type="tnote" n="111">98<space rend="indent1"/><hi rend="italic">ben</hi>. So Warren. Cov, S: <hi rend="italic">bene</hi>; RV: <hi rend="italic">be</hi>.</note>
+ <note type="tnote" n="112"><space rend="indent1"/><hi rend="italic">greetly</hi>. Cov: <hi rend="italic">greteli</hi>; W: <hi rend="italic">gretli</hi>.</note>
+ <note type="tnote" n="113">99<space rend="indent1"/><hi rend="italic">Sithen</hi>. So Warren. Cov: <hi rend="italic">sethen</hi>; S: <hi rend="italic">seth</hi>; N, RV: <hi rend="italic">sith</hi>.</note>
+ <note type="tnote" n="114">100<space rend="indent1"/><hi rend="italic">That I shal nevere heraftir clothed </hi><hi rend="italic">be</hi>. This line omitted in RV.</note>
+ <note type="tnote" n="115">101<space rend="indent1"/><hi rend="italic">ne</hi>. W: <hi rend="italic">ner</hi>.</note>
+ <note type="tnote" n="116"><space rend="indent1"/>RV inserts an additional line after line 101, replacing its missing line 100. This inserted line reads: <hi rend="italic">alle myn aray </hi><hi rend="italic">to leue behynde me</hi>.</note>
+ <note type="tnote" n="117">102<space rend="indent1"/><hi rend="italic">My</hi>. RV: <hi rend="italic">myn</hi>; Cov: <hi rend="italic">myne</hi>.</note>
+ <note type="tnote" n="118">103<space rend="indent1"/><hi rend="italic">lerned</hi>. So Warren. Cov: <hi rend="italic">levid</hi>; N, S: <hi rend="italic">lyved</hi>; RV: <hi rend="italic">conceyued</hi>.</note>
+ <note type="tnote" n="119">104<space rend="indent1"/><hi rend="italic">Howe that al</hi>. RV: <hi rend="italic">That worldly</hi>.</note>
+ <note type="tnote" n="120">107<space rend="indent1"/><hi rend="italic">somtyme</hi><hi rend="italic"> had</hi>. RV: <hi rend="italic">had somtyme</hi>.</note>
+ <note type="tnote" n="121"><space rend="indent1"/><hi rend="italic">enviroun</hi>. Warren: <hi rend="italic">envroun</hi>.</note>
+ <note type="tnote" n="122">109<space rend="indent1"/><hi rend="italic">al youre</hi><hi rend="italic"> grete</hi>. RV: <hi rend="italic">for all your</hi>.</note>
+ <note type="tnote" n="123"><space rend="indent1"/><hi rend="italic">hynes</hi>. Cov: <hi rend="italic">hevinesse</hi>.</note>
+ <note type="tnote" n="124">110<space rend="indent1"/><hi rend="italic">shul</hi>. Cov, RV: <hi rend="italic">shal</hi>.</note>
+ <note type="tnote" n="125">113<space rend="indent1"/><hi rend="italic">aforn</hi>. Cov, RV: <hi rend="italic">afore</hi>.</note>
+ <note type="tnote" n="126">114<space rend="indent1"/><hi rend="italic">in</hi><hi rend="italic"> sooth</hi>. Cov: <hi rend="italic">of sothe</hi>.</note>
+ <note type="tnote" n="127"><space rend="indent1"/><hi rend="italic">footyng</hi>. Cov: <hi rend="italic">fote</hi>; N: <hi rend="italic">foot</hi>.</note>
+ <note type="tnote" n="128">116<space rend="indent1"/><hi rend="italic">or</hi>. Cov: <hi rend="italic">ne</hi>.</note>
+ <note type="tnote" n="129">118<space rend="indent1"/><hi rend="italic">Greet</hi>. RV: <hi rend="italic">Bothe grete</hi>.</note>
+ <note type="tnote" n="130">119<space rend="indent1"/><hi rend="italic">Who</hi>. So Cov, RV, Warren. S: <hi rend="italic">ho</hi>; N: <hi rend="italic">He</hi>.</note>
+ <note type="tnote" n="131"><space rend="indent1"/><hi rend="italic">he </hi><hi rend="italic">is</hi>. Cov: <hi rend="italic">hym</hi>.</note>
+ <note type="tnote" n="132">120<space rend="indent1"/><hi rend="italic">we</hi>. So RV, Warren. Cov, N, S: <hi rend="italic">he</hi>.</note>
+ <note type="tnote" n="133"><space rend="indent1"/><hi rend="italic">asshes</hi>. Cov: <hi rend="italic">asshen</hi>.</note>
+ <note type="tnote" n="134">121<space rend="indent1"/><hi rend="italic">alle</hi>. RV: <hi rend="italic">with al</hi>.</note>
+ <note type="tnote" n="135">122<space rend="indent1"/><hi rend="italic">quite</hi>. Cov: <hi rend="italic">quiteth</hi>.</note>
+ <note type="tnote" n="136"><space rend="indent1"/><hi rend="italic">ne</hi><hi rend="subscript">2</hi>. RV: <hi rend="italic">for</hi>.</note>
+ <note type="tnote" n="137">124<space rend="indent1"/><hi rend="italic">al youre </hi><hi rend="italic">dignité</hi>. Cov: <hi rend="italic">youre dingnite</hi>.</note>
+ <note type="tnote" n="138">127<space rend="indent1"/><hi rend="italic">shal</hi>. S: <hi rend="italic">shulle</hi>; Warren: <hi rend="italic">shul</hi>.</note>
+ <note type="tnote" n="139">130<space rend="indent1"/><hi rend="italic">Have</hi>. So RV, Warren. S: <hi rend="italic">han</hi>; Cov: <hi rend="italic">hath</hi>.</note>
+ <note type="tnote" n="140">131<space rend="indent1"/><hi rend="italic">ben</hi>. So RV, Warren. Cov, S: <hi rend="italic">be</hi>.</note>
+ <note type="tnote" n="141"><space rend="indent1"/><hi rend="italic">to</hi>. Cov: <hi rend="italic">into</hi>.</note>
+ <note type="tnote" n="142">132<space rend="indent1"/><hi rend="italic">vailith it</hi>. RV: <hi rend="italic">availleth</hi>.</note>
+ <note type="tnote" n="143"><space rend="indent1"/><hi rend="italic">suche</hi>. N: <hi rend="italic">shull</hi>.</note>
+ <note type="tnote" n="144">134<space rend="indent1"/><hi rend="italic">oute</hi><hi rend="italic"> of</hi>. Cov: <hi rend="italic">without</hi>.</note>
+ <note type="tnote" n="145">136<space rend="indent1"/><hi rend="italic">berthen</hi>. Cov: <hi rend="italic">berden</hi>; RV: <hi rend="italic">birthen</hi>; Warren: <hi rend="italic">burdoun</hi>.</note>
+ <note type="tnote" n="146"><space rend="indent1"/><hi rend="italic">hym</hi>. Cov: <hi rend="italic">hem</hi>.</note>
+ <note type="tnote" n="147"><space rend="indent1"/><hi rend="italic">ofte</hi>. Cov: <hi rend="italic">offten</hi>.</note>
+ <note type="tnote" n="148">Before 137<space rend="indent1"/><hi rend="italic">Constable</hi>. RV: <hi rend="italic">Knyght constable</hi>.</note>
+ <note type="tnote" n="149">137<space rend="indent1"/><hi rend="italic">my right</hi>. RV: <hi rend="italic">right</hi>.</note>
+ <note type="tnote" n="150"><space rend="indent1"/><hi rend="italic">to</hi>. Cov: <hi rend="italic">you to</hi>.</note>
+ <note type="tnote" n="151"><space rend="indent1"/><hi rend="italic">reste</hi>. Cov: <hi rend="italic">areste</hi>.</note>
+ <note type="tnote" n="152"><space rend="indent1"/><hi rend="italic">yow constreine</hi>. Cov: <hi rend="italic">constrene</hi>.</note>
+ <note type="tnote" n="153">138<space rend="indent1"/><hi rend="italic">Sir</hi>. W: <hi rend="italic">sire</hi>.</note>
+ <note type="tnote" n="154"><space rend="indent1"/><hi rend="italic">Constable</hi>. Warren: <hi rend="italic">Conestable</hi>.</note>
+ <note type="tnote" n="155">139<space rend="indent1"/><hi rend="italic">strong</hi>. RV: <hi rend="italic">strenger</hi>.</note>
+ <note type="tnote" n="156"><space rend="indent1"/><hi rend="italic">Charlemayne</hi>. Cov: <hi rend="italic">Chalemain</hi>.</note>
+ <note type="tnote" n="157">140<space rend="indent1"/><hi rend="italic">aforced</hi>. Cov, RV: <hi rend="italic">enforced</hi>.</note>
+ <note type="tnote" n="158">141<space rend="indent1"/><hi rend="italic">ne</hi>. Cov: <hi rend="italic">and</hi>; RV: <hi rend="italic">nor</hi>.</note>
+ <note type="tnote" n="159"><space rend="indent1"/><hi rend="italic">this is</hi>. RV: <hi rend="italic">is</hi>.</note>
+ <note type="tnote" n="160">142<space rend="indent1"/><hi rend="italic">armure</hi>. N: <hi rend="italic">arm[ou]re</hi>.</note>
+ <note type="tnote" n="161"><space rend="indent1"/><hi rend="italic">plates</hi>. Cov: <hi rend="italic">plate</hi>.</note>
+ <note type="tnote" n="162">143<space rend="indent1"/><hi rend="italic">folkes</hi>. Cov: <hi rend="italic">folke</hi>.</note>
+ <note type="tnote" n="163">144<space rend="indent1"/><hi rend="italic">luste</hi>. So Cov, RV, Warren. S, N: <hi rend="italic">lest</hi>.</note>
+ <note type="tnote" n="164">Before 145<space rend="indent1"/><hi rend="italic">The Constable answerith</hi>. RV: <hi rend="italic">knyght constable</hi>.</note>
+ <note type="tnote" n="165">146<space rend="indent1"/><hi rend="italic">To</hi><hi rend="italic"> assaille</hi>. RV: <hi rend="italic">to haue assailed</hi>.</note>
+ <note type="tnote" n="166"><space rend="indent1"/><hi rend="italic">mighty forteresses</hi>. RV: <hi rend="italic">forteresses</hi>. Cov: <hi rend="italic">myghtilie to recesse</hi>; N: <hi rend="italic">myghty to recesse</hi>.</note>
+ <note type="tnote" n="167">147<space rend="indent1"/><hi rend="italic">unto</hi>. Cov: <hi rend="italic">to</hi>.</note>
+ <note type="tnote" n="168">148<space rend="indent1"/><hi rend="italic">seke</hi>. Cov: <hi rend="italic">seche</hi>.</note>
+ <note type="tnote" n="169"><space rend="indent1"/><hi rend="italic">fame</hi>. So RV, Warren. Cov, N, S: <hi rend="italic">and fame</hi>.</note>
+ <note type="tnote" n="170">149<space rend="indent1"/><hi rend="italic">worldly</hi>. Warren, N: <hi rend="italic">wordli</hi>.</note>
+ <note type="tnote" n="171"><space rend="indent1"/><hi rend="italic">prowesses</hi>. Cov, N, RV: <hi rend="italic">prowesse</hi>.</note>
+ <note type="tnote" n="172">151<space rend="indent1"/><hi rend="italic">him</hi>. N: <hi rend="italic">hym hym</hi>.</note>
+ <note type="tnote" n="173"><space rend="indent1"/><hi rend="italic">sorwe</hi>. Cov, N, Warren: <hi rend="italic">sorowe</hi>; RV: <hi rend="italic">sorow</hi>.</note>
+ <note type="tnote" n="174"><space rend="indent1"/><hi rend="italic">swetnesses</hi>. Cov, RV: <hi rend="italic">swetnesse</hi>; Warren: <hi rend="italic">swetenesses</hi>.</note>
+ <note type="tnote" n="175">152<space rend="indent1"/><hi rend="italic">agein</hi>. Cov: <hi rend="italic">ayen</hi>; RV: <hi rend="italic">ayenst</hi>; Warren: <hi rend="italic">aȝ</hi><hi rend="italic">eyne</hi>.</note>
+ <note type="tnote" n="176"><space rend="indent1"/><hi rend="italic">founded</hi>. Cov, N, S, Warren: <hi rend="italic">founden</hi>; RV: <hi rend="italic">founde</hi>.</note>
+ <note type="tnote" n="177">153<space rend="indent1"/><hi rend="italic">yow</hi>. RV: <hi rend="italic">so</hi>.</note>
+ <note type="tnote" n="178">155<space rend="indent1"/><hi rend="italic">muste</hi>. RV, Warren: <hi rend="italic">most</hi>.</note>
+ <note type="tnote" n="179"><space rend="indent1"/><hi rend="italic">to</hi>. RV: <hi rend="italic">vnto</hi>.</note>
+ <note type="tnote" n="180">156<space rend="indent1"/><hi rend="italic">contrarie</hi>. Cov: <hi rend="italic">constreine</hi>.</note>
+ <note type="tnote" n="181"><space rend="indent1"/><hi rend="italic">were</hi>. So RV, Warren. Cov: <hi rend="italic">neve</hi>; S: <hi rend="italic">nere</hi>; N: <hi rend="italic">ware</hi>.</note>
+ <note type="tnote" n="182"><space rend="indent1"/><hi rend="italic">not but</hi>. RV: <hi rend="italic">but</hi>.</note>
+ <note type="tnote" n="183">157<space rend="indent1"/><hi rend="italic">for day by day</hi>. Cov: <hi rend="italic">ffro daie to daie</hi>.</note>
+ <note type="tnote" n="184"><space rend="indent1"/><hi rend="italic">is noon othir geyn</hi>. Cov: <hi rend="italic">is nis noo noþer</hi>.</note>
+ <note type="tnote" n="185">158<space rend="indent1"/><hi rend="italic">at</hi>. So RV, Warren. Cov: <hi rend="italic">atte</hi>; S, N: <hi rend="italic">at </hi><hi rend="italic">the</hi>.</note>
+ <note type="tnote" n="186">159<space rend="indent1"/><hi rend="italic">mote</hi>. RV: <hi rend="italic">moste</hi>.</note>
+ <note type="tnote" n="187"><space rend="indent1"/><hi rend="italic">agein</hi>. RV: <hi rend="italic">ayene</hi>; Warren: <hi rend="italic">aȝ</hi><hi rend="italic">eyne</hi>.</note>
+ <note type="tnote" n="188">160<space rend="indent1"/><hi rend="italic">counten</hi>. RV: <hi rend="italic">compten</hi>.</note>
+ <note type="tnote" n="189"><space rend="indent1"/><hi rend="italic">her</hi>. RV: <hi rend="italic">thaire</hi>.</note>
+ <note type="tnote" n="190">161<space rend="indent1"/><hi rend="italic">woote</hi>. N: <hi rend="italic">wate</hi>.</note>
+ <note type="tnote" n="191"><space rend="indent1"/><hi rend="italic">partie</hi>. N: <hi rend="italic">p[ar]tis</hi>.</note>
+ <note type="tnote" n="192">162<space rend="indent1"/><hi rend="italic">For drede </hi><hi rend="italic">of Dethe I have so grete distresse</hi>. Cov: <hi rend="italic">Dethe hath </hi><hi rend="italic">in erþe noo ladie me maistresse</hi>.</note>
+ <note type="tnote" n="193">163<space rend="indent1"/><hi rend="italic">ascape</hi>. Cov: <hi rend="italic">escape</hi>.</note>
+ <note type="tnote" n="194">167<space rend="indent1"/><hi rend="italic">chaumbres</hi>. Cov: <hi rend="italic">chambir</hi>.</note>
+ <note type="tnote" n="195">168<space rend="indent1"/><hi rend="italic">must</hi>. Warren: <hi rend="italic">mote</hi>.</note>
+ <note type="tnote" n="196">169<space rend="indent1"/><hi rend="italic">lordis</hi>. RV: <hi rend="italic">ladyes</hi>.</note>
+ <note type="tnote" n="197"><space rend="indent1"/><hi rend="italic">barouns</hi>. Cov: <hi rend="italic">barones</hi>.</note>
+ <note type="tnote" n="198">170<space rend="indent1"/><hi rend="italic">Hav</hi>. Cov, S: <hi rend="italic">han</hi>. RV: <hi rend="italic">haue</hi>.</note>
+ <note type="tnote" n="199">171<space rend="indent1"/><hi rend="italic">trumpetis</hi>. RV: <hi rend="italic">trompette</hi>.</note>
+ <note type="tnote" n="200"><space rend="indent1"/><hi rend="italic">youre clariouns</hi>. Cov: <hi rend="italic">clariones</hi>; N: <hi rend="italic">youre clairons</hi>; RV: <hi rend="italic">youre clarion</hi>.</note>
+ <note type="tnote" n="201">174<space rend="indent1"/><hi rend="italic">daunce</hi>. Cov: <hi rend="italic">dauncen</hi>.</note>
+ <note type="tnote" n="202">176<space rend="indent1"/><hi rend="italic">o</hi>. N: <hi rend="italic">a</hi>.</note>
+ <note type="tnote" n="203">177<space rend="indent1"/><hi rend="italic">sithe</hi>. RV: <hi rend="italic">tymes</hi>.</note>
+ <note type="tnote" n="204"><space rend="indent1"/><hi rend="italic">auctorised</hi>. N: <hi rend="italic">aucorised</hi>.</note>
+ <note type="tnote" n="205">179<space rend="indent1"/><hi rend="italic">thanke</hi>. N: <hi rend="italic">thonke</hi>.</note>
+ <note type="tnote" n="206">181<space rend="indent1"/><hi rend="italic">Ne</hi>. Cov: <hi rend="italic">no</hi>.</note>
+ <note type="tnote" n="207">182<space rend="indent1"/><hi rend="italic">court</hi>. Cov: <hi rend="italic">courtes</hi>.</note>
+ <note type="tnote" n="208">Before 185<space rend="indent1"/><hi rend="italic">Lady of Grete Astate</hi>. RV: <hi rend="italic">Princesse</hi>.</note>
+ <note type="tnote" n="209">186<space rend="indent1"/><hi rend="italic">muste</hi>. RV, Warren: <hi rend="italic">most</hi>.</note>
+ <note type="tnote" n="210"><space rend="indent1"/><hi rend="italic">goo</hi>. Cov: <hi rend="italic">gone</hi>.</note>
+ <note type="tnote" n="211">187<space rend="indent1"/><hi rend="italic">Nowt</hi>. So Warren. Cov, S: <hi rend="italic">not</hi>. RV: <hi rend="italic">noght</hi>.</note>
+ <note type="tnote" n="212">188<space rend="indent1"/><hi rend="italic">beauté</hi>. Cov: <hi rend="italic">grete beaute</hi>.</note>
+ <note type="tnote" n="213"><space rend="indent1"/><hi rend="italic">greet plesaunce</hi>. Cov: <hi rend="italic">plesaunce</hi>.</note>
+ <note type="tnote" n="214">190<space rend="indent1"/><hi rend="italic">so</hi><hi rend="italic"> many holde</hi>. RV: <hi rend="italic">holde so many</hi>.</note>
+ <note type="tnote" n="215"><space rend="indent1"/><hi rend="italic">on</hi>. So Cov, RV, Warren. S: <hi rend="italic">an</hi>.</note>
+ <note type="tnote" n="216">192<space rend="indent1"/><hi rend="italic">Ye</hi>. So Cov, RV, Warren. S: <hi rend="italic">þe</hi>.</note>
+ <note type="tnote" n="217"><space rend="indent1"/><hi rend="italic">mote</hi>. RV: <hi rend="italic">most</hi>.</note>
+ <note type="tnote" n="218">Before 193<space rend="indent1"/><hi rend="italic">The Lady answerith</hi>. RV identifies this speaker as <hi rend="italic">princesse</hi>.</note>
+ <note type="tnote" n="219">194<space rend="indent1"/><hi rend="italic">lady ne</hi>. N: <hi rend="italic">lady no</hi>.</note>
+ <note type="tnote" n="220"><space rend="indent1"/><hi rend="italic">Deeth hath in </hi><hi rend="italic">erthe no lady ne maistresse</hi>. Cov: <hi rend="italic">ffor drede of dethe </hi><hi rend="italic">I haue so grete distresse</hi>.</note>
+ <note type="tnote" n="221">195<space rend="indent1"/><hi rend="italic">his</hi>. Cov: <hi rend="italic">this</hi>.</note>
+ <note type="tnote" n="222"><space rend="indent1"/><hi rend="italic">muste</hi>. Cov: <hi rend="italic">mot</hi>; RV, Warren: <hi rend="italic">moste</hi>.</note>
+ <note type="tnote" n="223"><space rend="indent1"/><hi rend="italic">I</hi>. So RV, Warren. Cov, S: <hi rend="italic">ye</hi>.</note>
+ <note type="tnote" n="224">196<space rend="indent1"/><hi rend="italic">nys</hi>. RV: <hi rend="italic">is</hi>.</note>
+ <note type="tnote" n="225"><space rend="indent1"/><hi rend="italic">contesse ne duchesse</hi>. Cov: <hi rend="italic">duchesse ne Countesse</hi>.</note>
+ <note type="tnote" n="226">197<space rend="indent1"/><hi rend="italic">beaut</hi><hi rend="italic">é</hi>. So RV, Warren. Cov, N, S: <hi rend="italic">bounte</hi>.</note>
+ <note type="tnote" n="227">198<space rend="indent1"/><hi rend="italic">Deeth</hi>. RV: <hi rend="italic">right</hi>.</note>
+ <note type="tnote" n="228"><space rend="indent1"/><hi rend="italic">mote</hi>. RV: <hi rend="italic">moste</hi>.</note>
+ <note type="tnote" n="229">199<space rend="indent1"/><hi rend="italic">youre</hi>. RV: <hi rend="italic">our</hi>.</note>
+ <note type="tnote" n="230"><space rend="indent1"/><hi rend="italic">countirfeet</hi>. Cov, Warren: <hi rend="italic">counterfete</hi>. RV: <hi rend="italic">contrefete</hi>.</note>
+ <note type="tnote" n="231"><space rend="indent1"/><hi rend="italic">fresshnesse</hi>. Cov: <hi rend="italic">fairnesse</hi>.</note>
+ <note type="tnote" n="232">200<space rend="indent1"/><hi rend="italic">Owre</hi>. So Warren. Cov, S: <hi rend="italic">youre</hi>.</note>
+ <note type="tnote" n="233"><space rend="indent1"/><hi rend="italic">rympled</hi>. RV: <hi rend="italic">riveled</hi>.</note>
+ <note type="tnote" n="234"><space rend="indent1"/><hi rend="italic">age</hi>. Cov: <hi rend="italic">face</hi>.</note>
+ <note type="tnote" n="235">202<space rend="indent1"/><hi rend="italic">I ensure</hi>. Cov: <hi rend="italic">I you ensure</hi>.</note>
+ <note type="tnote" n="236">203<space rend="indent1"/><hi rend="italic">For</hi><hi rend="italic"> al</hi>. RV: <hi rend="italic">Alle</hi>.</note>
+ <note type="tnote" n="237">205<space rend="indent1"/><hi rend="italic">the</hi>. N: <hi rend="italic">ȝe</hi>.</note>
+ <note type="tnote" n="238"><space rend="indent1"/><hi rend="italic">gostli dredeful</hi>. So RV, Warren. Cov, S, N: <hi rend="italic">dredly goostly</hi>.</note>
+ <note type="tnote" n="239">207<space rend="indent1"/><hi rend="italic">acounte</hi>. RV: <hi rend="italic">accompte</hi>.</note>
+ <note type="tnote" n="240"><space rend="indent1"/><hi rend="italic">shulle</hi>. Cov, RV: <hi rend="italic">shal</hi>.</note>
+ <note type="tnote" n="241">209<space rend="indent1"/><hi rend="italic">My</hi>. Cov: <hi rend="italic">Myne</hi>.</note>
+ <note type="tnote" n="242"><space rend="indent1"/><hi rend="italic">is</hi>. Cov: <hi rend="italic">nys</hi>.</note>
+ <note type="tnote" n="243"><space rend="indent1"/><hi rend="italic">nouther</hi>. RV: <hi rend="italic">nothing</hi>; N: <hi rend="italic">nowether</hi>.</note>
+ <note type="tnote" n="244">210<space rend="indent1"/><hi rend="italic">tidinges</hi>. N: <hi rend="italic">tithings</hi>.</note>
+ <note type="tnote" n="245"><space rend="indent1"/><hi rend="italic">ye bring</hi>. RV: <hi rend="italic">ye me bringe</hi>.</note>
+ <note type="tnote" n="246">211<space rend="indent1"/><hi rend="italic">festis</hi>. Cov, RV: <hi rend="italic">feste is</hi>.</note>
+ <note type="tnote" n="247"><space rend="indent1"/><hi rend="italic">into</hi>. So Cov, Warren. RV, S: <hi rend="italic">into a</hi>.</note>
+ <note type="tnote" n="248"><space rend="indent1"/><hi rend="italic">ferye</hi>. N: <hi rend="italic">fayres</hi>.</note>
+ <note type="tnote" n="249">212<space rend="indent1"/><hi rend="italic">list nothing syng</hi>. Cov: <hi rend="italic">lust noo lenger sing</hi>.</note>
+ <note type="tnote" n="250"><space rend="indent1"/><hi rend="italic">syng</hi>. RV: <hi rend="italic">to syng</hi>.</note>
+ <note type="tnote" n="251">213<space rend="indent1"/><hi rend="italic">contrarie </hi><hi rend="italic">nowe</hi>. Cov: <hi rend="italic">is contrarie</hi>.</note>
+ <note type="tnote" n="252"><space rend="indent1"/><hi rend="italic">to</hi>. So RV, Warren. Cov, S, N: <hi rend="italic">unto</hi>.</note>
+ <note type="tnote" n="253"><space rend="indent1"/><hi rend="italic">me in</hi>. RV: <hi rend="italic">my</hi>.</note>
+ <note type="tnote" n="254">215<space rend="indent1"/><hi rend="italic">parting</hi>. Cov: <hi rend="italic">departing</hi>.</note>
+ <note type="tnote" n="255">216<space rend="indent1"/><hi rend="italic">And al</hi>. RV: <hi rend="italic">Alle</hi>.</note>
+ <note type="tnote" n="256">217<space rend="indent1"/><hi rend="italic">right fresshe of</hi>. Cov: <hi rend="italic">fresshe in</hi>. RV: <hi rend="italic">right fressh in</hi>.</note>
+ <note type="tnote" n="257">222<space rend="indent1"/><hi rend="italic">wil</hi>. Cov: <hi rend="italic">wol</hi>.</note>
+ <note type="tnote" n="258">224<space rend="indent1"/><hi rend="italic">fro</hi>. Cov: <hi rend="italic">from</hi>.</note>
+ <note type="tnote" n="259">225<space rend="indent1"/><hi rend="italic">Sithen</hi>. RV: <hi rend="italic">Sith</hi>.</note>
+ <note type="tnote" n="260"><space rend="indent1"/><hi rend="italic">that Dethe</hi>. RV: <hi rend="italic">dethe</hi>.</note>
+ <note type="tnote" n="261"><space rend="indent1"/><hi rend="italic">his</hi>. N: <hi rend="italic">þis</hi>.</note>
+ <note type="tnote" n="262">226<space rend="indent1"/><hi rend="italic">pace</hi>. RV: <hi rend="italic">passe</hi>.</note>
+ <note type="tnote" n="263">227<space rend="indent1"/><hi rend="italic">adieu nowe</hi>. RV: <hi rend="italic">adieu</hi>.</note>
+ <note type="tnote" n="264">228<space rend="indent1"/><hi rend="italic">Adieu</hi>. Cov: <hi rend="italic">Adewe nowe</hi>.</note>
+ <note type="tnote" n="265">229<space rend="indent1"/><hi rend="italic">beuté</hi>. Cov: <hi rend="italic">now</hi>.</note>
+ <note type="tnote" n="266"><space rend="indent1"/><hi rend="italic">solace</hi>. Cov: <hi rend="italic">all solace</hi>.</note>
+ <note type="tnote" n="267">231<space rend="indent1"/><hi rend="italic">Thinketh</hi>. Cov, RV: <hi rend="italic">Thenke</hi>.</note>
+ <note type="tnote" n="268">232<space rend="indent1"/><hi rend="italic">wote</hi>. N: <hi rend="italic">wate</hi>.</note>
+ <note type="tnote" n="269">234<space rend="indent1"/><hi rend="italic">abaisshed</hi>. N: <hi rend="italic">abasshed is</hi>.</note>
+ <note type="tnote" n="270"><space rend="indent1"/><hi rend="italic">though</hi>. N: <hi rend="italic">is þogh</hi>.</note>
+ <note type="tnote" n="271">235<space rend="indent1"/><hi rend="italic">hede</hi>. So RV, Warren. Cov, N, S: <hi rend="italic">hood</hi>.</note>
+ <note type="tnote" n="272">236<space rend="indent1"/><hi rend="italic">mote</hi>. RV: <hi rend="italic">moste</hi>.</note>
+ <note type="tnote" n="273">237<space rend="indent1"/><hi rend="italic">Leveth</hi>. So RV, Warren. Cov, N, S: <hi rend="italic">leve vp</hi>.</note>
+ <note type="tnote" n="274">239<space rend="indent1"/><hi rend="italic">Who</hi>. Cov: <hi rend="italic">he</hi>.</note>
+ <note type="tnote" n="275"><space rend="indent1"/><hi rend="italic">that is fattest</hi>. RV: <hi rend="italic">is moste </hi><hi rend="italic">fatte</hi>.</note>
+ <note type="tnote" n="276"><space rend="indent1"/><hi rend="italic">have hym</hi>. Cov: <hi rend="italic">have hit hym</hi>.</note>
+ <note type="tnote" n="277">240<space rend="indent1"/><hi rend="italic">In his </hi><hi rend="italic">grave shal</hi>. RV: <hi rend="italic">Shal in his graue</hi>.</note>
+ <note type="tnote" n="278"><space rend="indent1"/><hi rend="italic">putrefie</hi>. Cov: <hi rend="italic">purify</hi>.</note>
+ <note type="tnote" n="279">241<space rend="indent1"/><hi rend="italic">thretis</hi>. Cov: <hi rend="italic">tretis</hi>.</note>
+ <note type="tnote" n="280"><space rend="indent1"/><hi rend="italic">have I</hi>. RV: <hi rend="italic">I have</hi>.</note>
+ <note type="tnote" n="281">242<space rend="indent1"/><hi rend="italic">nowe leve</hi>. N: <hi rend="italic">leve now</hi>.</note>
+ <note type="tnote" n="282"><space rend="indent1"/><hi rend="italic">al</hi>. Cov: <hi rend="italic">all þe</hi>.</note>
+ <note type="tnote" n="283">245<space rend="indent1"/><hi rend="italic">nor</hi>. Cov: <hi rend="italic">ne</hi>.</note>
+ <note type="tnote" n="284">247<space rend="indent1"/><hi rend="italic">axe I</hi>. RV: <hi rend="italic">I ask</hi>; N: <hi rend="italic">aske I</hi>.</note>
+ <note type="tnote" n="285">248<space rend="indent1"/><hi rend="italic">Though</hi>. Cov: <hi rend="italic">For</hi>.</note>
+ <note type="tnote" n="286"><space rend="indent1"/><hi rend="italic">too late men</hi>. Cov: <hi rend="italic">men to late</hi>.</note>
+ <note type="tnote" n="287"><space rend="indent1"/><hi rend="italic">hem avise</hi>. N: <hi rend="italic">avyse</hi>.</note>
+ <note type="tnote" n="288">249<space rend="indent1"/><hi rend="italic">lady gentil</hi>. Cov: <hi rend="italic">gentil ladie</hi>.</note>
+ <note type="tnote" n="289">250<space rend="indent1"/><hi rend="italic">mantels</hi>. Cov: <hi rend="italic">mantelle</hi>.</note>
+ <note type="tnote" n="290">251<space rend="indent1"/><hi rend="italic">passinge of</hi>. Cov: <hi rend="italic">of</hi>.</note>
+ <note type="tnote" n="291"><space rend="indent1"/><hi rend="italic">Youre veile</hi><hi rend="italic">, youre wymple passinge of greet richesse</hi>. This line is inserted in the margin in N.</note>
+ <note type="tnote" n="292">252<space rend="indent1"/><hi rend="italic">mote</hi>. RV: <hi rend="italic">most</hi>.</note>
+ <note type="tnote" n="293"><space rend="indent1"/><hi rend="italic">leie</hi>. Warren: <hi rend="italic">leyne</hi>.</note>
+ <note type="tnote" n="294"><space rend="indent1"/><hi rend="italic">aside</hi>. N: <hi rend="italic">on syde</hi>.</note>
+ <note type="tnote" n="295">253<space rend="indent1"/><hi rend="italic">shal</hi>. RV: <hi rend="italic">moste</hi>.</note>
+ <note type="tnote" n="296">255<space rend="indent1"/><hi rend="italic">provide</hi>. Cov: <hi rend="italic">purveie</hi>.</note>
+ <note type="tnote" n="297">256<space rend="indent1"/><hi rend="italic">man</hi>. RV: <hi rend="italic">wight</hi>.</note>
+ <note type="tnote" n="298">258<space rend="indent1"/><hi rend="italic">it not</hi>. Cov: <hi rend="italic">nat</hi>.</note>
+ <note type="tnote" n="299">262<space rend="indent1"/><hi rend="italic">to</hi>. Cov, N: <hi rend="italic">for to</hi>.</note>
+ <note type="tnote" n="300"><space rend="indent1"/><hi rend="italic">to walke</hi><hi rend="italic"> atte large</hi>. In Selden, this line breaks off after <hi rend="italic">ful</hi><hi rend="italic"> ofte</hi> and space is left for the remainder, along with absent lines 263 and 264, which are supplied here from Warren’s edition.</note>
+ <note type="tnote" n="301">263<space rend="indent1"/><hi rend="italic">Thus</hi><hi rend="italic"> cruel Dethe dothe al estates fyne</hi>. This line is omitted in N. Cov: <hi rend="italic">To make þe worlde to me </hi><hi rend="italic">encline</hi>.</note>
+ <note type="tnote" n="302">264<space rend="indent1"/><hi rend="italic">mote</hi>. RV: <hi rend="italic">moste</hi>.</note>
+ <note type="tnote" n="303">265<space rend="indent1"/><hi rend="italic">knowen</hi>. Cov: <hi rend="italic">knowest</hi>; RV: <hi rend="italic">know</hi>; Warren: <hi rend="italic">knewe</hi>.</note>
+ <note type="tnote" n="304">266<space rend="indent1"/><hi rend="italic">rightwisnes</hi>. Cov: <hi rend="italic">of right wisnesse</hi>; RV: <hi rend="italic">rightwisnesse</hi>.</note>
+ <note type="tnote" n="305">267<space rend="indent1"/><hi rend="italic">must</hi>. RV, Warren: <hi rend="italic">moste</hi>.</note>
+ <note type="tnote" n="306">269<space rend="indent1"/><hi rend="italic">ben</hi>. So RV, Warren. Cov, S: <hi rend="italic">be</hi>.</note>
+ <note type="tnote" n="307"><space rend="indent1"/><hi rend="italic">somonyd</hi>. Cov: <hi rend="italic">somned</hi>; N: <hi rend="italic">somenyd</hi>; RV: <hi rend="italic">somond</hi>; Warren: <hi rend="italic">sommened</hi>.</note>
+ <note type="tnote" n="308"><space rend="indent1"/><hi rend="italic">bit</hi>. Cov: <hi rend="italic">bytte</hi>; RV: <hi rend="italic">biddeth</hi>.</note>
+ <note type="tnote" n="309">270<space rend="indent1"/><hi rend="italic">yelde</hi>. RV: <hi rend="italic">yeue</hi>; Warren: <hi rend="italic">ȝefe</hi>.</note>
+ <note type="tnote" n="310"><space rend="indent1"/><hi rend="italic">acountes</hi>. RV, Warren: <hi rend="italic">accomptes</hi>.</note>
+ <note type="tnote" n="311"><space rend="indent1"/><hi rend="italic">wole</hi>. RV, W: <hi rend="italic">wil</hi>.</note>
+ <note type="tnote" n="312">272<space rend="indent1"/><hi rend="italic">owne</hi>. RV: <hi rend="italic">oune</hi>.</note>
+ <note type="tnote" n="313">273<space rend="indent1"/><hi rend="italic">this</hi>. RV: <hi rend="italic">that</hi>.</note>
+ <note type="tnote" n="314">274<space rend="indent1"/><hi rend="italic">whiche</hi>. So RV, Warren. Cov, N, S: <hi rend="italic">suche</hi>.</note>
+ <note type="tnote" n="315"><space rend="indent1"/><hi rend="italic">aforne</hi>. So RV, Warren. Cov: <hi rend="italic">a forme</hi>; N, S: <hi rend="italic">a </hi><hi rend="italic">fourme</hi>.</note>
+ <note type="tnote" n="316"><space rend="indent1"/><hi rend="italic">tooke</hi>. Cov: <hi rend="italic">take</hi>; Warren, RV, N: <hi rend="italic">toke</hi>.</note>
+ <note type="tnote" n="317">275<space rend="indent1"/><hi rend="italic">chaunge</hi>. Warren: <hi rend="italic">chaunce</hi>.</note>
+ <note type="tnote" n="318">276<space rend="indent1"/><hi rend="italic">list</hi>. Cov, RV: <hi rend="italic">lust</hi>.</note>
+ <note type="tnote" n="319">277<space rend="indent1"/><hi rend="italic">by</hi>. Cov, RV: <hi rend="italic">for</hi>.</note>
+ <note type="tnote" n="320"><space rend="indent1"/><hi rend="italic">for</hi>. N: <hi rend="italic">be</hi>.</note>
+ <note type="tnote" n="321">278<space rend="indent1"/><hi rend="italic">rescuse</hi>. So Cov, RV, Warren. N, S: <hi rend="italic">rescws</hi>.</note>
+ <note type="tnote" n="322"><space rend="indent1"/><hi rend="italic">by</hi>. RV: <hi rend="italic">ne</hi>.</note>
+ <note type="tnote" n="323">280<space rend="indent1"/><hi rend="italic">Agein</hi>. Cov: <hi rend="italic">Ayenne</hi>; RV: <hi rend="italic">Ayenst</hi>; Warren: <hi rend="italic">Aȝen</hi>.</note>
+ <note type="tnote" n="324"><space rend="indent1"/><hi rend="italic">vaille</hi>. Cov, RV: <hi rend="italic">availle</hi>.</note>
+ <note type="tnote" n="325">281<space rend="indent1"/><hi rend="italic">loken</hi>. Cov: <hi rend="italic">lokest</hi>.</note>
+ <note type="tnote" n="326">282<space rend="indent1"/><hi rend="italic">instrumentis</hi>. RV, N: <hi rend="italic">Instruments</hi>.</note>
+ <note type="tnote" n="327">285<space rend="indent1"/><hi rend="italic">Sethen of</hi>. Cov, N, S: <hi rend="italic">Sethen</hi>. RV: <hi rend="italic">Sith that of</hi>; Warren: <hi rend="italic">Sith of</hi>.</note>
+ <note type="tnote" n="328"><space rend="indent1"/><hi rend="italic">alle</hi>. So RV, Warren. Cov, S: <hi rend="italic">and </hi><hi rend="italic">alle</hi>.</note>
+ <note type="tnote" n="329">286<space rend="indent1"/><hi rend="italic">ferst</hi>. Cov: <hi rend="italic">frist</hi>.</note>
+ <note type="tnote" n="330"><space rend="indent1"/><hi rend="italic">walke</hi>. Cov: <hi rend="italic">walken</hi>.</note>
+ <note type="tnote" n="331">287<space rend="indent1"/><hi rend="italic">dooth</hi><hi rend="italic"> areste</hi>. RV: <hi rend="italic">aresteth</hi>.</note>
+ <note type="tnote" n="332"><space rend="indent1"/><hi rend="italic">seith</hi>. Warren: <hi rend="italic">seieth</hi>.</note>
+ <note type="tnote" n="333"><space rend="indent1"/><hi rend="italic">theologie</hi>. S: <hi rend="italic">Thelogie</hi>.</note>
+ <note type="tnote" n="334">289<space rend="indent1"/><hi rend="italic">or</hi>. RV: <hi rend="italic">and</hi>.</note>
+ <note type="tnote" n="335">291<space rend="indent1"/><hi rend="italic">serche oute no</hi>. Cov: <hi rend="italic">serche oute</hi><hi rend="italic"> ne</hi>; RV: <hi rend="italic">seche no</hi>.</note>
+ <note type="tnote" n="336">292<space rend="indent1"/><hi rend="italic">domefiynge</hi>. Cov: <hi rend="italic">doome feynynge</hi>; RV: <hi rend="italic">demonstring</hi>.</note>
+ <note type="tnote" n="337"><space rend="indent1"/><hi rend="italic">ne</hi>. Warren: <hi rend="italic">nor</hi>.</note>
+ <note type="tnote" n="338">293<space rend="indent1"/><hi rend="italic">Safe</hi>. Cov, RV: <hi rend="italic">saue</hi>.</note>
+ <note type="tnote" n="339">296<space rend="indent1"/><hi rend="italic">Who</hi>. Cov: <hi rend="italic">He þat</hi>; RV: <hi rend="italic">But who</hi>.</note>
+ <note type="tnote" n="340"><space rend="indent1"/><hi rend="italic">mote</hi>. RV: <hi rend="italic">most</hi>.</note>
+ <note type="tnote" n="341">298<space rend="indent1"/><hi rend="italic">aver</hi>. Cov: <hi rend="italic">honour</hi>; N: <hi rend="italic">haver</hi>; RV: <hi rend="italic">haueur</hi>.</note>
+ <note type="tnote" n="342"><space rend="indent1"/><hi rend="italic">youre </hi><hi rend="italic">greet</hi>. Cov: <hi rend="italic">greet</hi>.</note>
+ <note type="tnote" n="343">299<space rend="indent1"/><hi rend="italic">straunge</hi>. N: <hi rend="italic">stronge</hi>.</note>
+ <note type="tnote" n="344">300<space rend="indent1"/><hi rend="italic">mote yow</hi>. Cov: <hi rend="italic">mote</hi>; RV: <hi rend="italic">moste you</hi>.</note>
+ <note type="tnote" n="345">302<space rend="indent1"/><hi rend="italic">cam</hi>. N: <hi rend="italic">com</hi>; RV: <hi rend="italic">come</hi>.</note>
+ <note type="tnote" n="346">303<space rend="indent1"/><hi rend="italic">bysynes</hi>. Cov: <hi rend="italic">a besynes</hi>.</note>
+ <note type="tnote" n="347">305<space rend="indent1"/><hi rend="italic">Certis</hi>. Cov: <hi rend="italic">Sertes</hi>.</note>
+ <note type="tnote" n="348">306<space rend="indent1"/><hi rend="italic">not</hi>. Cov: <hi rend="italic">nat</hi>.</note>
+ <note type="tnote" n="349">308<space rend="indent1"/><hi rend="italic">fordothe</hi>. RV: <hi rend="italic">destroieth</hi>.</note>
+ <note type="tnote" n="350">309<space rend="indent1"/><hi rend="italic">wys </hi><hi rend="italic">is</hi>. Cov: <hi rend="italic">right wise is</hi>; N: <hi rend="italic">is wise</hi>.</note>
+ <note type="tnote" n="351">310<space rend="indent1"/><hi rend="italic">moot</hi>. RV: <hi rend="italic">moste</hi>.</note>
+ <note type="tnote" n="352">311<space rend="indent1"/><hi rend="italic">The worlde it lente</hi>. Cov: <hi rend="italic">To the </hi><hi rend="italic">worlde is lent</hi>; N: <hi rend="italic">þe worldus lente</hi>.</note>
+ <note type="tnote" n="353"><space rend="indent1"/><hi rend="italic">wille</hi>. So RV, Warren. Cov, N, S: <hi rend="italic">mot</hi>.</note>
+ <note type="tnote" n="354"><space rend="indent1"/><hi rend="italic">recovere</hi>. Warren, RV: <hi rend="italic">recure</hi>. Cov: <hi rend="italic">rekeuere</hi>.</note>
+ <note type="tnote" n="355">Before 313<space rend="indent1"/><hi rend="italic">Chanoun</hi>. RV: <hi rend="italic">The Canon prebended</hi>.</note>
+ <note type="tnote" n="356">313<space rend="indent1"/><hi rend="italic">many</hi>. RV: <hi rend="italic">many a</hi>.</note>
+ <note type="tnote" n="357"><space rend="indent1"/><hi rend="italic">grete prebende</hi>. Cov: <hi rend="italic">prebende</hi>.</note>
+ <note type="tnote" n="358">316<space rend="indent1"/><hi rend="italic">For there</hi>. RV: <hi rend="italic">There</hi>.</note>
+ <note type="tnote" n="359">319<space rend="indent1"/><hi rend="italic">dilacioun</hi>. Cov: <hi rend="italic">delacioun</hi>.</note>
+ <note type="tnote" n="360">320<space rend="indent1"/><hi rend="italic">ay</hi>. RV: <hi rend="italic">euer</hi>.</note>
+ <note type="tnote" n="361">321<space rend="indent1"/><hi rend="italic">benefices</hi>. Cov: <hi rend="italic">benefice</hi>.</note>
+ <note type="tnote" n="362"><space rend="indent1"/><hi rend="italic">a personage</hi>. So Cov, RV, Warren. N: <hi rend="italic">personages</hi>; S: <hi rend="italic">personage</hi>.</note>
+ <note type="tnote" n="363">322<space rend="indent1"/><hi rend="italic">lite</hi>. RV: <hi rend="italic">litel</hi>.</note>
+ <note type="tnote" n="364"><space rend="indent1"/><hi rend="italic">comforte</hi>. N: <hi rend="italic">conforth</hi>.</note>
+ <note type="tnote" n="365">323<space rend="indent1"/><hi rend="italic">of</hi>. N: <hi rend="italic">on</hi>.</note>
+ <note type="tnote" n="366">324<space rend="indent1"/><hi rend="italic">not</hi>. Cov: <hi rend="italic">nat</hi><hi rend="italic"> nowe</hi>.</note>
+ <note type="tnote" n="367">325<space rend="indent1"/><hi rend="italic">Amys of grys</hi>. Cov: <hi rend="italic">amyses of greie</hi>.</note>
+ <note type="tnote" n="368"><space rend="indent1"/><hi rend="italic">wille</hi>. So RV, Warren. Cov, S: <hi rend="italic">wole</hi>.</note>
+ <note type="tnote" n="369"><space rend="indent1"/><hi rend="italic">agein</hi>. Cov, RV: <hi rend="italic">ayen</hi>; Warren: <hi rend="italic">aȝen</hi>.</note>
+ <note type="tnote" n="370">328<space rend="indent1"/><hi rend="italic">shulde</hi>. Cov: <hi rend="italic">sholde</hi>.</note>
+ <note type="tnote" n="371">329<space rend="indent1"/><hi rend="italic">marchaunt</hi>. N: <hi rend="italic">marchand</hi>.</note>
+ <note type="tnote" n="372"><space rend="indent1"/><hi rend="italic">mote</hi>. RV: <hi rend="italic">moste</hi>.</note>
+ <note type="tnote" n="373">330<space rend="indent1"/><hi rend="italic">ful many</hi>. So RV, Warren. Cov, N, S: <hi rend="italic">many</hi>.</note>
+ <note type="tnote" n="374"><space rend="indent1"/><hi rend="italic">divers</hi>. RV: <hi rend="italic">a divers</hi>.</note>
+ <note type="tnote" n="375">333<space rend="indent1"/><hi rend="italic">mote</hi>. RV: <hi rend="italic">moste</hi>.</note>
+ <note type="tnote" n="376"><space rend="indent1"/><hi rend="italic">yeve</hi>. RV: <hi rend="italic">ye</hi>; N: <hi rend="italic">ȝefe</hi>.</note>
+ <note type="tnote" n="377">334<space rend="indent1"/><hi rend="italic">now</hi>. So RV, Warren. Cov, S: <hi rend="italic">yow</hi>.</note>
+ <note type="tnote" n="378">336<space rend="indent1"/><hi rend="italic">No more coveite</hi>. So Cov. In S, a superscript <hi rend="italic">y</hi> is inserted between <hi rend="italic">more</hi> and <hi rend="italic">coveite</hi>. RV: <hi rend="italic">Nomore covet</hi>; Warren: <hi rend="italic">None more coueite</hi>; N: <hi rend="italic">No more covytt</hi>.</note>
+ <note type="tnote" n="379"><space rend="indent1"/><hi rend="italic">than</hi>. Cov: <hi rend="italic">I þan</hi>.</note>
+ <note type="tnote" n="380"><space rend="indent1"/><hi rend="italic">have</hi>. Cov: <hi rend="italic">han</hi>.</note>
+ <note type="tnote" n="381">338<space rend="indent1"/><hi rend="italic">my marchandise</hi>. In S, <hi rend="italic">my</hi> is inserted in superscript. Cov, N: <hi rend="italic">marchandise</hi>.</note>
+ <note type="tnote" n="382">340<space rend="indent1"/><hi rend="italic">iles</hi>. Cov: <hi rend="italic">londis</hi>.</note>
+ <note type="tnote" n="383">341<space rend="indent1"/><hi rend="italic">My</hi>. Cov: <hi rend="italic">mennes</hi>; RV, Warren: <hi rend="italic">myn</hi>.</note>
+ <note type="tnote" n="384"><space rend="indent1"/><hi rend="italic">herte</hi>. Cov: <hi rend="italic">hertis</hi>.</note>
+ <note type="tnote" n="385"><space rend="indent1"/><hi rend="italic">fret</hi>. Cov: <hi rend="italic">freteth</hi>.</note>
+ <note type="tnote" n="386">342<space rend="indent1"/><hi rend="italic">doth me</hi>. So W. Cov, N: <hi rend="italic">me</hi>; RV: <hi rend="italic">me dothe</hi>; S: <hi rend="italic">doith me</hi>.</note>
+ <note type="tnote" n="387"><space rend="indent1"/><hi rend="italic">constreine</hi>. Cov: <hi rend="italic">constreineth</hi>.</note>
+ <note type="tnote" n="388">343<space rend="indent1"/><hi rend="italic">seie</hi>. RV: <hi rend="italic">see</hi>.</note>
+ <note type="tnote" n="389">344<space rend="indent1"/><hi rend="italic">enbraceth</hi>. RV: <hi rend="italic">embraceth</hi>.</note>
+ <note type="tnote" n="390"><space rend="indent1"/><hi rend="italic">shal restreine</hi>. Cov: <hi rend="italic">he restreineth</hi>.</note>
+ <note type="tnote" n="391">345<space rend="indent1"/><hi rend="italic">Yeve</hi>. W: <hi rend="italic">Gefe</hi>.</note>
+ <note type="tnote" n="392">346<space rend="indent1"/><hi rend="italic">longe</hi>. Cov: <hi rend="italic">of </hi><hi rend="italic">longe</hi>.</note>
+ <note type="tnote" n="393">347<space rend="indent1"/><hi rend="italic">Chartereux</hi>. Cov: <hi rend="italic">Chartereus</hi>.</note>
+ <note type="tnote" n="394"><space rend="indent1"/><hi rend="italic">and youresilfe</hi>. Cov: <hi rend="italic">and your </hi><hi rend="italic">selue</hi>; N: <hi rend="italic">ȝoursilf</hi>.</note>
+ <note type="tnote" n="395">349<space rend="indent1"/><hi rend="italic">agein</hi>. RV: <hi rend="italic">ayen</hi>; N, Warren: <hi rend="italic">aȝ</hi><hi rend="italic">en</hi>.</note>
+ <note type="tnote" n="396">350<space rend="indent1"/><hi rend="italic">not</hi>. Cov: <hi rend="italic">nat</hi>.</note>
+ <note type="tnote" n="397">351<space rend="indent1"/><hi rend="italic">as in</hi>. Cov, RV: <hi rend="italic">in</hi>.</note>
+ <note type="tnote" n="398">353<space rend="indent1"/><hi rend="italic">the</hi>. RV: <hi rend="italic">this</hi>.</note>
+ <note type="tnote" n="399">354<space rend="indent1"/><hi rend="italic">my</hi><hi rend="subscript">1</hi>. RV: <hi rend="italic">myn</hi>.</note>
+ <note type="tnote" n="400">357<space rend="indent1"/><hi rend="italic">flesshly</hi>. Cov: <hi rend="italic">flossheli</hi>.</note>
+ <note type="tnote" n="401">359<space rend="indent1"/><hi rend="italic">from dampnacioun</hi>. RV: <hi rend="italic">dampnacion</hi>.</note>
+ <note type="tnote" n="402">360<space rend="indent1"/><hi rend="italic">bene</hi>. RV: <hi rend="italic">men ben</hi>.</note>
+ <note type="tnote" n="403"><space rend="indent1"/><hi rend="italic">today</hi>. RV: <hi rend="italic">this day</hi>.</note>
+ <note type="tnote" n="404"><space rend="indent1"/><hi rend="italic">shulle</hi>. RV, Cov: <hi rend="italic">shal</hi>.</note>
+ <note type="tnote" n="405"><space rend="indent1"/><hi rend="italic">be</hi>. N: <hi rend="italic">ben</hi>.</note>
+ <note type="tnote" n="406">363<space rend="indent1"/><hi rend="italic">Not</hi>. Cov: <hi rend="italic">nat</hi>; RV: <hi rend="italic">Noght</hi>.</note>
+ <note type="tnote" n="407">365<space rend="indent1"/><hi rend="italic">pele</hi>. Cov, RV: <hi rend="italic">appele</hi>.</note>
+ <note type="tnote" n="408">367<space rend="indent1"/><hi rend="italic">champioun</hi>. Cov: <hi rend="italic">a </hi><hi rend="italic">champioun</hi>.</note>
+ <note type="tnote" n="409">368<space rend="indent1"/><hi rend="italic">another</hi>. RV: <hi rend="italic">dethe</hi>.</note>
+ <note type="tnote" n="410">369<space rend="indent1"/><hi rend="italic">dare this Dethe</hi>. Cov: <hi rend="italic">dare thus dethe</hi>; RV: <hi rend="italic">durst thou sette</hi>.</note>
+ <note type="tnote" n="411">370<space rend="indent1"/><hi rend="italic">That am</hi>. Cov: <hi rend="italic">That</hi>.</note>
+ <note type="tnote" n="412">371<space rend="indent1"/><hi rend="italic">west and este</hi>. RV, Warren: <hi rend="italic">este and </hi><hi rend="italic">weste</hi>.</note>
+ <note type="tnote" n="413">372<space rend="indent1"/><hi rend="italic">ful surquidous of</hi>. RV: <hi rend="italic">with surquidous</hi>.</note>
+ <note type="tnote" n="414">374<space rend="indent1"/><hi rend="italic">though </hi><hi rend="italic">I</hi>. N: <hi rend="italic">y</hi>.</note>
+ <note type="tnote" n="415">375<space rend="indent1"/><hi rend="italic">and</hi>. RV: <hi rend="italic">or</hi>.</note>
+ <note type="tnote" n="416">377<space rend="indent1"/><hi rend="italic">Sir Monke</hi>. Catchword <hi rend="italic">ir monke</hi> appears in bottom right-hand corner of fol. 153v.</note>
+ <note type="tnote" n="417">378<space rend="indent1"/><hi rend="italic">no</hi>. RV: <hi rend="italic">not</hi>.</note>
+ <note type="tnote" n="418"><space rend="indent1"/><hi rend="italic">sojour</hi>. N: <hi rend="italic">ȝour soiour</hi>.</note>
+ <note type="tnote" n="419">379<space rend="indent1"/><hi rend="italic">is</hi>. RV: <hi rend="italic">may</hi>.</note>
+ <note type="tnote" n="420"><space rend="indent1"/><hi rend="italic">that may yow here</hi>. RV: <hi rend="italic">here</hi><hi rend="italic"> you</hi>.</note>
+ <note type="tnote" n="421">380<space rend="indent1"/><hi rend="italic">Agein</hi>. Cov: <hi rend="italic">Ayen</hi>; N: <hi rend="italic">Aȝen</hi>; RV: <hi rend="italic">Ayenst</hi>; Warren: <hi rend="italic">Aȝein</hi>.</note>
+ <note type="tnote" n="422"><space rend="indent1"/><hi rend="italic">for to do</hi>. So Warren. S: <hi rend="italic">for</hi><hi rend="italic"> to</hi>. Cov: <hi rend="italic">to</hi>. RV: <hi rend="italic">to doo</hi>.</note>
+ <note type="tnote" n="423">381<space rend="indent1"/><hi rend="italic">mote acounte</hi>. RV: <hi rend="italic">moste accompte</hi>.</note>
+ <note type="tnote" n="424">382<space rend="indent1"/><hi rend="italic">have spent it</hi>. Cov: <hi rend="italic">han spent it</hi>; RV: <hi rend="italic">haue spendid</hi>.</note>
+ <note type="tnote" n="425"><space rend="indent1"/><hi rend="italic">in dede worde</hi>. RV: <hi rend="italic">worde dede</hi>.</note>
+ <note type="tnote" n="426">384<space rend="indent1"/><hi rend="italic">of nought</hi>. N: <hi rend="italic">noȝt</hi>.</note>
+ <note type="tnote" n="427">385<space rend="indent1"/><hi rend="italic">the</hi>. RV: <hi rend="italic">my</hi>.</note>
+ <note type="tnote" n="428"><space rend="indent1"/><hi rend="italic">be</hi>. RV: <hi rend="italic">to be</hi>.</note>
+ <note type="tnote" n="429">388<space rend="indent1"/><hi rend="italic">vice</hi>. Cov: <hi rend="italic">wise</hi>; Warren: <hi rend="italic">vise</hi>.</note>
+ <note type="tnote" n="430">389<space rend="indent1"/><hi rend="italic">dissolut</hi>. Cov, RV: <hi rend="italic">desolate</hi>.</note>
+ <note type="tnote" n="431">391<space rend="indent1"/><hi rend="italic">to</hi>. Cov: <hi rend="italic">is to</hi>.</note>
+ <note type="tnote" n="432">392<space rend="indent1"/><hi rend="italic">be</hi>. Warren: <hi rend="italic">ben</hi>.</note>
+ <note type="tnote" n="433"><space rend="indent1"/><hi rend="italic">se</hi>. Warren: <hi rend="italic">seen</hi>.</note>
+ <note type="tnote" n="434">393<space rend="indent1"/><hi rend="italic">Thou</hi>. RV: <hi rend="italic">O</hi><hi rend="italic"> thou</hi>.</note>
+ <note type="tnote" n="435">394<space rend="indent1"/><hi rend="italic">you</hi>. Cov, N: <hi rend="italic">þu</hi>; RV: <hi rend="italic">that</hi>.</note>
+ <note type="tnote" n="436"><space rend="indent1"/><hi rend="italic">thi</hi>. Cov, RV: <hi rend="italic">thy</hi>.</note>
+ <note type="tnote" n="437">396<space rend="indent1"/><hi rend="italic">thrust</hi>. Cov: <hi rend="italic">therst</hi>; RV: <hi rend="italic">thurst</hi>; N: <hi rend="italic">thursse</hi>.</note>
+ <note type="tnote" n="438">397<space rend="indent1"/><hi rend="italic">you</hi>. RV, Warren: <hi rend="italic">thou</hi>; Cov, N: <hi rend="italic">þu</hi>.</note>
+ <note type="tnote" n="439">402<space rend="indent1"/><hi rend="italic">greet grevaunce</hi>. Cov, RV: <hi rend="italic">greuance</hi>.</note>
+ <note type="tnote" n="440">404<space rend="indent1"/><hi rend="italic">ne</hi>. Cov: <hi rend="italic">and</hi>.</note>
+ <note type="tnote" n="441"><space rend="indent1"/><hi rend="italic">chevesaunce</hi>. Cov: <hi rend="italic">cheveshance</hi>; RV: <hi rend="italic">chevissance</hi>; Warren: <hi rend="italic">cheuisshaunce</hi>.</note>
+ <note type="tnote" n="442">405<space rend="indent1"/><hi rend="italic">thorugh</hi>. Cov: <hi rend="italic">through</hi>; N: <hi rend="italic">thrught</hi>; RV: <hi rend="italic">thurgh</hi>; Warren: <hi rend="italic">thrugh</hi>.</note>
+ <note type="tnote" n="443"><space rend="indent1"/><hi rend="italic">abit</hi>. RV: <hi rend="italic">abideth</hi>; N: <hi rend="italic">habit</hi>; Warren: <hi rend="italic">abitte</hi>.</note>
+ <note type="tnote" n="444"><space rend="indent1"/><hi rend="italic">parveaunce</hi>. Cov: <hi rend="italic">paruiance</hi>; RV, Warren: <hi rend="italic">purviance</hi>.</note>
+ <note type="tnote" n="445">406<space rend="indent1"/><hi rend="italic">look</hi>. RV: <hi rend="italic">see</hi>.</note>
+ <note type="tnote" n="446">407<space rend="indent1"/><hi rend="italic">happith</hi>. RV: <hi rend="italic">it happeth</hi>.</note>
+ <note type="tnote" n="447">408<space rend="indent1"/><hi rend="italic">have</hi>. Cov: <hi rend="italic">han</hi>.</note>
+ <note type="tnote" n="448"><space rend="indent1"/><hi rend="italic">see</hi>. Warren: <hi rend="italic">seen</hi>.</note>
+ <note type="tnote" n="449">411<space rend="indent1"/><hi rend="italic">borwith</hi>. Cov: <hi rend="italic">boroweth</hi>; N: <hi rend="italic">borowith</hi>.</note>
+ <note type="tnote" n="450">412<space rend="indent1"/><hi rend="italic">lent</hi>. Cov: <hi rend="italic">leueth</hi>.</note>
+ <note type="tnote" n="451">414<space rend="indent1"/><hi rend="italic">acountes</hi>. Warren: <hi rend="italic">accomptes</hi>.</note>
+ <note type="tnote" n="452"><space rend="indent1"/><hi rend="italic">sette</hi>. Cov, Warren: <hi rend="italic">fette</hi>.</note>
+ <note type="tnote" n="453">416<space rend="indent1"/><hi rend="italic">man</hi>. N: <hi rend="italic">man man</hi>.</note>
+ <note type="tnote" n="454"><space rend="indent1"/>N has rubric in margin apparently anticipating an additional stanza following poem’s usual dialogue format: <hi rend="italic">The poor man aswerith</hi>.</note>
+ <note type="tnote" n="455">409–16<space rend="indent1"/><hi rend="italic">Usuré to God . . . </hi><hi rend="italic">bihinde of dette</hi>. This stanza is omitted in RV. N misidentifies this stanza as <hi rend="italic">Deth to þe poor man</hi>.</note>
+ <note type="tnote" n="456">417<space rend="indent1"/><hi rend="italic">on</hi>. RV: <hi rend="italic">in</hi>.</note>
+ <note type="tnote" n="457">418<space rend="indent1"/><hi rend="italic">agein</hi>. Cov, N: <hi rend="italic">aȝen</hi>; RV: <hi rend="italic">ayenst</hi>; Warren: <hi rend="italic">aȝenne</hi>.</note>
+ <note type="tnote" n="458">419<space rend="indent1"/><hi rend="italic">medicine</hi>. N: <hi rend="italic">medcyne</hi>.</note>
+ <note type="tnote" n="459">420<space rend="indent1"/><hi rend="italic">Al</hi>. RV: <hi rend="italic">And alle</hi>.</note>
+ <note type="tnote" n="460">422<space rend="indent1"/><hi rend="italic">Agein</hi>. Cov: <hi rend="italic">Ayen</hi>; N: <hi rend="italic">Aȝene</hi>; RV: <hi rend="italic">ayenst</hi>; Warren: <hi rend="italic">Aȝeyne</hi>.</note>
+ <note type="tnote" n="461">423<space rend="indent1"/><hi rend="italic">have</hi>. Cov: <hi rend="italic">han</hi>.</note>
+ <note type="tnote" n="462">424<space rend="indent1"/><hi rend="italic">Good</hi>. Cov: <hi rend="italic">A goode</hi>.</note>
+ <note type="tnote" n="463"><space rend="indent1"/><hi rend="italic">recure</hi>. Cov: <hi rend="italic">cure</hi>.</note>
+ <note type="tnote" n="464">425<space rend="indent1"/><hi rend="italic">agon</hi>. So RV, Warren. Cov, N, S: <hi rend="italic">agoo</hi>.</note>
+ <note type="tnote" n="465">427<space rend="indent1"/><hi rend="italic">also in</hi>. RV: <hi rend="italic">in</hi>.</note>
+ <note type="tnote" n="466">428<space rend="indent1"/><hi rend="italic">gete</hi>. Cov: <hi rend="italic">geten</hi>.</note>
+ <note type="tnote" n="467"><space rend="indent1"/><hi rend="italic">thorugh</hi>. Cov: <hi rend="italic">through</hi>; RV, Warren, N: <hi rend="italic">thurgh</hi>.</note>
+ <note type="tnote" n="468">429<space rend="indent1"/><hi rend="italic">agens</hi>. Cov: <hi rend="italic">ayenst</hi>; RV: <hi rend="italic">aenst</hi>; N, Warren: <hi rend="italic">aȝens</hi>.</note>
+ <note type="tnote" n="469">430<space rend="indent1"/><hi rend="italic">Preservatives</hi>. N: <hi rend="italic">Preseruatykes</hi>.</note>
+ <note type="tnote" n="470">432<space rend="indent1"/><hi rend="italic">Agens</hi>. Cov, RV: <hi rend="italic">Ayenst</hi>; N: <hi rend="italic">Aȝens</hi>.</note>
+ <note type="tnote" n="471">Before 433<space rend="indent1"/><hi rend="italic">Amerous Squire</hi>. Cov: <hi rend="italic">Þe Squier</hi>; RV: <hi rend="italic">the Galant Squyer</hi>.</note>
+ <note type="tnote" n="472">433<space rend="indent1"/><hi rend="italic">be</hi>. RV: <hi rend="italic">ben</hi>.</note>
+ <note type="tnote" n="473"><space rend="indent1"/><hi rend="italic">gentil</hi>. Cov: <hi rend="italic">so gentil</hi>.</note>
+ <note type="tnote" n="474"><space rend="indent1"/><hi rend="italic">amerous</hi>. Cov: <hi rend="italic">so</hi><hi rend="italic"> amerous</hi>.</note>
+ <note type="tnote" n="475">434<space rend="indent1"/><hi rend="italic">grene</hi>. Cov: <hi rend="italic">yonge</hi>.</note>
+ <note type="tnote" n="476">435<space rend="indent1"/><hi rend="italic">free of herte</hi>. RV: <hi rend="italic">free and of hert</hi>.</note>
+ <note type="tnote" n="477"><space rend="indent1"/><hi rend="italic">and eke desirous</hi>. So Cov, W. RV: <hi rend="italic">desirous</hi>; N, S: <hi rend="italic">eke desirous</hi>.</note>
+ <note type="tnote" n="478">437<space rend="indent1"/><hi rend="italic">of visage</hi>. RV: <hi rend="italic">visage</hi>.</note>
+ <note type="tnote" n="479">438<space rend="indent1"/><hi rend="italic">asshes</hi>. Cov: <hi rend="italic">asshen</hi>.</note>
+ <note type="tnote" n="480">439<space rend="indent1"/><hi rend="italic">bewté</hi>. RV: <hi rend="italic">youre </hi><hi rend="italic">beaute</hi>.</note>
+ <note type="tnote" n="481">442<space rend="indent1"/><hi rend="italic">Agens</hi>. Cov, RV: <hi rend="italic">Ayenst</hi>; N: <hi rend="italic">Aȝens</hi>.</note>
+ <note type="tnote" n="482"><space rend="indent1"/><hi rend="italic">provide</hi>. Cov: <hi rend="italic">purveie</hi>.</note>
+ <note type="tnote" n="483">445<space rend="indent1"/><hi rend="italic">service</hi>. Cov: <hi rend="italic">the service</hi>.</note>
+ <note type="tnote" n="484">446<space rend="indent1"/><hi rend="italic">so fressh </hi><hi rend="italic">so wel besein</hi>. N: <hi rend="italic">so flessh so well beseyn</hi>; RV: <hi rend="italic">so wele and fressh beseyn</hi>.</note>
+ <note type="tnote" n="485">447<space rend="indent1"/><hi rend="italic">agein</hi>. Cov, RV: <hi rend="italic">ayen</hi>.</note>
+ <note type="tnote" n="486">448<space rend="indent1"/><hi rend="italic">gon</hi>. So Cov, RV, Warren. S: <hi rend="italic">goo</hi>; N: <hi rend="italic">go</hi>.</note>
+ <note type="tnote" n="487">Before 449<space rend="indent1"/><hi rend="italic">The Gentilwomman Amerous</hi>. Cov: <hi rend="italic">þe Gentilwoman</hi>.</note>
+ <note type="tnote" n="488">450<space rend="indent1"/><hi rend="italic">holde</hi>. Cov: <hi rend="italic">ye holde</hi>.</note>
+ <note type="tnote" n="489">451<space rend="indent1"/><hi rend="italic">Polycene</hi>. Cov: <hi rend="italic">Pollicene</hi>; RV: <hi rend="italic">Pollixene</hi>.</note>
+ <note type="tnote" n="490">452<space rend="indent1"/><hi rend="italic">Penolope</hi>. N, RV, Warren: <hi rend="italic">Penelope</hi>.</note>
+ <note type="tnote" n="491">453<space rend="indent1"/><hi rend="italic">wente</hi>. Warren: <hi rend="italic">wenten</hi>.</note>
+ <note type="tnote" n="492">454<space rend="indent1"/><hi rend="italic">shulle</hi>. Cov, RV: <hi rend="italic">shall</hi>.</note>
+ <note type="tnote" n="493"><space rend="indent1"/><hi rend="italic">youre</hi>. Warren: <hi rend="italic">ȝow</hi>.</note>
+ <note type="tnote" n="494">455<space rend="indent1"/><hi rend="italic">hath</hi>. RV: <hi rend="italic">haue</hi>.</note>
+ <note type="tnote" n="495">456<space rend="indent1"/><hi rend="italic">Arestid</hi>. RV: <hi rend="italic">Arest</hi>.</note>
+ <note type="tnote" n="496">455–56<space rend="indent1"/><hi rend="italic">Though</hi><hi rend="italic"> daunger longe . . . chaunge of doubilnesse</hi>. Lines 455 and 456 are transposed in N. This error is corrected in the margin.</note>
+ <note type="tnote" n="497">459<space rend="indent1"/><hi rend="italic">hast</hi>. Cov: <hi rend="italic">has</hi>.</note>
+ <note type="tnote" n="498"><space rend="indent1"/><hi rend="italic">yseide</hi>. Cov, N, RV: <hi rend="italic">seid</hi>.</note>
+ <note type="tnote" n="499">462<space rend="indent1"/><hi rend="italic">a man</hi>. RV: <hi rend="italic">man</hi>.</note>
+ <note type="tnote" n="500"><space rend="indent1"/><hi rend="italic">to have</hi>. RV: <hi rend="italic">have</hi>; W: <hi rend="italic">to a</hi>.</note>
+ <note type="tnote" n="501">463<space rend="indent1"/><hi rend="italic">fool</hi>. RV: <hi rend="italic">fole</hi>.</note>
+ <note type="tnote" n="502"><space rend="indent1"/><hi rend="italic">sentement</hi>. RV: <hi rend="italic">sentence</hi>.</note>
+ <note type="tnote" n="503">464<space rend="indent1"/><hi rend="italic">assurid</hi>. Cov: <hi rend="italic">ensured</hi>.</note>
+ <note type="tnote" n="504">Before 465<space rend="indent1"/><hi rend="italic">the Man of Lawe</hi>. RV: <hi rend="italic">the Advocate</hi>.</note>
+ <note type="tnote" n="505">466<space rend="indent1"/><hi rend="italic">Ye</hi>. N: <hi rend="italic">I ȝe</hi>.</note>
+ <note type="tnote" n="506"><space rend="indent1"/><hi rend="italic">highe Juge</hi>. RV: <hi rend="italic">Iuge</hi>.</note>
+ <note type="tnote" n="507">470<space rend="indent1"/><hi rend="italic">availe</hi><hi rend="italic"> may</hi>. RV: <hi rend="italic">may availle</hi>.</note>
+ <note type="tnote" n="508">472<space rend="indent1"/><hi rend="italic">Tofore</hi>. RV: <hi rend="italic">Before</hi>.</note>
+ <note type="tnote" n="509">474<space rend="indent1"/><hi rend="italic">cannot</hi>. RV: <hi rend="italic">can</hi>.</note>
+ <note type="tnote" n="510"><space rend="indent1"/><hi rend="italic">agein</hi>. Cov, RV: <hi rend="italic">ayen</hi>; N: <hi rend="italic">aȝen</hi>.</note>
+ <note type="tnote" n="511">475<space rend="indent1"/><hi rend="italic">me kepe</hi>. Cov: <hi rend="italic">kepe me</hi>.</note>
+ <note type="tnote" n="512"><space rend="indent1"/><hi rend="italic">ne</hi>. N: <hi rend="italic">and</hi>; RV: <hi rend="italic">nor</hi>.</note>
+ <note type="tnote" n="513">478<space rend="indent1"/><hi rend="italic">Nothing</hi>. RV: <hi rend="italic">man</hi>.</note>
+ <note type="tnote" n="514">479<space rend="indent1"/><hi rend="italic">Ageins</hi>. Cov: <hi rend="italic">Ayenst</hi>; N: <hi rend="italic">Aȝ</hi><hi rend="italic">ens</hi>; RV: <hi rend="italic">Ayen</hi>; Warren: <hi rend="italic">Aȝeyne</hi>.</note>
+ <note type="tnote" n="515"><space rend="indent1"/><hi rend="italic">resistence</hi>. RV: <hi rend="italic">no resistence</hi>.</note>
+ <note type="tnote" n="516">480<space rend="indent1"/><hi rend="italic">quite</hi>. Cov: <hi rend="italic">quiteth</hi>; RV: <hi rend="italic">quyteth</hi>.</note>
+ <note type="tnote" n="517">481<space rend="indent1"/><hi rend="italic">that at</hi>. Cov: <hi rend="italic">that atte</hi>. N: <hi rend="italic">þat</hi>.</note>
+ <note type="tnote" n="518"><space rend="indent1"/><hi rend="italic">assise</hi>. RV: <hi rend="italic">assises</hi>.</note>
+ <note type="tnote" n="519">482<space rend="indent1"/><hi rend="italic">atte</hi>. N: <hi rend="italic">had</hi>.</note>
+ <note type="tnote" n="520"><space rend="indent1"/><hi rend="italic">doste</hi>. RV: <hi rend="italic">diddest</hi>.</note>
+ <note type="tnote" n="521">483<space rend="indent1"/><hi rend="italic">londe</hi>. Cov: <hi rend="italic">londis</hi>; RV: <hi rend="italic">land</hi>.</note>
+ <note type="tnote" n="522"><space rend="indent1"/><hi rend="italic">devise</hi>. RV: <hi rend="italic">devises</hi>.</note>
+ <note type="tnote" n="523">486<space rend="indent1"/><hi rend="italic">cowdest</hi>. RV: <hi rend="italic">kewde</hi>.</note>
+ <note type="tnote" n="524"><space rend="indent1"/><hi rend="italic">folkes</hi>. Cov, Warren: <hi rend="italic">folke</hi>.</note>
+ <note type="tnote" n="525">487<space rend="indent1"/><hi rend="italic">lete</hi>. RV: <hi rend="italic">lat</hi>.</note>
+ <note type="tnote" n="526">488<space rend="indent1"/><hi rend="italic">thou canst</hi>. Cov: <hi rend="italic">canst thou</hi>; Warren: <hi rend="italic">thou cannest</hi>.</note>
+ <note type="tnote" n="527">490<space rend="indent1"/><hi rend="italic">bellewedir</hi>. Cov: <hi rend="italic">bellwethir</hi>; N: <hi rend="italic">belwedur</hi>; RV: <hi rend="italic">belwether</hi>.</note>
+ <note type="tnote" n="528"><space rend="indent1"/><hi rend="italic">was</hi>. Cov, RV: <hi rend="italic">is</hi>.</note>
+ <note type="tnote" n="529">491<space rend="indent1"/><hi rend="italic">Nought</hi>. Cov, N, RV, Warren: <hi rend="italic">Not</hi>.</note>
+ <note type="tnote" n="530"><space rend="indent1"/><hi rend="italic">lowe and hie</hi>. Cov, RV: <hi rend="italic">hie </hi><hi rend="italic">and low</hi>.</note>
+ <note type="tnote" n="531">492<space rend="indent1"/><hi rend="italic">list</hi>. Cov, RV: <hi rend="italic">lust</hi>.</note>
+ <note type="tnote" n="532">493<space rend="indent1"/><hi rend="italic">And hange</hi>. Cov: <hi rend="italic">And honge</hi>; RV: <hi rend="italic">Hange</hi>.</note>
+ <note type="tnote" n="533"><space rend="indent1"/><hi rend="italic">respite</hi>. Cov: <hi rend="italic">acquite</hi>.</note>
+ <note type="tnote" n="534">494<space rend="indent1"/><hi rend="italic">lad</hi>. Cov, RV: <hi rend="italic">ledde</hi>.</note>
+ <note type="tnote" n="535">497<space rend="indent1"/><hi rend="italic">mynstral</hi>. RV: <hi rend="italic">ministral</hi>.</note>
+ <note type="tnote" n="536"><space rend="indent1"/><hi rend="italic">canst</hi>. Warren: <hi rend="italic">cannest</hi>.</note>
+ <note type="tnote" n="537">498<space rend="indent1"/><hi rend="italic">do</hi>. Cov: <hi rend="italic">done</hi>.</note>
+ <note type="tnote" n="538">499<space rend="indent1"/><hi rend="italic">I shal anoone</hi>. RV: <hi rend="italic">soone</hi><hi rend="italic"> I shal</hi>. Warren: <hi rend="italic">anoone I shal</hi>.</note>
+ <note type="tnote" n="539"><space rend="indent1"/><hi rend="italic">thee</hi>. N: <hi rend="italic">þi</hi>.</note>
+ <note type="tnote" n="540">500<space rend="indent1"/><hi rend="italic">other</hi>. N: <hi rend="italic">oder</hi>.</note>
+ <note type="tnote" n="541"><space rend="indent1"/><hi rend="italic">goo</hi>. Cov: <hi rend="italic">gone</hi>.</note>
+ <note type="tnote" n="542">501<space rend="indent1"/><hi rend="italic">neither avoidaunce</hi>. Cov: <hi rend="italic">noo voidaunce</hi>; Warren: <hi rend="italic">nowther avoydaunce</hi>.</note>
+ <note type="tnote" n="543">504<space rend="indent1"/><hi rend="italic">maister</hi>. Cov: <hi rend="italic">þ</hi><hi rend="italic">at maister</hi>.</note>
+ <note type="tnote" n="544"><space rend="indent1"/><hi rend="italic">shewe</hi>. RV: <hi rend="italic">shal shew</hi>.</note>
+ <note type="tnote" n="545"><space rend="indent1"/><hi rend="italic">science</hi>. So Cov, RV, Warren. S: <hi rend="italic">sentence</hi>.</note>
+ <note type="tnote" n="546">505<space rend="indent1"/><hi rend="italic">newe</hi>. RV: <hi rend="italic">new</hi>.</note>
+ <note type="tnote" n="547">506<space rend="indent1"/><hi rend="italic">passingly</hi>. Cov: <hi rend="italic">passinge</hi>.</note>
+ <note type="tnote" n="548">508<space rend="indent1"/><hi rend="italic">sithes</hi>. RV: <hi rend="italic">tymes</hi>.</note>
+ <note type="tnote" n="549">509<space rend="indent1"/><hi rend="italic">to me is</hi>. Cov: <hi rend="italic">is to me</hi>.</note>
+ <note type="tnote" n="550">511<space rend="indent1"/><hi rend="italic">tarie</hi>. Cov: <hi rend="italic">vary</hi>.</note>
+ <note type="tnote" n="551">512<space rend="indent1"/><hi rend="italic">Ofte</hi>. RV: <hi rend="italic">Ofte tyme</hi>.</note>
+ <note type="tnote" n="552"><space rend="indent1"/><hi rend="italic">of</hi>. RV: <hi rend="italic">at</hi>.</note>
+ <note type="tnote" n="553">513<space rend="indent1"/><hi rend="italic">Rikele</hi>. Cov: <hi rend="italic">van rikell</hi>; RV: <hi rend="italic">Rykel</hi>.</note>
+ <note type="tnote" n="554">514<space rend="indent1"/><hi rend="italic">Harry</hi>. Cov, N: <hi rend="italic">herry</hi>; RV: <hi rend="italic">Henry</hi>.</note>
+ <note type="tnote" n="555"><space rend="indent1"/><hi rend="italic">Engelond</hi>. N: <hi rend="italic">ynglong</hi>.</note>
+ <note type="tnote" n="556">516<space rend="indent1"/><hi rend="italic">sleightes</hi>. N: <hi rend="italic">slightnes</hi>.</note>
+ <note type="tnote" n="557">517<space rend="indent1"/><hi rend="italic">must</hi>. RV, W: <hi rend="italic">moste</hi>.</note>
+ <note type="tnote" n="558"><space rend="indent1"/><hi rend="italic">this</hi>. Cov: <hi rend="italic">and this</hi>.</note>
+ <note type="tnote" n="559"><space rend="indent1"/><hi rend="italic">to undirstond</hi>. Cov: <hi rend="italic">undirstond</hi>.</note>
+ <note type="tnote" n="560">518<space rend="indent1"/><hi rend="italic">Nought</hi>. Cov: <hi rend="italic">Nat</hi>.</note>
+ <note type="tnote" n="561">519<space rend="indent1"/><hi rend="italic">nouther</hi>. RV: <hi rend="italic">neith</hi>.</note>
+ <note type="tnote" n="562"><space rend="indent1"/><hi rend="italic">on</hi>. Cov: <hi rend="italic">in</hi>.</note>
+ <note type="tnote" n="563"><space rend="indent1"/><hi rend="italic">ne</hi>. RV: <hi rend="italic">and</hi>.</note>
+ <note type="tnote" n="564">520<space rend="indent1"/><hi rend="italic">nought</hi>. Cov: <hi rend="italic">nat</hi>; RV, Warren, N: <hi rend="italic">not</hi>.</note>
+ <note type="tnote" n="565"><space rend="indent1"/><hi rend="italic">none</hi>. N: <hi rend="italic">noo</hi>.</note>
+ <note type="tnote" n="566">522<space rend="indent1"/><hi rend="italic">Or any</hi>. N: <hi rend="italic">Of my</hi>.</note>
+ <note type="tnote" n="567">524<space rend="indent1"/><hi rend="italic">of the hevene</hi>. RV: <hi rend="italic">of heven</hi>.</note>
+ <note type="tnote" n="568"><space rend="indent1"/><hi rend="italic">al the influence</hi>. Cov: <hi rend="italic">the influence</hi>.</note>
+ <note type="tnote" n="569">525<space rend="indent1"/><hi rend="italic">Ageins</hi>. Cov, RV: <hi rend="italic">Ayenst</hi>; N: <hi rend="italic">Aȝ</hi><hi rend="italic">ens</hi>.</note>
+ <note type="tnote" n="570"><space rend="indent1"/><hi rend="italic">stonde at defence</hi>. Cov: <hi rend="italic">stonden atte defence</hi>.</note>
+ <note type="tnote" n="571">526<space rend="indent1"/><hi rend="italic">Legerdemeyn</hi>. N: <hi rend="italic">Largerdemeyn</hi>.</note>
+ <note type="tnote" n="572">528<space rend="indent1"/><hi rend="italic">Deth moo</hi>. Cov: <hi rend="italic">dethe yitte moo</hi>; RV: <hi rend="italic">dethe hath moo</hi>.</note>
+ <note type="tnote" n="573"><space rend="indent1"/><hi rend="italic">yit than</hi>. Cov, RV: <hi rend="italic">than</hi>.</note>
+ <note type="tnote" n="574"><space rend="indent1"/><hi rend="italic">hath</hi>. Cov, RV: <hi rend="italic">haue</hi>.</note>
+ <note type="tnote" n="575">529<space rend="indent1"/><hi rend="italic">bene</hi>. Cov: <hi rend="italic">art</hi>.</note>
+ <note type="tnote" n="576"><space rend="indent1"/><hi rend="italic">nowe here</hi>. RV: <hi rend="italic">here</hi>; Warren: <hi rend="italic">here now</hi>.</note>
+ <note type="tnote" n="577">535<space rend="indent1"/><hi rend="italic">Like</hi>. Cov: <hi rend="italic">Like to</hi>.</note>
+ <note type="tnote" n="578">536<space rend="indent1"/><hi rend="italic">And</hi>. RV: <hi rend="italic">As</hi>.</note>
+ <note type="tnote" n="579">537<space rend="indent1"/><hi rend="italic">must</hi>. Cov: <hi rend="italic">mot</hi>; RV: <hi rend="italic">most</hi>; Warren: <hi rend="italic">moste</hi>.</note>
+ <note type="tnote" n="580">538<space rend="indent1"/><hi rend="italic">lifly</hi>. N: <hi rend="italic">lufly</hi>; Cov: <hi rend="italic">liffeli</hi>; RV: <hi rend="italic">lyvely</hi>.</note>
+ <note type="tnote" n="581">541<space rend="indent1"/><hi rend="italic">tithis </hi><hi rend="italic">and</hi>. RV: <hi rend="italic">my tithe</hi>.</note>
+ <note type="tnote" n="582">542<space rend="indent1"/><hi rend="italic">mote</hi>. RV: <hi rend="italic">moste</hi>.</note>
+ <note type="tnote" n="583"><space rend="indent1"/><hi rend="italic">counte</hi>. Cov: <hi rend="italic">account</hi>; RV: <hi rend="italic">compte</hi>.</note>
+ <note type="tnote" n="584">543<space rend="indent1"/><hi rend="italic">make</hi>. Cov: <hi rend="italic">to make</hi>.</note>
+ <note type="tnote" n="585">544<space rend="indent1"/><hi rend="italic">he </hi><hi rend="italic">is</hi>. Cov: <hi rend="italic">hym</hi>.</note>
+ <note type="tnote" n="586">545<space rend="indent1"/><hi rend="italic">Thou</hi>. RV: <hi rend="italic">O thou</hi>.</note>
+ <note type="tnote" n="587">546<space rend="indent1"/><hi rend="italic">lad</hi>. RV: <hi rend="italic">ladde</hi>.</note>
+ <note type="tnote" n="588">547<space rend="indent1"/><hi rend="italic">Thou</hi>. N: <hi rend="italic">ȝow</hi>.</note>
+ <note type="tnote" n="589"><space rend="indent1"/><hi rend="italic">moste</hi>. Cov, N: <hi rend="italic">must</hi>.</note>
+ <note type="tnote" n="590"><space rend="indent1"/><hi rend="italic">eke</hi>. RV: <hi rend="italic">now</hi>.</note>
+ <note type="tnote" n="591">548<space rend="indent1"/><hi rend="italic">if</hi>. Cov, RV: <hi rend="italic">thogh</hi>.</note>
+ <note type="tnote" n="592">550<space rend="indent1"/><hi rend="italic">oonly</hi>. Warren: <hi rend="italic">wonli</hi>.</note>
+ <note type="tnote" n="593"><space rend="indent1"/><hi rend="italic">this from thee</hi>. Cov: <hi rend="italic">for me the</hi>; RV: <hi rend="italic">this the</hi>.</note>
+ <note type="tnote" n="594">551<space rend="indent1"/><hi rend="italic">The</hi>. RV: <hi rend="italic">ffro the</hi>.</note>
+ <note type="tnote" n="595"><space rend="indent1"/><hi rend="italic">that can </hi><hi rend="italic">so folke</hi>. Cov: <hi rend="italic">that so folke</hi>; RV: <hi rend="italic">that can folkes</hi>.</note>
+ <note type="tnote" n="596"><space rend="indent1"/><hi rend="italic">faile</hi>. N: <hi rend="italic">failly</hi>.</note>
+ <note type="tnote" n="597">552<space rend="indent1"/><hi rend="italic">fool</hi>. RV: <hi rend="italic">foole</hi>.</note>
+ <note type="tnote" n="598">553<space rend="indent1"/><hi rend="italic">wisshed</hi>. Cov: <hi rend="italic">wesshid</hi>.</note>
+ <note type="tnote" n="599">554<space rend="indent1"/><hi rend="italic">be that</hi>. Cov: <hi rend="italic">be it</hi>.</note>
+ <note type="tnote" n="600"><space rend="indent1"/><hi rend="italic">have</hi>. Cov: <hi rend="italic">han</hi>.</note>
+ <note type="tnote" n="601">555<space rend="indent1"/><hi rend="italic">have</hi>. Cov: <hi rend="italic">han</hi>.</note>
+ <note type="tnote" n="602"><space rend="indent1"/><hi rend="italic">leyn</hi>. Cov: <hi rend="italic">leien</hi>.</note>
+ <note type="tnote" n="603">556<space rend="indent1"/><hi rend="italic">reyn</hi>. Cov: <hi rend="italic">in reine</hi>.</note>
+ <note type="tnote" n="604"><space rend="indent1"/><hi rend="italic">and</hi><hi rend="subscript">2</hi>. RV: <hi rend="italic">to</hi>; Cov: <hi rend="italic">I</hi>.</note>
+ <note type="tnote" n="605"><space rend="indent1"/><hi rend="italic">at</hi>. RV: <hi rend="italic">at </hi><hi rend="italic">the</hi>; Cov, Warren: <hi rend="italic">atte</hi>.</note>
+ <note type="tnote" n="606">557<space rend="indent1"/><hi rend="italic">and</hi><hi rend="subscript">2</hi>. RV: <hi rend="italic">have</hi>.</note>
+ <note type="tnote" n="607">558<space rend="indent1"/><hi rend="italic">Dolve</hi>. Cov: <hi rend="italic">Delfe</hi>.</note>
+ <note type="tnote" n="608"><space rend="indent1"/><hi rend="italic">diched</hi>. Cov: <hi rend="italic">dike</hi>; RV: <hi rend="italic">dyked</hi>.</note>
+ <note type="tnote" n="609"><space rend="indent1"/><hi rend="italic">the carte</hi>. Cov, W: <hi rend="italic">atte carte</hi>.</note>
+ <note type="tnote" n="610">561<space rend="indent1"/><hi rend="italic">myn</hi>. RV, Warren: <hi rend="italic">my</hi>.</note>
+ <note type="tnote" n="611">563 <space rend="indent1"/><hi rend="italic">have</hi>. Cov: <hi rend="italic">han</hi>.</note>
+ <note type="tnote" n="612"><space rend="indent1"/><hi rend="italic">itaught</hi>. RV: <hi rend="italic">taught</hi>.</note>
+ <note type="tnote" n="613">564<space rend="indent1"/><hi rend="italic">Howe</hi><hi rend="italic"> that</hi>. RV: <hi rend="italic">how</hi>.</note>
+ <note type="tnote" n="614"><space rend="indent1"/><hi rend="italic">am</hi>. N: <hi rend="italic">may</hi>.</note>
+ <note type="tnote" n="615"><space rend="indent1"/><hi rend="italic">gastful</hi>. RV. <hi rend="italic">gastly</hi>.</note>
+ <note type="tnote" n="616"><space rend="indent1"/><hi rend="italic">forto</hi><hi rend="italic"> drede</hi>. Cov: <hi rend="italic">in dede</hi>.</note>
+ <note type="tnote" n="617">566<space rend="indent1"/><hi rend="italic">is ther</hi>. Cov: <hi rend="italic">þer </hi><hi rend="italic">is</hi>.</note>
+ <note type="tnote" n="618"><space rend="indent1"/><hi rend="italic">ne</hi>. N: <hi rend="italic">nor</hi>.</note>
+ <note type="tnote" n="619">567<space rend="indent1"/><hi rend="italic">dare reste</hi>. Cov, RV: <hi rend="italic">areste</hi>.</note>
+ <note type="tnote" n="620">561–68<space rend="indent1"/><hi rend="italic">Sir Cordeler . . . present and redy</hi>. Ink fading at bottom of fol. 156v.</note>
+ <note type="tnote" n="621">570<space rend="indent1"/><hi rend="italic">sureté</hi>. RV: <hi rend="italic">seurte</hi>; Warren: <hi rend="italic">seuerte</hi>.</note>
+ <note type="tnote" n="622">571<space rend="indent1"/><hi rend="italic">Strengthe</hi>. Warren: <hi rend="italic">strengh</hi>.</note>
+ <note type="tnote" n="623"><space rend="indent1"/><hi rend="italic">what so</hi>. RV: <hi rend="italic">what</hi>.</note>
+ <note type="tnote" n="624">572<space rend="indent1"/><hi rend="italic">Worldly</hi>. Warren: <hi rend="italic">wordly</hi>.</note>
+ <note type="tnote" n="625">574<space rend="indent1"/><hi rend="italic">fro</hi>. Cov, RV: <hi rend="italic">from</hi>.</note>
+ <note type="tnote" n="626">Before 577<space rend="indent1"/><hi rend="italic">the Childe</hi>. RV: <hi rend="italic">the </hi><hi rend="italic">younge Childe</hi>.</note>
+ <note type="tnote" n="627">577<space rend="indent1"/><hi rend="italic">borne</hi>. So RV, Warren. Cov: <hi rend="italic">ibore</hi>; S: <hi rend="italic">yborn</hi>.</note>
+ <note type="tnote" n="628">579<space rend="indent1"/><hi rend="italic">must</hi>. RV, Warren: <hi rend="italic">most</hi>.</note>
+ <note type="tnote" n="629"><space rend="indent1"/><hi rend="italic">here toforn</hi>. Cov: <hi rend="italic">heretofore</hi>.</note>
+ <note type="tnote" n="630">580<space rend="indent1"/><hi rend="italic">Be lad</hi>. Cov, RV: <hi rend="italic">Be ledde</hi>.</note>
+ <note type="tnote" n="631"><space rend="indent1"/><hi rend="italic">fatal</hi>. Cov: <hi rend="italic">sharper</hi>.</note>
+ <note type="tnote" n="632">581<space rend="indent1"/><hi rend="italic">goo</hi>. Cov: <hi rend="italic">gone</hi>.</note>
+ <note type="tnote" n="633"><space rend="indent1"/><hi rend="italic">on</hi>. Cov, RV: <hi rend="italic">vpon</hi>; N: <hi rend="italic">to</hi>.</note>
+ <note type="tnote" n="634">582<space rend="indent1"/><hi rend="italic">in soth</hi>. Cov: <hi rend="italic">for soth</hi>.</note>
+ <note type="tnote" n="635">583<space rend="indent1"/><hi rend="italic">every</hi>. Cov: <hi rend="italic">oueri</hi>.</note>
+ <note type="tnote" n="636">584<space rend="indent1"/><hi rend="italic">moost</hi>. RV: <hi rend="italic">moste</hi>.</note>
+ <note type="tnote" n="637">585<space rend="indent1"/><hi rend="italic">o</hi>. RV: omitted; Warren: <hi rend="italic">a</hi>.</note>
+ <note type="tnote" n="638"><space rend="indent1"/><hi rend="italic">I</hi><hi rend="italic"> cannot</hi>. Cov: <hi rend="italic">can I nat</hi>.</note>
+ <note type="tnote" n="639">586<space rend="indent1"/><hi rend="italic">bore</hi>. Cov, RV: <hi rend="italic">born</hi>.</note>
+ <note type="tnote" n="640">587<space rend="indent1"/><hi rend="italic">be</hi>. Cov: <hi rend="italic">ben</hi>.</note>
+ <note type="tnote" n="641"><space rend="indent1"/><hi rend="italic">wreke</hi>. RV: <hi rend="italic">awreke</hi>.</note>
+ <note type="tnote" n="642">588<space rend="indent1"/><hi rend="italic">list</hi>. Cov, RV: <hi rend="italic">lust</hi>.</note>
+ <note type="tnote" n="643"><space rend="indent1"/><hi rend="italic">lenger</hi>. Cov: <hi rend="italic">longer</hi>.</note>
+ <note type="tnote" n="644">589<space rend="indent1"/><hi rend="italic">cam</hi>. RV: <hi rend="italic">come</hi>.</note>
+ <note type="tnote" n="645">590<space rend="indent1"/><hi rend="italic">no tale</hi>. Cov: <hi rend="italic">tales</hi>.</note>
+ <note type="tnote" n="646">591<space rend="indent1"/><hi rend="italic">wil</hi>. RV: <hi rend="italic">wille</hi>.</note>
+ <note type="tnote" n="647">Before 593<space rend="indent1"/><hi rend="italic">the Clerke</hi>. RV: <hi rend="italic">The younge beneficed Clerk</hi>.</note>
+ <note type="tnote" n="648">593<space rend="indent1"/><hi rend="italic">O ye</hi><hi rend="italic"> Sir</hi>. Cov: <hi rend="italic">O sir</hi>; RV: <hi rend="italic">O ye</hi>.</note>
+ <note type="tnote" n="649">594<space rend="indent1"/><hi rend="italic">or</hi>. Cov: <hi rend="italic">on</hi>.</note>
+ <note type="tnote" n="650"><space rend="indent1"/><hi rend="italic">defende</hi>. Cov: <hi rend="italic">to defende</hi>.</note>
+ <note type="tnote" n="651">595<space rend="indent1"/><hi rend="italic">wende have</hi>. Cov: <hi rend="italic">wend</hi><hi rend="italic"> han</hi>; RV: <hi rend="italic">haue</hi>.</note>
+ <note type="tnote" n="652"><space rend="indent1"/><hi rend="italic">unto</hi>. Cov: <hi rend="italic">up onto</hi>.</note>
+ <note type="tnote" n="653">596<space rend="indent1"/><hi rend="italic">benefices</hi>. RV: <hi rend="italic">benefice</hi>.</note>
+ <note type="tnote" n="654"><space rend="indent1"/><hi rend="italic">or</hi>. Cov: <hi rend="italic">of</hi>.</note>
+ <note type="tnote" n="655"><space rend="indent1"/><hi rend="italic">greet prebende</hi>. Cov: <hi rend="italic">prebende</hi>.</note>
+ <note type="tnote" n="656">597<space rend="indent1"/><hi rend="italic">hiest</hi>. RV: <hi rend="italic">hie</hi>.</note>
+ <note type="tnote" n="657">598<space rend="indent1"/><hi rend="italic">agens</hi>. Cov: <hi rend="italic">ayens</hi>; N: <hi rend="italic">aȝens</hi>; RV: <hi rend="italic">ayenst</hi>.</note>
+ <note type="tnote" n="658">600<space rend="indent1"/><hi rend="italic">ponissheth</hi>. RV: <hi rend="italic">punysshet</hi>.</note>
+ <note type="tnote" n="659">602<space rend="indent1"/><hi rend="italic">bettir</hi>. N: <hi rend="italic">bett</hi>; Warren: <hi rend="italic">bette</hi>.</note>
+ <note type="tnote" n="660">603<space rend="indent1"/><hi rend="italic">no</hi><hi rend="subscript">1</hi>. Warren: <hi rend="italic">noon</hi>.</note>
+ <note type="tnote" n="661"><space rend="indent1"/><hi rend="italic">geyn</hi>. Cov: <hi rend="italic">gynne</hi>.</note>
+ <note type="tnote" n="662"><space rend="indent1"/><hi rend="italic">ne</hi>. Cov: <hi rend="italic">no</hi>.</note>
+ <note type="tnote" n="663"><space rend="indent1"/><hi rend="italic">bettir</hi>. Cov: <hi rend="italic">lenger</hi>.</note>
+ <note type="tnote" n="664">604<space rend="indent1"/><hi rend="italic">sure</hi>. RV: <hi rend="italic">seure</hi>.</note>
+ <note type="tnote" n="665">606<space rend="indent1"/><hi rend="italic">bene</hi>. RV: <hi rend="italic">be</hi>.</note>
+ <note type="tnote" n="666">611<space rend="indent1"/><hi rend="italic">Atte</hi>. So Cov, Warren. N, RV; S: <hi rend="italic">At the</hi>.</note>
+ <note type="tnote" n="667"><space rend="indent1"/><hi rend="italic">mote</hi>. RV: <hi rend="italic">most</hi>.</note>
+ <note type="tnote" n="668"><space rend="indent1"/>Signature in left margin: <hi rend="italic">Thomas Holt</hi>.</note>
+ <note type="tnote" n="669">613<space rend="indent1"/><hi rend="italic">agein</hi>. Cov: <hi rend="italic">aȝenne</hi>; N: <hi rend="italic">aȝen</hi>; Warren: <hi rend="italic">aȝeyne</hi>.</note>
+ <note type="tnote" n="670"><space rend="indent1"/><hi rend="italic">is</hi>. RV: <hi rend="italic">may be</hi>.</note>
+ <note type="tnote" n="671">615<space rend="indent1"/><hi rend="italic">this</hi>. Cov: <hi rend="italic">his</hi>.</note>
+ <note type="tnote" n="672">616<space rend="indent1"/><hi rend="italic">this</hi>. RV: <hi rend="italic">in this</hi>.</note>
+ <note type="tnote" n="673"><space rend="indent1"/><hi rend="italic">here is</hi>. RV: <hi rend="italic">is</hi>.</note>
+ <note type="tnote" n="674">618<space rend="indent1"/><hi rend="italic">agein</hi>. Cov: <hi rend="italic">ayenne</hi>; N: <hi rend="italic">aȝen</hi>; RV: <hi rend="italic">ayenst</hi>; Warren: <hi rend="italic">aȝeyne</hi>.</note>
+ <note type="tnote" n="675"><space rend="indent1"/><hi rend="italic">no respite</hi>. RV, Warren: <hi rend="italic">respite noon</hi>.</note>
+ <note type="tnote" n="676">619<space rend="indent1"/><hi rend="italic">our</hi>. RV: <hi rend="italic">steven</hi>.</note>
+ <note type="tnote" n="677"><space rend="indent1"/><hi rend="italic">doth</hi>. RV: <hi rend="italic">deth</hi>.</note>
+ <note type="tnote" n="678"><space rend="indent1"/><hi rend="italic">not</hi>. Cov: <hi rend="italic">nat</hi>.</note>
+ <note type="tnote" n="679">620<space rend="indent1"/><hi rend="italic">welcome</hi><hi rend="italic"> be</hi>. Cov: <hi rend="italic">welcome</hi>.</note>
+ <note type="tnote" n="680">627<space rend="indent1"/><hi rend="italic">al his herte</hi>. RV: <hi rend="italic">hert</hi>.</note>
+ <note type="tnote" n="681">628<space rend="indent1"/><hi rend="italic">Seth</hi>. Cov: <hi rend="italic">Sethen</hi>.</note>
+ <note type="tnote" n="682">629<space rend="indent1"/><hi rend="italic">deserve</hi>. Cov: <hi rend="italic">disserueth</hi>; RV: <hi rend="italic">serue</hi>.</note>
+ <note type="tnote" n="683"><space rend="indent1"/><hi rend="italic">quit</hi>. Cov: <hi rend="italic">quiteth</hi>.</note>
+ <note type="tnote" n="684">630<space rend="indent1"/><hi rend="italic">To</hi>. RV: <hi rend="italic">The</hi>.</note>
+ <note type="tnote" n="685">632<space rend="indent1"/><hi rend="italic">sure to</hi>. RV: <hi rend="italic">seure</hi>.</note>
+ <note type="tnote" n="686"><space rend="indent1"/>N has rubric: <hi rend="italic">þ(e) armytt answerith</hi>.</note>
+ <note type="tnote" n="687">Before 633<space rend="indent1"/><hi rend="italic">The Kyng ligging dead and eten of wormes</hi>. Cov: <hi rend="italic">A kynge lienge deede and eten with wormes</hi>; RV: <hi rend="italic">A </hi><hi rend="italic">kyng liggyn in his grave</hi>; N: <hi rend="italic">þe kyng liggyng ded</hi><hi rend="italic"> &amp; eten with wormes</hi>.</note>
+ <note type="tnote" n="688">633<space rend="indent1"/><hi rend="italic">folke</hi>. Cov: <hi rend="italic">folkis</hi>.</note>
+ <note type="tnote" n="689"><space rend="indent1"/><hi rend="italic">portrature</hi>. Cov: <hi rend="italic">portatrure</hi>.</note>
+ <note type="tnote" n="690">634<space rend="indent1"/><hi rend="italic">the estates</hi>. So Cov, Warren. RV: <hi rend="italic">estates</hi>; S: <hi rend="italic">the</hi><hi rend="italic"> states</hi>.</note>
+ <note type="tnote" n="691">635<space rend="indent1"/><hi rend="italic">Seeth</hi>. Cov, RV: <hi rend="italic">Sethe</hi>.</note>
+ <note type="tnote" n="692">636<space rend="indent1"/><hi rend="italic">not</hi>. Cov: <hi rend="italic">&amp; </hi><hi rend="italic">nat</hi>.</note>
+ <note type="tnote" n="693">638<space rend="indent1"/><hi rend="italic">I</hi>. So Cov, RV, Warren, N. S: <hi rend="italic">ȝe</hi>.</note>
+ <note type="tnote" n="694"><space rend="indent1"/><hi rend="italic">kyng</hi>. RV: <hi rend="italic">a king</hi>.</note>
+ <note type="tnote" n="695">640<space rend="indent1"/><hi rend="italic">fyne</hi>. Cov: <hi rend="italic">ende</hi>.</note>
+ <note type="tnote" n="696">Before 641<space rend="indent1"/><hi rend="italic">Machabre the Doctour</hi>. RV: <hi rend="italic">The wordes of the Doctour Machabre</hi>.</note>
+ <note type="tnote" n="697">641<space rend="indent1"/><hi rend="italic">not</hi>. Cov: <hi rend="italic">nat</hi>; Warren: <hi rend="italic">nowght</hi>.</note>
+ <note type="tnote" n="698">642<space rend="indent1"/><hi rend="italic">wiche</hi>. Cov: <hi rend="italic">that</hi>.</note>
+ <note type="tnote" n="699">643<space rend="indent1"/><hi rend="italic">whether</hi>. N: <hi rend="italic">wedur</hi>.</note>
+ <note type="tnote" n="700"><space rend="indent1"/><hi rend="italic">he</hi>. Cov: <hi rend="italic">ye</hi>.</note>
+ <note type="tnote" n="701">645<space rend="indent1"/><hi rend="italic">Remembringe ay</hi>. Cov: <hi rend="italic">remembreth</hi>.</note>
+ <note type="tnote" n="702"><space rend="indent1"/><hi rend="italic">bet</hi>. Cov, RV: <hi rend="italic">better</hi>.</note>
+ <note type="tnote" n="703">646<space rend="indent1"/><hi rend="italic">at the</hi>. Cov, Warren: <hi rend="italic">atte</hi>.</note>
+ <note type="tnote" n="704">647<space rend="indent1"/><hi rend="italic">shul</hi>. RV: <hi rend="italic">shal</hi>.</note>
+ <note type="tnote" n="705">648<space rend="indent1"/><hi rend="italic">that maketh in</hi><hi rend="italic"> hevene</hi>. RV: <hi rend="italic">in heuen that maketh</hi>.</note>
+ <note type="tnote" n="706">651<space rend="indent1"/><hi rend="italic">helle none ne</hi>. So Cov, RV, Warren. S, N: <hi rend="italic">hell none nor</hi>.</note>
+ <note type="tnote" n="707">655<space rend="indent1"/><hi rend="italic">lyve wel</hi>. N: <hi rend="italic">lyve</hi>.</note>
+ <note type="tnote" n="708"><space rend="indent1"/><hi rend="italic">take this</hi>. RV: <hi rend="italic">take</hi>.</note>
+ <note type="tnote" n="709"><space rend="indent1"/><hi rend="italic">best</hi>. So Warren. Cov, RV, N: <hi rend="italic">the best</hi>.</note>
+ <note type="tnote" n="710">656<space rend="indent1"/><hi rend="italic">Is</hi>. Cov: <hi rend="italic">It</hi><hi rend="italic"> is</hi>.</note>
+ <note type="tnote" n="711"><space rend="indent1"/><hi rend="italic">shul</hi>. Cov: <hi rend="italic">shullen</hi>.</note>
+ <note type="tnote" n="712"><space rend="indent1"/><hi rend="italic">pace</hi>. RV: <hi rend="italic">passe</hi>.</note>
+ <note type="tnote" n="713">Before 657<space rend="indent1"/><hi rend="italic">Lenvoye</hi><hi rend="italic"> de Translator</hi>. RV: <hi rend="italic">Verba Translatoris</hi>.</note>
+ <note type="tnote" n="714">657<space rend="indent1"/><hi rend="italic">my lordis</hi>. RV: <hi rend="italic">maisters</hi>.</note>
+ <note type="tnote" n="715"><space rend="indent1"/><hi rend="italic">maistres</hi>. RV: <hi rend="italic">folkes</hi>.</note>
+ <note type="tnote" n="716">659<space rend="indent1"/><hi rend="italic">myn</hi>. RV, N: <hi rend="italic">my</hi>.</note>
+ <note type="tnote" n="717">661<space rend="indent1"/><hi rend="italic">aske</hi>. So RV, Warren. N, Cov, S: <hi rend="italic">axe</hi>.</note>
+ <note type="tnote" n="718">662<space rend="indent1"/><hi rend="italic">goodly</hi>. RV: <hi rend="italic">godely</hi>.</note>
+ <note type="tnote" n="719"><space rend="indent1"/><hi rend="italic">this</hi>. N: <hi rend="italic">his</hi>.</note>
+ <note type="tnote" n="720">663<space rend="indent1"/><hi rend="italic">to sowpouaile drede</hi>. Cov: <hi rend="italic">subhope</hi><hi rend="italic"> away drede</hi>; N: <hi rend="italic">sowpowayle</hi>; RV: <hi rend="italic">suppowel drede</hi>; Warren: <hi rend="italic">soupewaile</hi>.</note>
+ <note type="tnote" n="721">664<space rend="indent1"/><hi rend="italic">Benignely</hi>. So RV; Cov: <hi rend="italic">Benyngli</hi>; Warren: <hi rend="italic">Benyngneli</hi>.</note>
+ <note type="tnote" n="722">665<space rend="indent1"/><hi rend="italic">drewe</hi>. Cov: <hi rend="italic">drowe</hi>; RV: <hi rend="italic">drow</hi>; Warren: <hi rend="italic">drowe</hi>.</note>
+ <note type="tnote" n="723">666<space rend="indent1"/><hi rend="italic">by</hi>. RV: <hi rend="italic">for</hi>.</note>
+ <note type="tnote" n="724">667<space rend="indent1"/><hi rend="italic">Engelonde</hi>. RV: <hi rend="italic">England</hi>.</note>
+ <note type="tnote" n="725">670<space rend="indent1"/><hi rend="italic">Have</hi>. RV: <hi rend="italic">Holde</hi>.</note>
+ <note type="tnote" n="726"><space rend="indent1"/><hi rend="italic">my name is John Lidgate</hi>. In Cov, the name of the author is omitted and a blank space is left.</note>
+ <note type="tnote" n="727">671<space rend="indent1"/><hi rend="italic">her</hi>. RV: <hi rend="italic">thare</hi>.</note>
+ <note type="tnote" n="728">672<space rend="indent1"/><hi rend="italic">Her</hi>. RV: <hi rend="italic">thaire</hi>.</note>
+ <note type="tnote" n="729">Explicit<space rend="indent1"/><hi rend="italic">Here endith the </hi><hi rend="italic">Daunce of Deeth</hi>. N: <hi rend="italic">Laus tibi sit christe etc Finis</hi>; RV: <hi rend="italic">Explicit</hi>.</note>
+ </div></body></text></TEI>
