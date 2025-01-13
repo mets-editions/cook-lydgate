@@ -55,7 +55,7 @@
     <text><body xmlns="http://www.tei-c.org/ns/1.0"><anchor xml:id="Cook-Lydgate-09-Lansdowne-Headnote"/><div type="text">
  <p style="bodyfirst" n="1">This version of the <hi rend="italic">Dance of Death</hi>, which appears to have been derived from the earlier Selden version of the text, survives in six manuscripts: Bodleian Library MS Bodley 686 (SC 2527), Corpus Christi College Oxford MS 237, British Library MS Cotton Vespasian A.XXV, British Library Lansdowne MS 699, Lincoln Cathedral Library MS 129, and Leiden University Library MS Vossius Germ. Gall. Q.9.</p>
  <p style="body" n="1">Lansdowne MS 699 is the base text for our edition, collated with Florence Warren’s critical edition for the Early English Text Society. Warren also records the many variant readings from Cotton Vespasian, a late manuscript (c. 1600) that describes the poem as “writen in the cappell of Wortley of Wortley Hall” (fol. 172r) and thus may represent a transcription from an otherwise unattested set of paintings, similar to those created for the Pardon Churchyard at St. Paul’s.</p>
- <p style="bodysubection">Manuscripts:</p>
+ <p style="bodysubsection">Manuscripts:</p>
  <list rend="nobullets"><item style="indent1">Oxford, Bodleian Library, MS Bodley 686, fols. 209r–16r</item></list>
  <list rend="nobullets"><item style="indent1">Oxford, Corpus Christi College, MS 237, fols. 147r–57r</item></list>
  <list rend="nobullets"><item style="indent1">London, British Library, MS Cotton Vespasian A. XXV, fols. 172r–77v (49 stanzas only)</item></list>
@@ -63,8 +63,8 @@
  <list rend="nobullets"><item style="indent1">Lincoln, Lincoln Cathedral Library, MS 126, fols. 79v–86r</item></list>
  <list rend="nobullets"><item style="indent1">Cambridge, Harvard University, Houghton Library, MS Eng. 752, fol. 44r (one stanza only, inserted in the text of Lydgate’s <hi rend="italic">Troy Book</hi>)</item></list>
  <list rend="nobullets"><item style="indent1">Leiden, Leiden University Library, MS Vossius Germ. Gall. Q.9, fol. 29v</item></list>
- <p style="bodysubection">Early Print Edition:</p>
+ <p style="bodysubsection">Early Print Edition:</p>
  <list rend="nobullets"><item style="indent1">Lydgate, John. <hi rend="italic">Hore beate marie virginis</hi><hi rend="italic"> ad vsum insignis ac preclare ecclesie Saru[m] cu[m</hi><hi rend="italic">] figuris passionis mysteriu[m] representa[n]tibus recenter additis</hi>. [Parisius: Per J. bignon pro R. fakes Lodoii [sic] librario, [1521?]] (20 stanzas only). [STC 15932]</item></list>
- <p style="bodysubection">Edition:</p>
+ <p style="bodysubsection">Edition:</p>
  <list rend="nobullets"><item style="indent1">Warren, Florence, and Beatrice White, eds. “The Daunce of Death.” In <hi rend="italic">The Dance</hi><hi rend="italic"> of Death, Edited from MSS. Ellesmere 26/A.13 and</hi><hi rend="italic"> B.M. Lansdowne 699, Collated with the Other Extant MSS</hi>. EETS o.s. 181. London: Oxford University Press, 1931; Rpt. New York: Klaus Reprint Co., 1971. Pp. 1–77.</item></list>
  </div></body></text></TEI>

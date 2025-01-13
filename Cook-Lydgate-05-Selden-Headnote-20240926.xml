@@ -55,7 +55,7 @@
     <text><body xmlns="http://www.tei-c.org/ns/1.0"><anchor xml:id="Cook-Lydgate-05-Selden-Headnote"/><div type="text">
  <p style="bodyfirst" n="1">This version of the <hi rend="italic">Dance of Death</hi> survives in nine manuscripts: Rome, Venerable English College MS 1405; New Haven, Beinecke Library MS 493; Oxford, Bodleian Library MS Selden Supra 53 (SC 3441); Oxford, Bodleian Library MS Laud Misc. 735 (SC 1504); Oxford, Bodleian Library MS Bodley 221 (SC 27627); London, British Library MS Harley 116; Coventry, Coventry Archives Acc. 325/1; San Marino, Huntington Library MS EL 26 A 13; and Cambridge, Trinity College MS R.3.21. It is also the version of the poem appended to Tottel’s 1554 edition of Lydgate’s <hi rend="italic">Fall of Princes</hi> (STC 3177).</p>
  <p style="body" n="1">Bodleian Library MS Selden Supra 53 is the base text for our edition. It has been collated with Florence Warren’s critical edition for the Early English Text Society, which takes as its base text the closely related but later manuscript Huntington Library MS EL 26 A 13. Readers are referred to the critical apparatus of the EETS edition for further information on the source of these variants. We have also noted variants found in the Beinecke, Rome (AVCAU), and Coventry manuscripts of the poem, since these were unknown to Warren and are not included in her edition.</p>
- <p style="bodysubection">Manuscripts:</p>
+ <p style="bodysubsection">Manuscripts:</p>
  <list rend="nobullets"><item style="indent1">Oxford, Bodleian Library, MS Selden Supra 53, fols. 148r–58v</item></list>
  <list rend="nobullets"><item style="indent1">Oxford, Bodleian Library, MS Bodley 221, fols. 53v–62r</item></list>
  <list rend="nobullets"><item style="indent1">Oxford, Bodleian Library, MS Laud misc. 735, fols. 52r–61r</item></list>
@@ -65,9 +65,9 @@
  <list rend="nobullets"><item style="indent1">San Marino, Huntington Library, MS EL 26.A.13, fols. 1r–12v</item></list>
  <list rend="nobullets"><item style="indent1">Rome, English College, AVCAU MS 1405, fols. 111r–21r (82 stanzas only, omits 7 and 52)</item></list>
  <list rend="nobullets"><item style="indent1">New Haven, Yale University, Beinecke Library, MS 493, fols. 51v–60v</item></list>
- <p style="bodysubection">Early Print Edition:</p>
+ <p style="bodysubsection">Early Print Edition:</p>
  <list rend="nobullets"><item style="indent1">Lydgate, John. <hi rend="italic">The fall of prynces. Gathered by John Bochas, fro[</hi><hi rend="italic">m] the begynnyng of the world vntyll his time, translated </hi><hi rend="italic">into English by John Lidgate monke of Burye Wherunto is </hi><hi rend="italic">added the fall of al such as since that time </hi><hi rend="italic">were notable in Englande: diligently collected out of the chronicles</hi>. Londini: in aedibus Johannis Waylandi, cum priuilegio per sepatennium, [1554?], Appendix. [STC 3177]</item></list>
- <p style="bodysubection">Editions:</p>
+ <p style="bodysubsection">Editions:</p>
  <list rend="nobullets"><item style="indent1">Hammond, Eleanor Prescott, ed. “The Dance Macabre.” <hi rend="italic">English Verse between Chaucer and Surrey: Being Examples of</hi><hi rend="italic"> Conventional Secular Poetry, Exclusive of Romance, Ballad, Lyric, and Drama</hi><hi rend="italic">, in the Period from Henry the Fourth to Henry the</hi><hi rend="italic"> Eighth</hi>. Durham, NC: Duke University Press, 1927. Pp. 131–42.</item></list>
  <list rend="nobullets"><item style="indent1">Warren, Florence, and Beatrice White, eds. “The Daunce of Death.” In <hi rend="italic">The Dance of Death, Edited from MSS. Ellesmere 26/A</hi><hi rend="italic">.13 and B.M. Lansdowne 699, Collated with the Other</hi><hi rend="italic"> Extant MSS</hi>. EETS o.s. 181. London: Oxford University Press, 1931; Rpt. New York: Klaus Reprint Co., 1971. Pp. 1–77.</item></list>
  </div></body></text></TEI>

@@ -68,7 +68,7 @@
  <p style="body" n="4">Given the similarity in content between this text and Lydgate’s adaptation thereof, the reader is referred to the Explanatory Notes accompanying Lydgate’s <hi rend="italic">Dance of Death</hi> (both A and B versions) for any overlapping material. The Explanatory Notes that follow here concern details specific to this text and to this translation. The Latin here and at the end of the poem has been translated by C. J. Lambert (Columbia University), whose accompanying notes are reproduced and marked accordingly. We also thank Lucas Wood for his invaluable assistance in helping us work through some of the thornier sections of the text.</p>
  <p style="heading2" n="3">Headnote to the Textual Notes</p>
  <p style="bodyfirst" n="5">Our edition of the <hi rend="italic">Danse macabre</hi> intentionally uses an early manuscript, Paris, BNF fonds francaise MS 14989, containing the name “Machabre Docteur,” as its base-text (see <ref target="insert-internal-link" type="internal">Headnote to Explanatory Notes for the <hi rend="italic">Danse macabre</hi> on p. 139</ref>), whereas other modern editions of the <hi rend="italic">Danse</hi> all take Guyot Marchant’s 1485 and 1486 editions as their base-text. Warren also opts for a manuscript as her base-text: British Library, Additional MS 38858. Emendations of our base-text have been made simply for grammatical clarity, but we adduce the other modern editions as parallels to our editorial choices; in a few cases obviously corrupt readings have been emended in accordance with the other editions.</p>
- <p style="bodysubection">Manuscripts:</p>
+ <p style="bodysubsection">Manuscripts:</p>
  <list rend="numbered">
  <item style="indent1">Chantilly, Bibliothèque et Archives du Château, MS 502 (<hi rend="italic">olim</hi> 1920), fols. 1r–20v.</item>
  <item style="indent1">Lille, Bibliothèque municipale, MS 139 (<hi rend="italic">olim</hi> 364), fols. 233v–39v.</item>
@@ -86,9 +86,9 @@
  <item style="indent1">Saint-Omer, Bibliothèque municipale, MS 127, fols. 201r–06r.</item>
  <item style="indent1">Tours, Bibliothèque municipale, MS 907, fols. 99v–114v.</item>
  </list>
- <p style="bodysubection">Incunabula:</p>
+ <p style="bodysubsection">Incunabula:</p>
  <list rend="nobullets"><item style="indent1">For a comprehensive list of incunabula printing the <hi rend="italic">Danse macabre</hi>, see the <hi rend="italic">Universal Short Title Catalogue</hi> (<ref target="https://ustc.ac.uk/index.php/search" type="external">https://ustc.ac.uk/index.php/search</ref>), using the keyword “Danse macabre” to search.</item></list>
- <p style="bodysubection">Editions:</p>
+ <p style="bodysubsection">Editions:</p>
  <list rend="nobullets"><item style="indent1"><hi rend="italic">La grande danse macabre des hommes et des </hi><hi rend="italic">femmes precédée du dict des trois mors et </hi><hi rend="italic">des trois vifz, du debat du corps et de l’</hi><hi rend="italic">âme, et la complaincte de l’âme dampnée</hi>. Paris: Bailleu, 1862.</item></list>
  <list rend="nobullets"><item style="indent1">de Lincy, Le Roux, and L. M. Tisserand, eds. “La danse macabre reproduite textuellement d’apres l’unique exemplaire connu de l’édition princeps de Guyot Marchant (Paris, 1485) et completée avec l’édition de 1486.” In <hi rend="italic">Paris et ses historiens aux XIVe et XVe</hi><hi rend="italic"> Siècles</hi>. Paris: Imprimerie Impériale, 1867. Pp. 291–317.</item></list>
  <list rend="nobullets"><item style="indent1">Dufour, Valentin, ed. <hi rend="italic">La dance macabre peinte sous les charniers des</hi><hi rend="italic"> Saints Innocents de Paris (1425): reproduction de l’édition </hi><hi rend="italic">princeps donnée par Guyot Marchant, texte et gravures sur </hi><hi rend="italic">bois (1485)</hi>. Paris: Féchoz, 1874. Rpt. 1875. Rpt. 1891.</item></list>
