@@ -1,101 +1,546 @@
 <?xml version="1.0" encoding="utf-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" version="3.3.0" xml:id="Cook-Lydgate-40-French-Danse-Headnote-tei">
-    <teiHeader>
-  <fileDesc>
- <titleStmt><title>Introduction to La Danse Macabre</title><author>Cook, Megan L.</author><author>Strakhov, Elizaveta</author><sponsor>The University of Rochester</sponsor>
- <sponsor>TEAMS: Teaching Association for Medieval Studies</sponsor>
- <funder>National Endowment for the Humanities</funder>
- <funder>The University of Rochester</funder>
- <funder>TEAMS: Teaching Association for Medieval Studies</funder><respStmt><persName>Conklin, Ashley R.</persName><resp from="2018-07" to="2018-08">Checked and corrected bibliographic references</resp><resp from="2018-07" to="2018-08">Ensured adherence to METS Style Guide</resp><resp from="2018-07" to="2018-08">Entered corrections for print edition</resp></respStmt><respStmt><persName>Delcourt, Steffi</persName><resp from="2023-02" to="2024-05">Audited documents prior to print/export</resp><resp from="2024-05" to="2024-06">Encoded TEI</resp></respStmt><respStmt><persName>Kephart, Daniel</persName><resp from="2024-02" to="2024-02">Collected metadata</resp><resp from="2024-05" to="2024-05">Audited documents prior to print/export</resp><resp from="2024-07" to="2024-07">Uploaded / Published digital edition</resp></respStmt><respStmt><persName>Norris, James</persName><resp from="2024-03" to="2024-05">Collected metadata</resp><resp from="2024-07" to="2024-07">Uploaded / Published digital edition</resp></respStmt><respStmt><persName>Peck, Russell A.</persName><resp from="2018-06" to="2018-07">Copyedited and proofread</resp><resp from="2018-06" to="2018-07">Ensured adherence to METS Style Guide</resp><resp from="2018-06" to="2018-07">Reviewed edition for consistency and audience</resp><resp from="2018-06" to="2018-07">Reviewed edition for content and scholarship</resp><resp from="2018-06" to="2018-07">Wrote reader report</resp></respStmt><respStmt><persName>Price, Eleanor</persName><resp from="2024-03" to="2024-05">Audited documents prior to print/export</resp><resp from="2023-02" to="2023-11">Copyedited and proofread</resp><resp from="2023-11" to="2023-11">Ensured adherence to METS Style Guide</resp><resp from="2023-02" to="2023-11">Entered corrections for digital edition</resp><resp from="2023-02" to="2023-11">Entered corrections for print edition</resp><resp from="2023-02" to="2023-11">Formatted for print edition</resp><resp from="2023-02" to="2023-11">Formatted for XML export</resp><resp from="2024-05" to="2024-06">Encoded TEI</resp></respStmt><respStmt><persName>Yee, Pamela M.</persName><resp from="2018-07" to="2024-01">Audited documents prior to print/export</resp><resp from="2018-07" to="2018-09">Checked and corrected bibliographic references</resp><resp>Collated and entered corrections</resp><resp from="2023-11" to="2023-11">Collected metadata</resp><resp from="2018-07" to="2018-09">Copyedited and proofread</resp><resp from="2018-07" to="2018-09">Ensured adherence to METS Style Guide</resp><resp from="2018-07" to="2018-09">Reviewed edition for consistency and audience</resp><resp from="2018-07" to="2018-09">Wrote reader report</resp></respStmt></titleStmt><editionStmt><edition>Encoded in TEI in 2024</edition>
- </editionStmt>
- <publicationStmt>
- <publisher>The Rossell Hope Robbins Library, University of Rochester</publisher>
- <pubPlace>Rochester, NY</pubPlace>
- <address>
- <addrLine>https://www.library.rochester.edu/spaces/robbins</addrLine>
- </address>
- <publisher>The Department of English, University of Rochester</publisher>
- <pubPlace>Rochester, NY</pubPlace>
- <address>
- <addrLine>https://www.sas.rochester.edu/eng/</addrLine>
- </address>
- <publisher>TEAMS: Teaching Association for Medieval Studies</publisher>
- <address>
- <addrLine>https://teams-medieval.org/about/</addrLine>
- </address>
- <distributor>The Rossell Hope Robbins Library, University of Rochester</distributor>
- <pubPlace>Rochester, NY</pubPlace>
- <address>
- <addrLine>https://www.library.rochester.edu/spaces/robbins</addrLine>
- </address>
- <availability status="restricted">
- <p>Downloading shall be restricted to one copy for private use.</p>
- </availability>
-    <date/>
- </publicationStmt><seriesStmt>
- <title level="s">The Middle English Text Series</title><respStmt><persName>Ralph Arbelo</persName><orgName>University of Rochester</orgName><resp>IT Support Specialist, Techincal Support Staff</resp></respStmt><respStmt><persName>Mead Bowen</persName><orgName>University of Rochester</orgName><resp>Staff Editor, Editorial Staff</resp></respStmt><respStmt><persName>Katherine Briant</persName><orgName>University of Rochester</orgName><resp>Staff Editor, Editorial Staff</resp></respStmt><respStmt><persName>Theresa Coletti</persName><orgName>University of Maryland</orgName><resp>Member, Advisory Board</resp></respStmt><respStmt><persName>Ashley R. Conklin</persName><orgName>University of Rochester</orgName><resp>Staff Editor, Editorial Staff</resp></respStmt><respStmt><persName>Rita Copeland</persName><orgName>University of Pennsylvania</orgName><resp>Member, Advisory Board</resp></respStmt><respStmt><persName>Steffi Delcourt</persName><orgName>University of Rochester</orgName><resp>Staff Editor, Editorial Staff</resp></respStmt><respStmt><persName>Joe Easterly</persName><orgName>University of Rochester</orgName><resp>IT Support Specialist, Technical Support Staff</resp></respStmt><respStmt><persName>Susanna Fein</persName><orgName>Kent State University</orgName><resp>Member, Advisory Board</resp></respStmt><respStmt><persName>Sue Gleason</persName><orgName>University of Rochester</orgName><resp>IT Support Specialist, Techincal Support Staff</resp></respStmt><respStmt><persName>Thomas G. Hahn</persName><orgName>University of Rochester</orgName><resp>Member, Advisory Board</resp></respStmt><respStmt><persName>David A. Lawton</persName><orgName>Washington University in St. Louis</orgName><resp>Member, Advisory Board</resp></respStmt><respStmt><persName>Michael Livingston</persName><orgName>The Citadel</orgName><resp>Member, Advisory Board</resp></respStmt><respStmt><persName>Alan Lupack</persName><orgName>University of Rochester</orgName><resp>Associate Editor, Editorial Board</resp></respStmt><respStmt><persName>Andrea Noto</persName><orgName>University of Rochester</orgName><resp>IT Support Specialist, Techincal Support Staff</resp></respStmt><respStmt><persName>Katie Papas</persName><orgName>University of Rochester</orgName><resp>Section Supervisor, The Robbins Library, Technical Support Staff</resp></respStmt><respStmt><persName>Russell A. Peck</persName><orgName>University of Rochester</orgName><resp>General Editor, Editorial Board</resp></respStmt><respStmt><persName>Eve Salisbury</persName><orgName>Western Michigan University</orgName><resp>Member, Advisory Board</resp></respStmt><respStmt><persName>Nathan Sarr</persName><orgName>University of Rochester</orgName><resp>IT Support Specialist, Techincal Support Staff</resp></respStmt><respStmt><persName>R. A. Shoaf</persName><orgName>University of Florida</orgName><resp>Member, Advisory Board</resp></respStmt><respStmt><persName>Lynn Staley</persName><orgName>Colgate University</orgName><resp>Member, Advisory Board</resp></respStmt><respStmt><persName>Bonnie Wheeler</persName><orgName>Southern Methodist University</orgName><resp>Member, Advisory Board</resp></respStmt><respStmt><persName>Pamela M. Yee</persName><orgName>University of Rochester</orgName><resp>Assistant Editor, Editorial Board</resp></respStmt></seriesStmt>    
- <sourceDesc>
- <biblStruct>
- <monogr><author>Lydgate, John</author><author>Unknown</author><editor>Cook, Megan L.</editor><editor>Strakhov, Elizaveta</editor><editor role="translator">Strakhov, Elizaveta</editor><title>John Lydgate's Dance of Death and Related Works</title><imprint>
- <publisher>Medieval Institute Publications</publisher>
- <pubPlace>Kalamazoo, MI</pubPlace><date>2019</date></imprint>
- </monogr>
- </biblStruct>
- </sourceDesc>
- </fileDesc>
-  <encodingDesc>
-  <projectDesc>
-        <p>The Middle English Texts Series offers a diverse and representative array of literary texts that medieval readers in the present-day British Isles would have encountered between the twelfth and sixteenth centuries. It is committed to making available both affordable print and open access editions to scholars, teachers, and students of the Western Middle Ages. In its digital publications, the series prioritizes a user-friendly interface and viewing options, multiple downloadable formats, enhanced searchability and filtering, and accessibility to the widest possible range of users.</p>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="3.3.0"
+  xml:id="Cook-Lydgate-40-French-Danse-Headnote-tei">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Introduction to La Danse Macabre</title>
+        <author>Cook, Megan L.</author>
+        <author>Strakhov, Elizaveta</author>
+        <sponsor>The University of Rochester</sponsor>
+        <sponsor>TEAMS: Teaching Association for Medieval Studies</sponsor>
+        <funder>National Endowment for the Humanities</funder>
+        <funder>The University of Rochester</funder>
+        <funder>TEAMS: Teaching Association for Medieval Studies</funder>
+        <respStmt>
+          <persName>Conklin, Ashley R.</persName>
+          <resp from="2018-07" to="2018-08">Checked and corrected bibliographic references</resp>
+          <resp from="2018-07" to="2018-08">Ensured adherence to METS Style Guide</resp>
+          <resp from="2018-07" to="2018-08">Entered corrections for print edition</resp>
+        </respStmt>
+        <respStmt>
+          <persName>Delcourt, Steffi</persName>
+          <resp from="2023-02" to="2024-05">Audited documents prior to print/export</resp>
+          <resp from="2024-05" to="2024-06">Encoded TEI</resp>
+        </respStmt>
+        <respStmt>
+          <persName>Kephart, Daniel</persName>
+          <resp from="2024-02" to="2024-02">Collected metadata</resp>
+          <resp from="2024-05" to="2024-05">Audited documents prior to print/export</resp>
+          <resp from="2024-07" to="2024-07">Uploaded / Published digital edition</resp>
+        </respStmt>
+        <respStmt>
+          <persName>Norris, James</persName>
+          <resp from="2024-03" to="2024-05">Collected metadata</resp>
+          <resp from="2024-07" to="2024-07">Uploaded / Published digital edition</resp>
+        </respStmt>
+        <respStmt>
+          <persName>Peck, Russell A.</persName>
+          <resp from="2018-06" to="2018-07">Copyedited and proofread</resp>
+          <resp from="2018-06" to="2018-07">Ensured adherence to METS Style Guide</resp>
+          <resp from="2018-06" to="2018-07">Reviewed edition for consistency and audience</resp>
+          <resp from="2018-06" to="2018-07">Reviewed edition for content and scholarship</resp>
+          <resp from="2018-06" to="2018-07">Wrote reader report</resp>
+        </respStmt>
+        <respStmt>
+          <persName>Price, Eleanor</persName>
+          <resp from="2024-03" to="2024-05">Audited documents prior to print/export</resp>
+          <resp from="2023-02" to="2023-11">Copyedited and proofread</resp>
+          <resp from="2023-11" to="2023-11">Ensured adherence to METS Style Guide</resp>
+          <resp from="2023-02" to="2023-11">Entered corrections for digital edition</resp>
+          <resp from="2023-02" to="2023-11">Entered corrections for print edition</resp>
+          <resp from="2023-02" to="2023-11">Formatted for print edition</resp>
+          <resp from="2023-02" to="2023-11">Formatted for XML export</resp>
+          <resp from="2024-05" to="2024-06">Encoded TEI</resp>
+        </respStmt>
+        <respStmt>
+          <persName>Yee, Pamela M.</persName>
+          <resp from="2018-07" to="2024-01">Audited documents prior to print/export</resp>
+          <resp from="2018-07" to="2018-09">Checked and corrected bibliographic references</resp>
+          <resp>Collated and entered corrections</resp>
+          <resp from="2023-11" to="2023-11">Collected metadata</resp>
+          <resp from="2018-07" to="2018-09">Copyedited and proofread</resp>
+          <resp from="2018-07" to="2018-09">Ensured adherence to METS Style Guide</resp>
+          <resp from="2018-07" to="2018-09">Reviewed edition for consistency and audience</resp>
+          <resp from="2018-07" to="2018-09">Wrote reader report</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition>Encoded in TEI in 2024</edition>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>The Rossell Hope Robbins Library, University of Rochester</publisher>
+        <pubPlace>Rochester, NY</pubPlace>
+        <address>
+          <addrLine>https://www.library.rochester.edu/spaces/robbins</addrLine>
+        </address>
+        <publisher>The Department of English, University of Rochester</publisher>
+        <pubPlace>Rochester, NY</pubPlace>
+        <address>
+          <addrLine>https://www.sas.rochester.edu/eng/</addrLine>
+        </address>
+        <publisher>TEAMS: Teaching Association for Medieval Studies</publisher>
+        <address>
+          <addrLine>https://teams-medieval.org/about/</addrLine>
+        </address>
+        <distributor>The Rossell Hope Robbins Library, University of Rochester</distributor>
+        <pubPlace>Rochester, NY</pubPlace>
+        <address>
+          <addrLine>https://www.library.rochester.edu/spaces/robbins</addrLine>
+        </address>
+        <availability status="restricted">
+          <p>Downloading shall be restricted to one copy for private use.</p>
+        </availability>
+        <date/>
+      </publicationStmt>
+      <seriesStmt>
+        <title level="s">The Middle English Text Series</title>
+        <respStmt>
+          <persName>Ralph Arbelo</persName>
+          <orgName>University of Rochester</orgName>
+          <resp>IT Support Specialist, Techincal Support Staff</resp>
+        </respStmt>
+        <respStmt>
+          <persName>Mead Bowen</persName>
+          <orgName>University of Rochester</orgName>
+          <resp>Staff Editor, Editorial Staff</resp>
+        </respStmt>
+        <respStmt>
+          <persName>Katherine Briant</persName>
+          <orgName>University of Rochester</orgName>
+          <resp>Staff Editor, Editorial Staff</resp>
+        </respStmt>
+        <respStmt>
+          <persName>Theresa Coletti</persName>
+          <orgName>University of Maryland</orgName>
+          <resp>Member, Advisory Board</resp>
+        </respStmt>
+        <respStmt>
+          <persName>Ashley R. Conklin</persName>
+          <orgName>University of Rochester</orgName>
+          <resp>Staff Editor, Editorial Staff</resp>
+        </respStmt>
+        <respStmt>
+          <persName>Rita Copeland</persName>
+          <orgName>University of Pennsylvania</orgName>
+          <resp>Member, Advisory Board</resp>
+        </respStmt>
+        <respStmt>
+          <persName>Steffi Delcourt</persName>
+          <orgName>University of Rochester</orgName>
+          <resp>Staff Editor, Editorial Staff</resp>
+        </respStmt>
+        <respStmt>
+          <persName>Joe Easterly</persName>
+          <orgName>University of Rochester</orgName>
+          <resp>IT Support Specialist, Technical Support Staff</resp>
+        </respStmt>
+        <respStmt>
+          <persName>Susanna Fein</persName>
+          <orgName>Kent State University</orgName>
+          <resp>Member, Advisory Board</resp>
+        </respStmt>
+        <respStmt>
+          <persName>Sue Gleason</persName>
+          <orgName>University of Rochester</orgName>
+          <resp>IT Support Specialist, Techincal Support Staff</resp>
+        </respStmt>
+        <respStmt>
+          <persName>Thomas G. Hahn</persName>
+          <orgName>University of Rochester</orgName>
+          <resp>Member, Advisory Board</resp>
+        </respStmt>
+        <respStmt>
+          <persName>David A. Lawton</persName>
+          <orgName>Washington University in St. Louis</orgName>
+          <resp>Member, Advisory Board</resp>
+        </respStmt>
+        <respStmt>
+          <persName>Michael Livingston</persName>
+          <orgName>The Citadel</orgName>
+          <resp>Member, Advisory Board</resp>
+        </respStmt>
+        <respStmt>
+          <persName>Alan Lupack</persName>
+          <orgName>University of Rochester</orgName>
+          <resp>Associate Editor, Editorial Board</resp>
+        </respStmt>
+        <respStmt>
+          <persName>Andrea Noto</persName>
+          <orgName>University of Rochester</orgName>
+          <resp>IT Support Specialist, Techincal Support Staff</resp>
+        </respStmt>
+        <respStmt>
+          <persName>Katie Papas</persName>
+          <orgName>University of Rochester</orgName>
+          <resp>Section Supervisor, The Robbins Library, Technical Support Staff</resp>
+        </respStmt>
+        <respStmt>
+          <persName>Russell A. Peck</persName>
+          <orgName>University of Rochester</orgName>
+          <resp>General Editor, Editorial Board</resp>
+        </respStmt>
+        <respStmt>
+          <persName>Eve Salisbury</persName>
+          <orgName>Western Michigan University</orgName>
+          <resp>Member, Advisory Board</resp>
+        </respStmt>
+        <respStmt>
+          <persName>Nathan Sarr</persName>
+          <orgName>University of Rochester</orgName>
+          <resp>IT Support Specialist, Techincal Support Staff</resp>
+        </respStmt>
+        <respStmt>
+          <persName>R. A. Shoaf</persName>
+          <orgName>University of Florida</orgName>
+          <resp>Member, Advisory Board</resp>
+        </respStmt>
+        <respStmt>
+          <persName>Lynn Staley</persName>
+          <orgName>Colgate University</orgName>
+          <resp>Member, Advisory Board</resp>
+        </respStmt>
+        <respStmt>
+          <persName>Bonnie Wheeler</persName>
+          <orgName>Southern Methodist University</orgName>
+          <resp>Member, Advisory Board</resp>
+        </respStmt>
+        <respStmt>
+          <persName>Pamela M. Yee</persName>
+          <orgName>University of Rochester</orgName>
+          <resp>Assistant Editor, Editorial Board</resp>
+        </respStmt>
+      </seriesStmt>
+      <sourceDesc>
+        <biblStruct>
+          <monogr>
+            <author>Lydgate, John</author>
+            <author>Unknown</author>
+            <editor>Cook, Megan L.</editor>
+            <editor>Strakhov, Elizaveta</editor>
+            <editor role="translator">Strakhov, Elizaveta</editor>
+            <title>John Lydgate's Dance of Death and Related Works</title>
+            <imprint>
+              <publisher>Medieval Institute Publications</publisher>
+              <pubPlace>Kalamazoo, MI</pubPlace>
+              <date>2019</date>
+            </imprint>
+          </monogr>
+        </biblStruct>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>The Middle English Texts Series offers a diverse and representative array of literary
+          texts that medieval readers in the present-day British Isles would have encountered
+          between the twelfth and sixteenth centuries. It is committed to making available both
+          affordable print and open access editions to scholars, teachers, and students of the
+          Western Middle Ages. In its digital publications, the series prioritizes a user-friendly
+          interface and viewing options, multiple downloadable formats, enhanced searchability and
+          filtering, and accessibility to the widest possible range of users.</p>
       </projectDesc>
       <editorialDecl>
-        <p>METS takes as its mission the creation of affordable editions that would pass scrutiny from the most demanding expert, yet would prove comprehensible, and even enticing, to someone who had never read Middle English before. This agenda dictates that METS publications offer not a critical edition reflecting all surviving manuscripts, and certainly not a diplomatic edition, but a best-text edition, informed by the notes and apparatus of earlier editions (where these exist), and by substantive variants from other manuscript witnesses. Transcriptions of Middle English texts are lightly modernized to ensure a smooth reading experience, while non-English texts preserve both the original language and a modern English translation in facing-page format. Each edition offers expert assistance with language and lexicon, providing glosses alongside the text(s), textual and explanatory notes, elucidation of unfamiliar contexts and traditions, and thematic and interpretive possibilities. All editions feature general introductions that set the edited text within its own time, place, and traditions, and link it to ancestor, congener, and successor materials. All publications contain comprehensive, current bibliographies of pertinent scholarship and criticism. House style is adapted from the <hi rend="italic">Chicago Manual of Style</hi>.</p><correction>
-          <p>This text may include corrections made after the original edition went to press in order to correct errors and improve glosses. For a full list of editorial and typographical corrections made to this edition, please view its correction log on Github: https://github.com/mets-editions/cook-lydgate/blob/main/cook-lydgate-export-corrections-log.docx</p>
-        </correction></editorialDecl><schemaRef url="https://metseditions.org/schema/mets-editions.xsd"/>
- </encodingDesc><profileDesc><langUsage><language ident="en">English, Modern (1500-present)</language></langUsage></profileDesc><revisionDesc><change>Encoded in HTML</change></revisionDesc></teiHeader>
-    <text><body xmlns="http://www.tei-c.org/ns/1.0"><anchor xml:id="Cook-Lydgate-40-French-Danse-Headnote"/><div type="text">
- <p style="heading2" n="1">Choice of Base Manuscript</p>
- <p style="bodyfirst" n="1">The French <hi rend="italic">Danse macabre</hi> is extant in fifteen manuscripts, the earliest dating from 1426–27 (see Headnote in Textual Notes) and the rest falling between the mid-late fifteenth century, nineteen incunabula printed from 1485 to 1500 alone, and one sixteenth-century manuscript that is a copy of an incunabulum (Paris, Bibliothèque Mazarine, MS 3896, copying Marchant’s edition of 1490). Authorship of the <hi rend="italic">Danse</hi> remains uncertain, but several scholars have pointed to the fact that in Paris, Bibliothèque nationale de France lat. 14904, dated to c. 1440 by Gilbert Ouy (<hi rend="italic">Les manuscrits </hi><hi rend="italic">de l’Abbaye de Saint-Victor</hi>, 2.327–28), the <hi rend="italic">Danse</hi> is specified in the contemporary table of contents as being the text as copied from the Cemetery of the Holy Innocents and is collocated with texts by Jean Gerson (1363–1429) and Nicolas de Clemanges (1360–1437). Meanwhile, a Catalàn translation of the <hi rend="italic">Danse</hi>, made at the end of the fifteenth century by Pedro Miguel de Carbonell, ends with a <hi rend="italic">verba translatoris</hi> (words of the translator) alleging his source to have been penned by “un sant home doctor e Canceller de Paris en lengua francesa apellat Joannes Climachus sive Climages” (a devout man, a doctor and clerk of Paris in French named Joannes Climachus or Climages) (Saugnieux, <hi rend="italic">Les danses macabres de France</hi><hi rend="italic"> et d’Espagne</hi>, p. 25). This coincidence has suggested to Maya Dujakovic (“The Dance of Death, the Dance of Life,” pp. 222–27) that the work was or was believed to come from the circles of Jean Gerson (who was a chancellor at the University of Paris) and Nicolas de Clemanges. However, Jöel Saugnieux (<hi rend="italic">Les danses macabres de France et</hi><hi rend="italic"> d’Espagne</hi>, pp. 54–55) and Sophie Oosterwijk (“Of Dead Kings,” pp. 153–54) advance objections to this argument, citing the circumstantial quality of the evidence.</p>
- <p style="body" n="1">The <hi rend="italic">Danse macabre</hi> is clearly Lydgate’s direct source for the <hi rend="italic">Dance of Death</hi>, as he alleges in his opening <hi rend="italic">verba translatoris</hi> in the A version, in which he describes seeing “Machabres Daunce” (A version, line 24) at “Seint Innocentis” (A version, line 35). In most manuscripts of the <hi rend="italic">Danse</hi>, the opening and closing stanzas of the work are spoken by an authority figure variously named “docteur,” “l’acteur,” or “maistre.” In Paris, Bibliothèque nationale de France, fr. 14989, a manuscript belonging to Philip the Good, Duke of Burgundy, however, this speaker is explicitly identified as “Machabre Docteur.” (According to Kurtz [<hi rend="italic">Dance of Death </hi><hi rend="italic">and the Macabre Spirit</hi>, p. 23], the same speaker marker occurs at the end of the text in Paris, Bibliothèque nationale de France, naf. 10032; we have not, unfortunately, been able to verify this through consultation of the original manuscript.) Lydgate calls the same character “Machabre the Doctour” (A version, before line 641). Hanno Wijsman dates the French manuscript of the <hi rend="italic">Danse</hi> containing the “Machabre docteur” speaker marker to 1426 or 1427 on the basis of its watermark; he further shows that it was once bound with the <hi rend="italic">Division </hi><hi rend="italic">des Orleanois contre les Anglois</hi>, which treats the death of Thomas Montacute, Duke of Salisbury, who died in 1428. These details place BNF MS fr. 14989 in Paris right after the <hi rend="italic">Danse macabre</hi> mural was finished and during or just after Lydgate’s visit in 1426. Wijsman goes on to argue that the unique level of visual detail in this manuscript version’s speaker markers suggests that it may have been copied directly from the mural, which the scribe aimed to verbally describe in his otherwise unillustrated copy (see “Un manuscrit de Philippe Le Bon”). In addition, the order of speakers in the A version of Lydgate’s <hi rend="italic">Dance</hi> matches the order of speakers in this and other manuscripts of the <hi rend="italic">Danse</hi>; Marchant’s 1485 and subsequent editions follow a slightly altered order, suggesting he was working from a different recension. This manuscript, BNF MS fr. 14989, thus seems closest to Lydgate’s source for his <hi rend="italic">Dance of Death</hi>, and we have therefore chosen to edit and translate its contents to accompany Lydgate’s text.</p>
- <p style="heading2" n="2">Lydgate’s Translation of the Danse</p>
- <p style="bodyfirst" n="2">In the A version’s final two stanzas, titled “Lenvoye de Translator” or “translator’s envoy,” Lydgate adopts the wellknown pose of the humble translator, professing his lack of “suffisaunce” (fluency, line 671) in French due to being an English native. He also invites his readers to correct his translation where it is wanting and notes that he translates “[n]ot worde by worde but folwyng the substaunce” (not word by word but following the content, line 666). This is a familiar posture of proclaimed English deference before the cultural might of literary French that mirrors Lydgate’s fellow Francophile English predecessors: see the <ref target="insert-internal-link" type="internal">notes to lines 669</ref> and <ref target="insert-internal-link" type="internal">672</ref> of the A version of Lydgate’s <hi rend="italic">Dance</hi>. Lydgate’s professed difficulties with French are belied, however, by the translation itself. Lydgate’s close attention to the language of his original yet simultaneous impulse to adapt and rewrite to vivid effect are already visible from the opening stanzas of his work. The opening stanza of the original <hi rend="italic">Danse</hi>, for example, is as follows:</p>
- <lg type="columns" n="1"><l>O, creature raisonnable,</l><l>Qui desires vie eternelle,</l><l>Tu as cy doctrine notable</l><l>Pour bien finer vie mortelle.</l><l>La danse macabre s’appelle</l><l>Que chascun a danser apprant.</l><l>A homme et femme est mort naturelle;</l><l>Mort n’espargne petit ne grant.</l><l>(lines 7–14)</l></lg>
- <lg type="columns" n="2"><l>O, creature endowed with reason,</l><l>You who long for eternal life,</l><l>You have before you an important precept</l><l>For properly ending your mortal life.</l><l>It is called the Danse macabre,</l><l>Which everyone learns to dance.</l><l>Death is natural to men and women;</l><l>Death spares neither the lowly nor the lofty.</l></lg>
- <p style="bodyfirst" n="3">In Lydgate’s rendition, we find:</p>
- <lg><l>O creatures ye that ben resonable <space rend="indent1"/><hi rend="italic">who are</hi><hi rend="italic"> reasonable</hi></l><l>The liif desiring wiche is eternal,</l><l>Ye may se here doctrine ful notable,<space rend="indent1"/><hi rend="italic">see</hi></l><l>Youre lif to lede wich that is mortal,</l><l>Therby to lerne in especial<space rend="indent1"/><hi rend="italic">in particular</hi></l><l>Howe ye shul trace the Daunce of Machabre,<space rend="indent1"/><hi rend="italic">follow</hi></l><l>To man and womman yliche natural,<space rend="indent1"/><hi rend="italic">alike</hi></l><l>For Deth ne spareth hy ne lowe degré. <space rend="indent1"/><hi rend="italic">does not spare</hi></l><l>(lines 41–48)</l></lg>
- <p style="bodyfirst" n="4">Here Lydgate’s heavy reliance on cognates has the double advantage of gesturing extensively to his French source while rendering the text into a flowing English idiom. But by adding “ye shul trace” in line 46 he subtly highlights the dynamic performative quality of the <hi rend="italic">Danse macabre</hi>, whereas the French original just presents the phrase as the text’s title. These processes — of relying on cognates but also insisting on alterations that emphasize, in particular, the active participatory quality of Death’s dance — are characteristic of Lydgate’s whole text.</p>
- <p style="body" n="2">In our own translation, we have remained as faithful as possible to the original French <hi rend="italic">Danse</hi>, and we note especially syntactically and linguistically challenging moments in our Explanatory Notes. Since the A version of Lydgate’s text is closer to the <hi rend="italic">Danse</hi> than the later B revision, all references to Lydgate refer to this version unless otherwise noted. Furthermore, this translation was intentionally done without consulting Lydgate’s own in the process, lest his word choices unduly influence the modern English renderings and thus taint the modern English with Middle English usage and, more importantly, leave a distorted impression of the closeness of Lydgate’s translation. Yet the final results, we think, speak for themselves: for all the distance between Middle and modern English, our new translation helps show that Lydgate offers a remarkably precise rendering of his French original in his instances of close translation.</p>
- <p style="body" n="3">Within our own translation, one particularly difficult decision has revolved around naming the <hi rend="italic">Danse</hi>’s representation of its deadly interlocutor. The French text renders this character as “le mort,” literally “the dead man,” a figure clearly intended to double the living persons, all male, to whom it speaks. That “le mort” is the terrifying double of the <hi rend="italic">Danse</hi>’s all-male characters is also suggested by widespread <hi rend="italic">danse macabre</hi> iconography, in which each living person is represented in conversation with his or her own emaciated and decomposing figure. In the later <hi rend="italic">Danse macabre</hi><hi rend="italic"> des femmes</hi> the figure is, fittingly, “la morte,” “the dead woman.” The French term for the abstract concept of death, meanwhile, is “la mort,” gendered female. We have nevertheless chosen to translate “le mort” as “Death” for several reasons: firstly, “the dead man” seemed aesthetically clunky; secondly, this is the term used throughout the Middle English death poetry that forms the subject of this collection, suggesting that contemporary English readers, like Lydgate, would have understood “le mort” as the abstract concept of death, despite the gendering of the term (see, for example, the illustration of Death in MS Douce 322, discussed in the Headnote to the Explanatory Notes for Lydgate’s “Death’s Warning to the World” [DIMEV 4905]). We have therefore chosen to render “le mort” by the more efficient and historically pertinent “Death,” while cognizant that there is no good method for underscoring the way in which “le mort,” in the spirit of late medieval death poetry as a whole, neatly combines the idea of death as universalized abstraction with that of death as a particularized humanoid figure that inversely mirrors the living bodies of its interlocutors.</p>
- <p style="body" n="4">Given the similarity in content between this text and Lydgate’s adaptation thereof, the reader is referred to the Explanatory Notes accompanying Lydgate’s <hi rend="italic">Dance of Death</hi> (both A and B versions) for any overlapping material. The Explanatory Notes that follow here concern details specific to this text and to this translation. The Latin here and at the end of the poem has been translated by C. J. Lambert (Columbia University), whose accompanying notes are reproduced and marked accordingly. We also thank Lucas Wood for his invaluable assistance in helping us work through some of the thornier sections of the text.</p>
- <p style="heading2" n="3">Headnote to the Textual Notes</p>
- <p style="bodyfirst" n="5">Our edition of the <hi rend="italic">Danse macabre</hi> intentionally uses an early manuscript, Paris, BNF fonds francaise MS 14989, containing the name “Machabre Docteur,” as its base-text (see <ref target="insert-internal-link" type="internal">Headnote to Explanatory Notes for the <hi rend="italic">Danse macabre</hi> on p. 139</ref>), whereas other modern editions of the <hi rend="italic">Danse</hi> all take Guyot Marchant’s 1485 and 1486 editions as their base-text. Warren also opts for a manuscript as her base-text: British Library, Additional MS 38858. Emendations of our base-text have been made simply for grammatical clarity, but we adduce the other modern editions as parallels to our editorial choices; in a few cases obviously corrupt readings have been emended in accordance with the other editions.</p>
- <p style="bodysubsection">Manuscripts:</p>
- <list rend="numbered">
- <item style="indent1">Chantilly, Bibliothèque et Archives du Château, MS 502 (<hi rend="italic">olim</hi> 1920), fols. 1r–20v.</item>
- <item style="indent1">Lille, Bibliothèque municipale, MS 139 (<hi rend="italic">olim</hi> 364), fols. 233v–39v.</item>
- <item style="indent1">London, British Library, Additional, MS 38858, fols. 2r–12r.</item>
- <item style="indent1">Paris, Bibliothèque Mazarine, 3896, fols. 237r–64v.</item>
- <item style="indent1">Paris, Bibliothèque nationale de France, fonds latin MS 14904, fols. 64r–72r.</item>
- <item style="indent1">Paris, Bibliothèque nationale de France, fonds français MS 995, fols. 1r–17r.</item>
- <item style="indent1">Paris, Bibliothèque nationale de France, fonds français MS 1055, fols. 68r–75r.</item>
- <item style="indent1">Paris, Bibliothèque nationale de France, fonds français MS 1181, fols. 137v–40v (fragment).</item>
- <item style="indent1">Paris, Bibliothèque nationale de France, fonds français MS 1186, fols. 89r–98v.</item>
- <item style="indent1">Paris, Bibliothèque nationale de France, fonds français MS 14989, fols. 1r–12v (base text for this edition).</item>
- <item style="indent1">Paris, Bibliothèque nationale de France, fonds français MS 25434, fols. 18r–35v.</item>
- <item style="indent1">Paris, Bibliothèque nationale de France, fonds français MS 25550, fols. 235r–49v.</item>
- <item style="indent1">Paris, Bibliothèque nationale de France, nouvelles acquisitions françaises MS 10032, fols. 209r–23v.</item>
- <item style="indent1">Saint-Omer, Bibliothèque municipale, MS 127, fols. 201r–06r.</item>
- <item style="indent1">Tours, Bibliothèque municipale, MS 907, fols. 99v–114v.</item>
- </list>
- <p style="bodysubsection">Incunabula:</p>
- <list rend="nobullets"><item style="indent1">For a comprehensive list of incunabula printing the <hi rend="italic">Danse macabre</hi>, see the <hi rend="italic">Universal Short Title Catalogue</hi> (<ref target="https://ustc.ac.uk/index.php/search" type="external">https://ustc.ac.uk/index.php/search</ref>), using the keyword “Danse macabre” to search.</item></list>
- <p style="bodysubsection">Editions:</p>
- <list rend="nobullets"><item style="indent1"><hi rend="italic">La grande danse macabre des hommes et des </hi><hi rend="italic">femmes precédée du dict des trois mors et </hi><hi rend="italic">des trois vifz, du debat du corps et de l’</hi><hi rend="italic">âme, et la complaincte de l’âme dampnée</hi>. Paris: Bailleu, 1862.</item></list>
- <list rend="nobullets"><item style="indent1">de Lincy, Le Roux, and L. M. Tisserand, eds. “La danse macabre reproduite textuellement d’apres l’unique exemplaire connu de l’édition princeps de Guyot Marchant (Paris, 1485) et completée avec l’édition de 1486.” In <hi rend="italic">Paris et ses historiens aux XIVe et XVe</hi><hi rend="italic"> Siècles</hi>. Paris: Imprimerie Impériale, 1867. Pp. 291–317.</item></list>
- <list rend="nobullets"><item style="indent1">Dufour, Valentin, ed. <hi rend="italic">La dance macabre peinte sous les charniers des</hi><hi rend="italic"> Saints Innocents de Paris (1425): reproduction de l’édition </hi><hi rend="italic">princeps donnée par Guyot Marchant, texte et gravures sur </hi><hi rend="italic">bois (1485)</hi>. Paris: Féchoz, 1874. Rpt. 1875. Rpt. 1891.</item></list>
- <list rend="nobullets"><item style="indent1">Champion, Pierre, ed. <hi rend="italic">La danse macabre, reproduction en facsimilé </hi><hi rend="italic">de l’édition de Guy Marchant, Paris, 1486</hi>. Paris: Éditions des Quatre Chemins, 1925.</item></list>
- <list rend="nobullets"><item style="indent1">Warren, Florence, and Beatrice White, eds. “The French Text.” In <hi rend="italic">The Dance of Death, Edited </hi><hi rend="italic">from MSS. Ellesmere 26/A.13 and B.M. Lansdowne </hi><hi rend="italic">699, Collated with the Other Extant MSS</hi>. EETS o.s. 181. London: Oxford University Press, 1931; Rpt. New York: Klaus Reprint Co., 1971. Pp. 79–96.</item></list>
- <list rend="nobullets"><item style="indent1">Chaney, Edward F., ed. <hi rend="italic">La </hi><hi rend="italic">danse macabré des charniers des Saints Innocents à Paris</hi>. Manchester: Manchester University Press, 1945.</item></list>
- <list rend="nobullets"><item style="indent1">Saugnieux, Joël, ed. “<hi rend="italic">La danse</hi><hi rend="italic"> macabre</hi> française de Guyot Marchant (1486).” In <hi rend="italic">Les danses</hi><hi rend="italic"> macabres de France et d’Espagne et leurs prolongements litt</hi><hi rend="italic">éraires</hi>. Lyon: Emmanuel Vitte, 1972. Pp. 143–64.</item></list>
- <list rend="nobullets"><item style="indent1">Kaiser, Gert, ed. and trans. “La danse macabre” in <hi rend="italic">Der tanzende Tod: Mittelalterliche</hi><hi rend="italic"> Totentänze</hi>. Frankfurt am Main: Insel-Verlag, 1982. Pp. 72–107.</item></list>
- <list rend="nobullets"><item style="indent1">Fein, David A., ed. and trans. <hi rend="italic">The </hi>Danse Macabre<hi rend="italic"> Printed by</hi><hi rend="italic"> Guyot Marchant, 1485</hi>. Tempe: Arizona Center for Medieval and Renaissance Studies, 2013.</item></list>
- </div></body></text></TEI>
+        <p>METS takes as its mission the creation of affordable editions that would pass scrutiny
+          from the most demanding expert, yet would prove comprehensible, and even enticing, to
+          someone who had never read Middle English before. This agenda dictates that METS
+          publications offer not a critical edition reflecting all surviving manuscripts, and
+          certainly not a diplomatic edition, but a best-text edition, informed by the notes and
+          apparatus of earlier editions (where these exist), and by substantive variants from other
+          manuscript witnesses. Transcriptions of Middle English texts are lightly modernized to
+          ensure a smooth reading experience, while non-English texts preserve both the original
+          language and a modern English translation in facing-page format. Each edition offers
+          expert assistance with language and lexicon, providing glosses alongside the text(s),
+          textual and explanatory notes, elucidation of unfamiliar contexts and traditions, and
+          thematic and interpretive possibilities. All editions feature general introductions that
+          set the edited text within its own time, place, and traditions, and link it to ancestor,
+          congener, and successor materials. All publications contain comprehensive, current
+          bibliographies of pertinent scholarship and criticism. House style is adapted from the <hi
+            rend="italic">Chicago Manual of Style</hi>.</p>
+        <correction>
+          <p>This text may include corrections made after the original edition went to press in
+            order to correct errors and improve glosses. For a full list of editorial and
+            typographical corrections made to this edition, please view its correction log on
+            Github:
+            https://github.com/mets-editions/cook-lydgate/blob/main/cook-lydgate-export-corrections-log.docx</p>
+        </correction>
+      </editorialDecl>
+      <schemaRef url="https://metseditions.org/schema/mets-editions.xsd"/>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English, Modern (1500-present)</language>
+      </langUsage>
+    </profileDesc>
+    <revisionDesc>
+      <change>Encoded in HTML</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body xmlns="http://www.tei-c.org/ns/1.0">
+      <anchor xml:id="Cook-Lydgate-40-French-Danse-Headnote"/>
+      <div type="text">
+        <p style="heading2" n="1">Choice of Base Manuscript</p>
+        <p style="bodyfirst" n="1">The French <hi rend="italic">Danse macabre</hi> is extant in
+          fifteen manuscripts, the earliest dating from 1426–27 (see Headnote in Textual Notes) and
+          the rest falling between the mid-late fifteenth century, nineteen incunabula printed from
+          1485 to 1500 alone, and one sixteenth-century manuscript that is a copy of an incunabulum
+          (Paris, Bibliothèque Mazarine, MS 3896, copying Marchant’s edition of 1490). Authorship of
+          the <hi rend="italic">Danse</hi> remains uncertain, but several scholars have pointed to
+          the fact that in Paris, Bibliothèque nationale de France lat. 14904, dated to c. 1440 by
+          Gilbert Ouy (<hi rend="italic">Les manuscrits </hi><hi rend="italic">de l’Abbaye de
+            Saint-Victor</hi>, 2.327–28), the <hi rend="italic">Danse</hi> is specified in the
+          contemporary table of contents as being the text as copied from the Cemetery of the Holy
+          Innocents and is collocated with texts by Jean Gerson (1363–1429) and Nicolas de Clemanges
+          (1360–1437). Meanwhile, a Catalàn translation of the <hi rend="italic">Danse</hi>, made at
+          the end of the fifteenth century by Pedro Miguel de Carbonell, ends with a <hi
+            rend="italic">verba translatoris</hi> (words of the translator) alleging his source to
+          have been penned by “un sant home doctor e Canceller de Paris en lengua francesa apellat
+          Joannes Climachus sive Climages” (a devout man, a doctor and clerk of Paris in French
+          named Joannes Climachus or Climages) (Saugnieux, <hi rend="italic">Les danses macabres de
+            France</hi><hi rend="italic"> et d’Espagne</hi>, p. 25). This coincidence has suggested
+          to Maya Dujakovic (“The Dance of Death, the Dance of Life,” pp. 222–27) that the work was
+          or was believed to come from the circles of Jean Gerson (who was a chancellor at the
+          University of Paris) and Nicolas de Clemanges. However, Jöel Saugnieux (<hi rend="italic"
+            >Les danses macabres de France et</hi><hi rend="italic"> d’Espagne</hi>, pp. 54–55) and
+          Sophie Oosterwijk (“Of Dead Kings,” pp. 153–54) advance objections to this argument,
+          citing the circumstantial quality of the evidence.</p>
+        <p style="body" n="1">The <hi rend="italic">Danse macabre</hi> is clearly Lydgate’s direct
+          source for the <hi rend="italic">Dance of Death</hi>, as he alleges in his opening <hi
+            rend="italic">verba translatoris</hi> in the A version, in which he describes seeing
+          “Machabres Daunce” (A version, line 24) at “Seint Innocentis” (A version, line 35). In
+          most manuscripts of the <hi rend="italic">Danse</hi>, the opening and closing stanzas of
+          the work are spoken by an authority figure variously named “docteur,” “l’acteur,” or
+          “maistre.” In Paris, Bibliothèque nationale de France, fr. 14989, a manuscript belonging
+          to Philip the Good, Duke of Burgundy, however, this speaker is explicitly identified as
+          “Machabre Docteur.” (According to Kurtz [<hi rend="italic">Dance of Death </hi><hi
+            rend="italic">and the Macabre Spirit</hi>, p. 23], the same speaker marker occurs at the
+          end of the text in Paris, Bibliothèque nationale de France, naf. 10032; we have not,
+          unfortunately, been able to verify this through consultation of the original manuscript.)
+          Lydgate calls the same character “Machabre the Doctour” (A version, before line 641).
+          Hanno Wijsman dates the French manuscript of the <hi rend="italic">Danse</hi> containing
+          the “Machabre docteur” speaker marker to 1426 or 1427 on the basis of its watermark; he
+          further shows that it was once bound with the <hi rend="italic">Division </hi><hi
+            rend="italic">des Orleanois contre les Anglois</hi>, which treats the death of Thomas
+          Montacute, Duke of Salisbury, who died in 1428. These details place BNF MS fr. 14989 in
+          Paris right after the <hi rend="italic">Danse macabre</hi> mural was finished and during
+          or just after Lydgate’s visit in 1426. Wijsman goes on to argue that the unique level of
+          visual detail in this manuscript version’s speaker markers suggests that it may have been
+          copied directly from the mural, which the scribe aimed to verbally describe in his
+          otherwise unillustrated copy (see “Un manuscrit de Philippe Le Bon”). In addition, the
+          order of speakers in the A version of Lydgate’s <hi rend="italic">Dance</hi> matches the
+          order of speakers in this and other manuscripts of the <hi rend="italic">Danse</hi>;
+          Marchant’s 1485 and subsequent editions follow a slightly altered order, suggesting he was
+          working from a different recension. This manuscript, BNF MS fr. 14989, thus seems closest
+          to Lydgate’s source for his <hi rend="italic">Dance of Death</hi>, and we have therefore
+          chosen to edit and translate its contents to accompany Lydgate’s text.</p>
+        <p style="heading2" n="2">Lydgate’s Translation of the Danse</p>
+        <p style="bodyfirst" n="2">In the A version’s final two stanzas, titled “Lenvoye de
+          Translator” or “translator’s envoy,” Lydgate adopts the wellknown pose of the humble
+          translator, professing his lack of “suffisaunce” (fluency, line 671) in French due to
+          being an English native. He also invites his readers to correct his translation where it
+          is wanting and notes that he translates “[n]ot worde by worde but folwyng the substaunce”
+          (not word by word but following the content, line 666). This is a familiar posture of
+          proclaimed English deference before the cultural might of literary French that mirrors
+          Lydgate’s fellow Francophile English predecessors: see the <ref
+            target="insert-internal-link" type="internal">notes to lines 669</ref> and <ref
+            target="insert-internal-link" type="internal">672</ref> of the A version of Lydgate’s
+            <hi rend="italic">Dance</hi>. Lydgate’s professed difficulties with French are belied,
+          however, by the translation itself. Lydgate’s close attention to the language of his
+          original yet simultaneous impulse to adapt and rewrite to vivid effect are already visible
+          from the opening stanzas of his work. The opening stanza of the original <hi rend="italic"
+            >Danse</hi>, for example, is as follows:</p>
+        <quote type="columns"><lg type="columns" n="1">
+          <l>O, creature raisonnable,</l>
+          <l>Qui desires vie eternelle,</l>
+          <l>Tu as cy doctrine notable</l>
+          <l>Pour bien finer vie mortelle.</l>
+          <l>La danse macabre s’appelle</l>
+          <l>Que chascun a danser apprant.</l>
+          <l>A homme et femme est mort naturelle;</l>
+          <l>Mort n’espargne petit ne grant.</l>
+          <l>(lines 7–14)</l>
+        </lg>
+        <lg type="columns" n="2">
+          <l>O, creature endowed with reason,</l>
+          <l>You who long for eternal life,</l>
+          <l>You have before you an important precept</l>
+          <l>For properly ending your mortal life.</l>
+          <l>It is called the Danse macabre,</l>
+          <l>Which everyone learns to dance.</l>
+          <l>Death is natural to men and women;</l>
+          <l>Death spares neither the lowly nor the lofty.</l>
+        </lg></quote>
+        <p style="bodyfirst" n="3">In Lydgate’s rendition, we find:</p>
+        <lg>
+          <l>O creatures ye that ben resonable <space rend="indent1"/><hi rend="italic">who
+              are</hi><hi rend="italic"> reasonable</hi></l>
+          <l>The liif desiring wiche is eternal,</l>
+          <l>Ye may se here doctrine ful notable,<space rend="indent1"/><hi rend="italic"
+            >see</hi></l>
+          <l>Youre lif to lede wich that is mortal,</l>
+          <l>Therby to lerne in especial<space rend="indent1"/><hi rend="italic">in
+            particular</hi></l>
+          <l>Howe ye shul trace the Daunce of Machabre,<space rend="indent1"/><hi rend="italic"
+              >follow</hi></l>
+          <l>To man and womman yliche natural,<space rend="indent1"/><hi rend="italic"
+            >alike</hi></l>
+          <l>For Deth ne spareth hy ne lowe degré. <space rend="indent1"/><hi rend="italic">does not
+              spare</hi></l>
+          <l>(lines 41–48)</l>
+        </lg>
+        <p style="bodyfirst" n="4">Here Lydgate’s heavy reliance on cognates has the double
+          advantage of gesturing extensively to his French source while rendering the text into a
+          flowing English idiom. But by adding “ye shul trace” in line 46 he subtly highlights the
+          dynamic performative quality of the <hi rend="italic">Danse macabre</hi>, whereas the
+          French original just presents the phrase as the text’s title. These processes — of relying
+          on cognates but also insisting on alterations that emphasize, in particular, the active
+          participatory quality of Death’s dance — are characteristic of Lydgate’s whole text.</p>
+        <p style="body" n="2">In our own translation, we have remained as faithful as possible to
+          the original French <hi rend="italic">Danse</hi>, and we note especially syntactically and
+          linguistically challenging moments in our Explanatory Notes. Since the A version of
+          Lydgate’s text is closer to the <hi rend="italic">Danse</hi> than the later B revision,
+          all references to Lydgate refer to this version unless otherwise noted. Furthermore, this
+          translation was intentionally done without consulting Lydgate’s own in the process, lest
+          his word choices unduly influence the modern English renderings and thus taint the modern
+          English with Middle English usage and, more importantly, leave a distorted impression of
+          the closeness of Lydgate’s translation. Yet the final results, we think, speak for
+          themselves: for all the distance between Middle and modern English, our new translation
+          helps show that Lydgate offers a remarkably precise rendering of his French original in
+          his instances of close translation.</p>
+        <p style="body" n="3">Within our own translation, one particularly difficult decision has
+          revolved around naming the <hi rend="italic">Danse</hi>’s representation of its deadly
+          interlocutor. The French text renders this character as “le mort,” literally “the dead
+          man,” a figure clearly intended to double the living persons, all male, to whom it speaks.
+          That “le mort” is the terrifying double of the <hi rend="italic">Danse</hi>’s all-male
+          characters is also suggested by widespread <hi rend="italic">danse macabre</hi>
+          iconography, in which each living person is represented in conversation with his or her
+          own emaciated and decomposing figure. In the later <hi rend="italic">Danse macabre</hi><hi
+            rend="italic"> des femmes</hi> the figure is, fittingly, “la morte,” “the dead woman.”
+          The French term for the abstract concept of death, meanwhile, is “la mort,” gendered
+          female. We have nevertheless chosen to translate “le mort” as “Death” for several reasons:
+          firstly, “the dead man” seemed aesthetically clunky; secondly, this is the term used
+          throughout the Middle English death poetry that forms the subject of this collection,
+          suggesting that contemporary English readers, like Lydgate, would have understood “le
+          mort” as the abstract concept of death, despite the gendering of the term (see, for
+          example, the illustration of Death in MS Douce 322, discussed in the Headnote to the
+          Explanatory Notes for Lydgate’s “Death’s Warning to the World” [DIMEV 4905]). We have
+          therefore chosen to render “le mort” by the more efficient and historically pertinent
+          “Death,” while cognizant that there is no good method for underscoring the way in which
+          “le mort,” in the spirit of late medieval death poetry as a whole, neatly combines the
+          idea of death as universalized abstraction with that of death as a particularized humanoid
+          figure that inversely mirrors the living bodies of its interlocutors.</p>
+        <p style="body" n="4">Given the similarity in content between this text and Lydgate’s
+          adaptation thereof, the reader is referred to the Explanatory Notes accompanying Lydgate’s
+            <hi rend="italic">Dance of Death</hi> (both A and B versions) for any overlapping
+          material. The Explanatory Notes that follow here concern details specific to this text and
+          to this translation. The Latin here and at the end of the poem has been translated by C.
+          J. Lambert (Columbia University), whose accompanying notes are reproduced and marked
+          accordingly. We also thank Lucas Wood for his invaluable assistance in helping us work
+          through some of the thornier sections of the text.</p>
+        <p style="heading2" n="3">Headnote to the Textual Notes</p>
+        <p style="bodyfirst" n="5">Our edition of the <hi rend="italic">Danse macabre</hi>
+          intentionally uses an early manuscript, Paris, BNF fonds francaise MS 14989, containing
+          the name “Machabre Docteur,” as its base-text (see <ref target="insert-internal-link"
+            type="internal">Headnote to Explanatory Notes for the <hi rend="italic">Danse
+              macabre</hi> on p. 139</ref>), whereas other modern editions of the <hi rend="italic"
+            >Danse</hi> all take Guyot Marchant’s 1485 and 1486 editions as their base-text. Warren
+          also opts for a manuscript as her base-text: British Library, Additional MS 38858.
+          Emendations of our base-text have been made simply for grammatical clarity, but we adduce
+          the other modern editions as parallels to our editorial choices; in a few cases obviously
+          corrupt readings have been emended in accordance with the other editions.</p>
+        <p style="bodysubsection">Manuscripts:</p>
+        <list rend="numbered">
+          <item style="indent1">Chantilly, Bibliothèque et Archives du Château, MS 502 (<hi
+              rend="italic">olim</hi> 1920), fols. 1r–20v.</item>
+          <item style="indent1">Lille, Bibliothèque municipale, MS 139 (<hi rend="italic">olim</hi>
+            364), fols. 233v–39v.</item>
+          <item style="indent1">London, British Library, Additional, MS 38858, fols. 2r–12r.</item>
+          <item style="indent1">Paris, Bibliothèque Mazarine, 3896, fols. 237r–64v.</item>
+          <item style="indent1">Paris, Bibliothèque nationale de France, fonds latin MS 14904, fols.
+            64r–72r.</item>
+          <item style="indent1">Paris, Bibliothèque nationale de France, fonds français MS 995,
+            fols. 1r–17r.</item>
+          <item style="indent1">Paris, Bibliothèque nationale de France, fonds français MS 1055,
+            fols. 68r–75r.</item>
+          <item style="indent1">Paris, Bibliothèque nationale de France, fonds français MS 1181,
+            fols. 137v–40v (fragment).</item>
+          <item style="indent1">Paris, Bibliothèque nationale de France, fonds français MS 1186,
+            fols. 89r–98v.</item>
+          <item style="indent1">Paris, Bibliothèque nationale de France, fonds français MS 14989,
+            fols. 1r–12v (base text for this edition).</item>
+          <item style="indent1">Paris, Bibliothèque nationale de France, fonds français MS 25434,
+            fols. 18r–35v.</item>
+          <item style="indent1">Paris, Bibliothèque nationale de France, fonds français MS 25550,
+            fols. 235r–49v.</item>
+          <item style="indent1">Paris, Bibliothèque nationale de France, nouvelles acquisitions
+            françaises MS 10032, fols. 209r–23v.</item>
+          <item style="indent1">Saint-Omer, Bibliothèque municipale, MS 127, fols. 201r–06r.</item>
+          <item style="indent1">Tours, Bibliothèque municipale, MS 907, fols. 99v–114v.</item>
+        </list>
+        <p style="bodysubsection">Incunabula:</p>
+        <list rend="nobullets">
+          <item style="indent1">For a comprehensive list of incunabula printing the <hi
+              rend="italic">Danse macabre</hi>, see the <hi rend="italic">Universal Short Title
+              Catalogue</hi> (<ref target="https://ustc.ac.uk/index.php/search" type="external"
+              >https://ustc.ac.uk/index.php/search</ref>), using the keyword “Danse macabre” to
+            search.</item>
+        </list>
+        <p style="bodysubsection">Editions:</p>
+        <list rend="nobullets">
+          <item style="indent1"><hi rend="italic">La grande danse macabre des hommes et des </hi><hi
+              rend="italic">femmes precédée du dict des trois mors et </hi><hi rend="italic">des
+              trois vifz, du debat du corps et de l’</hi><hi rend="italic">âme, et la complaincte de
+              l’âme dampnée</hi>. Paris: Bailleu, 1862.</item>
+        </list>
+        <list rend="nobullets">
+          <item style="indent1">de Lincy, Le Roux, and L. M. Tisserand, eds. “La danse macabre
+            reproduite textuellement d’apres l’unique exemplaire connu de l’édition princeps de
+            Guyot Marchant (Paris, 1485) et completée avec l’édition de 1486.” In <hi rend="italic"
+              >Paris et ses historiens aux XIVe et XVe</hi><hi rend="italic"> Siècles</hi>. Paris:
+            Imprimerie Impériale, 1867. Pp. 291–317.</item>
+        </list>
+        <list rend="nobullets">
+          <item style="indent1">Dufour, Valentin, ed. <hi rend="italic">La dance macabre peinte sous
+              les charniers des</hi><hi rend="italic"> Saints Innocents de Paris (1425):
+              reproduction de l’édition </hi><hi rend="italic">princeps donnée par Guyot Marchant,
+              texte et gravures sur </hi><hi rend="italic">bois (1485)</hi>. Paris: Féchoz, 1874.
+            Rpt. 1875. Rpt. 1891.</item>
+        </list>
+        <list rend="nobullets">
+          <item style="indent1">Champion, Pierre, ed. <hi rend="italic">La danse macabre,
+              reproduction en facsimilé </hi><hi rend="italic">de l’édition de Guy Marchant, Paris,
+              1486</hi>. Paris: Éditions des Quatre Chemins, 1925.</item>
+        </list>
+        <list rend="nobullets">
+          <item style="indent1">Warren, Florence, and Beatrice White, eds. “The French Text.” In <hi
+              rend="italic">The Dance of Death, Edited </hi><hi rend="italic">from MSS. Ellesmere
+              26/A.13 and B.M. Lansdowne </hi><hi rend="italic">699, Collated with the Other Extant
+              MSS</hi>. EETS o.s. 181. London: Oxford University Press, 1931; Rpt. New York: Klaus
+            Reprint Co., 1971. Pp. 79–96.</item>
+        </list>
+        <list rend="nobullets">
+          <item style="indent1">Chaney, Edward F., ed. <hi rend="italic">La </hi><hi rend="italic"
+              >danse macabré des charniers des Saints Innocents à Paris</hi>. Manchester: Manchester
+            University Press, 1945.</item>
+        </list>
+        <list rend="nobullets">
+          <item style="indent1">Saugnieux, Joël, ed. “<hi rend="italic">La danse</hi><hi
+              rend="italic"> macabre</hi> française de Guyot Marchant (1486).” In <hi rend="italic"
+              >Les danses</hi><hi rend="italic"> macabres de France et d’Espagne et leurs
+              prolongements litt</hi><hi rend="italic">éraires</hi>. Lyon: Emmanuel Vitte, 1972. Pp.
+            143–64.</item>
+        </list>
+        <list rend="nobullets">
+          <item style="indent1">Kaiser, Gert, ed. and trans. “La danse macabre” in <hi rend="italic"
+              >Der tanzende Tod: Mittelalterliche</hi><hi rend="italic"> Totentänze</hi>. Frankfurt
+            am Main: Insel-Verlag, 1982. Pp. 72–107.</item>
+        </list>
+        <list rend="nobullets">
+          <item style="indent1">Fein, David A., ed. and trans. <hi rend="italic">The </hi>Danse
+              Macabre<hi rend="italic"> Printed by</hi><hi rend="italic"> Guyot Marchant, 1485</hi>.
+            Tempe: Arizona Center for Medieval and Renaissance Studies, 2013.</item>
+        </list>
+      </div>
+    </body>
+  </text>
+</TEI>
