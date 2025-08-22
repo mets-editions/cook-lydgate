@@ -2,7 +2,7 @@
 
 This repository is for the edition _John Lydgate's Dance of Death and Related Works_, edited by Megan L. Cook and Elizaveta Strakhov. It contains:
 
-- TEI-XML files of the digital edition. Last file updated: 01/13/2025
+- TEI-XML files of the digital edition. Last file updated: 08/22/2025
 
 - A PDF of the entire edition. Current version: 10/01/2024
 
